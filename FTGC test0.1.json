@@ -1,6 +1,6 @@
 {
   "name": "Frontiers TCG",
-  "menuBackgroundImage": "https://frontierstcg.notion.site/image/attachment%3Aaacb6292-9af3-4bad-b134-fb6c54eb5523%3AWallpaper2.png?table=block&id=217ff10c-a08b-8030-8e88-debfc22e1e5d&spaceId=580ff10c-a08b-8113-98de-00037ae9e6e3&width=2000&userId=&cache=v2",
+  "menuBackgroundImage": "https://img.notionusercontent.com/s3/prod-files-secure%2Fbdfc5228-2b2e-8131-8f35-0003a60423e1%2Fdb541c36-0ca0-4384-a956-a8b757456e7e%2Ffundo_das_cartas.png/size/w=1420?exp=1764763174&sig=zaTuEwljmzPok-DB35oBmidsEMMPl2vtu-YC-Wr-qsI&id=2bdc5228-2b2e-80b9-947e-d0537ef96758&table=block",
   "defaultRessources": {
     "backgrounds": [
       "https://img.notionusercontent.com/s3/prod-files-secure%2F580ff10c-a08b-8113-98de-00037ae9e6e3%2Fe0bb1f1a-21a9-4504-aeb8-8885385d446d%2Fimage.png/size/w=2000?exp=1764763253&sig=2qT4qCviAkvWrRTIGAr09_4sAFtt9YdDo9Vj2TAZpW0&id=2bbff10c-a08b-801d-96e6-eb75cb020044&table=block",
@@ -31,14 +31,14 @@
   "gameplay": {
     "Classic": {
       "mulligan": {
-        "info": "If you have no Basic Pokemon in hand, you can draw a new hand. Your opponent draw a card for each extra time you drew a new hand compared to him.",
-        "startingHandSize": 7,
+        "info": "mulligan 1x",
+        "startingHandSize": 5,
         "drawNewHand": true,
         "putSelectionAtBottom": false,
         "drawNewSelectedCards": false
       },
       "newTurn": {
-        "drawOnStart": false,
+        "drawOnStart": true,
         "sharedTurn": false,
         "firstPlayerTokenName": "",
         "drawPerTurn": 1
@@ -88,11 +88,8 @@
       "hideFacedDownCards": true,
       "sections": {
         "customSections": [
-          "Bench",
           "Active",
-          "Stadium",
-          "Prize_1",
-          "Prize_2"
+          "Stadium"
         ],
         "layout": {
           "direction": "row",
