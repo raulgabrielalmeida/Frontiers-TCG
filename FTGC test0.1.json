@@ -112,36 +112,10 @@
                     {
                       "section": "Active",
                       "style": {
-                        "marginRight": "20vh",
-                        "marginLeft": "5vh"
                       }
                     }
                   ],
                   "isSymetricalForOpponents": true
-                },
-                {
-                  "section": "Bench",
-                  "style": {
-                    "marginTop": "0.35rem"
-                  }
-                }
-              ],
-              "isSymetricalForOpponents": false
-            },
-            {
-              "direction": "column",
-              "style": {
-                "width": "22vh",
-                "justifyContent": "start"
-              },
-              "content": [
-                {
-                  "section": "Prize_1",
-                  "style": false
-                },
-                {
-                  "section": "Prize_2",
-                  "style": false
                 }
               ],
               "isSymetricalForOpponents": false
