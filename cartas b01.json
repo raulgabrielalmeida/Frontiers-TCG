@@ -61,7 +61,7 @@
         "name": "tp",
         "type": "",
         "cost": 2,
-        "image": "",
+        "image": "https://img.notionusercontent.com/s3/prod-files-secure%2F580ff10c-a08b-8113-98de-00037ae9e6e3%2F4d4d6f8f-2003-4e80-883f-29e6657ea3ac%2FFRTS_-_116_-_Teletransporte_de_Emergncia.png/size/w=1140?exp=1764782789&sig=4im1MPX2v6V8YVOBskiduxwI_OuCocnAvok-6Naaaqs&id=27cff10c-a08b-80c6-9310-cd96c1fc3be6&table=block",
         "isHorizontal": false
       }
     },
@@ -73,5 +73,6 @@
   }
   
 }
+
 
 
