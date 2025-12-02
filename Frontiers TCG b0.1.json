@@ -22,14 +22,14 @@
     ],
     "formats": [
       {
-        "title": "Classic",
-        "gameplay": "Classic",
+        "title": "classic",
+        "gameplay": "classic",
         "customCategories": []
       }
     ]
   },
   "gameplay": {
-    "Classic": {
+    "classic": {
       "mulligan": {
         "info": "Reembaralha se quiser",
         "startingHandSize": 5,
