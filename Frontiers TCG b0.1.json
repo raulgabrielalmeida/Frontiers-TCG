@@ -12,7 +12,7 @@
   "cardRotation": "45",
   "cards": {
     "dataUrl": "https://raw.githubusercontent.com/raulgabrielalmeida/TCG-Arena/refs/heads/main/CARTAS%20TESTE.json",
-    "cardBack": "https://img.notionusercontent.com/s3/prod-files-secure%2Fbdfc5228-2b2e-8131-8f35-0003a60423e1%2Fdb541c36-0ca0-4384-a956-a8b757456e7e%2Ffundo_das_cartas.png/size/w=1420?exp=1764779768&sig=h7gEKGrlQP-KwkM14nbdrNMfUp5L7QHBdRRQ9ea2KMk&id=2bdc5228-2b2e-80b9-947e-d0537ef96758&table=block"
+    "cardBack": "https://raw.githubusercontent.com/raulgabrielalmeida/Frontiers-TCG/refs/heads/main/src/back.png"
   },
   "deckBuilding": {
     "mainFilters": [
