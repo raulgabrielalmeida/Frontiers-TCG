@@ -1,0 +1,205 @@
+{
+  "name": "TESTETCG ",
+  "menuBackgroundImage": "https://img.notionusercontent.com/s3/prod-files-secure%2Fbdfc5228-2b2e-8131-8f35-0003a60423e1%2Fdb541c36-0ca0-4384-a956-a8b757456e7e%2Ffundo_das_cartas.png/size/w=1420?exp=1764763174&sig=zaTuEwljmzPok-DB35oBmidsEMMPl2vtu-YC-Wr-qsI&id=2bdc5228-2b2e-80b9-947e-d0537ef96758&table=block",
+  "defaultRessources": {
+    "backgrounds": [
+      "https://img.notionusercontent.com/s3/prod-files-secure%2F580ff10c-a08b-8113-98de-00037ae9e6e3%2Fe0bb1f1a-21a9-4504-aeb8-8885385d446d%2Fimage.png/size/w=2000?exp=1764763253&sig=2qT4qCviAkvWrRTIGAr09_4sAFtt9YdDo9Vj2TAZpW0&id=2bbff10c-a08b-801d-96e6-eb75cb020044&table=block",
+      "https://img.notionusercontent.com/s3/prod-files-secure%2F580ff10c-a08b-8113-98de-00037ae9e6e3%2Fa205e919-3f26-466b-a0ed-51836f948f16%2Fimage.png/size/w=2000?exp=1764763267&sig=kxaFl6ss7pnO50Ml27dVgtBzNMYqXmbB8HMVCVIhNys&id=2bbff10c-a08b-80c0-a99b-d144b6127824&table=block"
+    ],
+    "decksUrl": ""
+  },
+  "customHelp": "",
+  "cardRotation": "45",
+  "cards": {
+    "dataUrl": "https://raw.githubusercontent.com/raulgabrielalmeida/TCG-Arena/refs/heads/main/CARTAS%20TESTE.json",
+    "cardBack": "https://img.notionusercontent.com/s3/prod-files-secure%2Fbdfc5228-2b2e-8131-8f35-0003a60423e1%2Fdb541c36-0ca0-4384-a956-a8b757456e7e%2Ffundo_das_cartas.png/size/w=1420?exp=1764779768&sig=h7gEKGrlQP-KwkM14nbdrNMfUp5L7QHBdRRQ9ea2KMk&id=2bdc5228-2b2e-80b9-947e-d0537ef96758&table=block"
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "name",
+      "type",
+      "category"
+    ],
+    "formats": [
+      {
+        "title": "Classic",
+        "gameplay": "Classic",
+        "customCategories": []
+      }
+    ]
+  },
+  "gameplay": {
+    "Classic": {
+      "mulligan": {
+        "info": "Reembaralha se quiser",
+        "startingHandSize": 5,
+        "drawNewHand": true,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": false
+      },
+      "newTurn": {
+        "drawOnStart": true,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": 1
+      },
+      "defaultNotes": "",
+      "tokens": [],
+      "draggableTokens": [
+        {
+          "id": "Asleep",
+          "name": "Asleep token",
+          "image": "https://valcur.github.io/TCG-Arena-Pokemon/Images/Tokens/Asleep.png"
+        },
+        {
+          "id": "Burned",
+          "name": "Burned token",
+          "image": "https://valcur.github.io/TCG-Arena-Pokemon/Images/Tokens/Burned.png"
+        },
+        {
+          "id": "Fainted",
+          "name": "Fainted token",
+          "image": "https://valcur.github.io/TCG-Arena-Pokemon/Images/Tokens/Fainted.png"
+        },
+        {
+          "id": "Frozen",
+          "name": "Frozen token",
+          "image": "https://valcur.github.io/TCG-Arena-Pokemon/Images/Tokens/Frozen.png"
+        },
+        {
+          "id": "Paralysis",
+          "name": "Paralysis token",
+          "image": "https://valcur.github.io/TCG-Arena-Pokemon/Images/Tokens/Paralysis.png"
+        },
+        {
+          "id": "Poisoned",
+          "name": "Poisoned token",
+          "image": "https://valcur.github.io/TCG-Arena-Pokemon/Images/Tokens/Poisoned.png"
+        },
+        {
+          "id": "BadPoisoned",
+          "name": "Badly poisoned token",
+          "image": "https://valcur.github.io/TCG-Arena-Pokemon/Images/Tokens/BadPoisoned.png"
+        }
+      ],
+      "countersStartingValues": [
+        0
+      ],
+      "hideFacedDownCards": true,
+      "sections": {
+        "customSections": [
+          "Active",
+          "Stadium"
+        ],
+        "layout": {
+          "direction": "row",
+          "isSymetricalForOpponents": true,
+          "content": [
+            {
+              "direction": "column",
+              "style": false,
+              "content": [
+                {
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Stadium",
+                      "style": {
+                        "width": "15vh"
+                      }
+                    },
+                    {
+                      "section": "Active",
+                      "style": {
+                        "marginRight": "20vh",
+                        "marginLeft": "5vh"
+                      }
+                    }
+                  ],
+                  "isSymetricalForOpponents": true
+                },
+                {
+                  "section": "Bench",
+                  "style": {
+                    "marginTop": "0.35rem"
+                  }
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "column",
+              "style": {
+                "width": "22vh",
+                "justifyContent": "start"
+              },
+              "isSymetricalForOpponents": false
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [],
+        "autoPlayFromHand": {
+          "field": "Stadium",
+          "magic": "Stack",
+          "char" : "Bench"
+        },
+        "autoPlayFromStack": {
+          "field": "Stadium",
+          "magic": "Stack",
+          "char" : "Bench"
+        },
+        "sectionsDict": {
+          "Bench": {
+            "title": "Bench",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": "true",
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": true,
+            "enterSpun": false
+          },
+          "Active": {
+            "title": "Active",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false,
+            "enterSpun": false
+          },
+          "Stadium": {
+            "title": "Stadium",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false,
+            "enterSpun": false
+          }
+        }
+      }
+    }
+  }
+}
