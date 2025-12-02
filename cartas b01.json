@@ -5,17 +5,17 @@
     "face": {
       "front": {
         "name": "Cranell a Lder da Brigada Estelar",
-        "type": "ÁGUA",
+        "type": "char",
         "cost": 3,
         "image": "https://frontierstcg.notion.site/image/attachment%3Aa5470b7d-9820-4b87-8fe3-364df0b6eab6%3AFRTS_-_001_-_Cranell_a_Lder_da_Brigada_Estelar.png?table=block&id=27bff10c-a08b-80ea-9e40-ff96d21856e3&width=440&userId=&cache=v2",
         "isHorizontal": false
       }
     },
     "name": "Cranell a Lider da Brigada Estelar",
-    "type": "ÁGUA",
+    "type": "Guerreiro",
     "pv": "120",
     "effect": false,
-    "category": "char"
+    "category": "water"
   },
   "A002": {
     "id": "A002",
