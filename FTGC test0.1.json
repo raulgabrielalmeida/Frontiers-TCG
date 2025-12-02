@@ -153,7 +153,7 @@
           "Stadium": {
             "title": "Stadium",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
