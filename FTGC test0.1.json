@@ -124,24 +124,14 @@
         },
         "categoriesAlreadyOnBoard": [],
         "autoPlayFromHand": {
-          "Trainer - Stadium": "Stadium",
-          "Trainer - Supporter": "Stack",
-          "Trainer - Item": "Stack",
-          "Trainer": "Stack",
-          "Pokemon": "Bench",
-          "Energy": "GROUP",
-          "Energy - Special": "GROUP",
-          "Trainer - Pokemon tool": "GROUP"
+          "field": "Stadium",
+          "magic": "Stack",
+          "char": "Active"
         },
         "autoPlayFromStack": {
-          "Trainer - Stadium": "Stadium",
-          "Trainer - Supporter": "Discard",
-          "Trainer - Item": "Discard",
-          "Trainer": "Discard",
-          "Pokemon": "Bench",
-          "Energy": "GROUP",
-          "Energy - Special": "GROUP",
-          "Trainer - Pokemon tool": "GROUP"
+          "field": "Stadium",
+          "magic": "Stack",
+          "char": "Active"
         },
         "sectionsDict": {
           "Bench": {
