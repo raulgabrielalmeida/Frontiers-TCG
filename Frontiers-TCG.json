@@ -78,7 +78,8 @@
         }
       ],
       "countersStartingValues": [
-        0
+        "12",
+        "6"
       ],
       "hideFacedDownCards": true,
       "sections": {
@@ -106,8 +107,7 @@
                     },
                     {
                       "section": "Active",
-                      "style": {
-                      }
+                      "style": {}
                     }
                   ],
                   "isSymetricalForOpponents": true
