@@ -31,7 +31,7 @@
   "gameplay": {
     "Classic": {
       "mulligan": {
-        "info": "mulligan 1x",
+        "info": "Padrão de mulligan ainda não decidido.",
         "startingHandSize": 5,
         "drawNewHand": true,
         "putSelectionAtBottom": false,
@@ -92,28 +92,12 @@
           "isSymetricalForOpponents": true,
           "content": [
             {
-              "direction": "column",
-              "style": false,
-              "content": [
-                {
-                  "direction": "row",
-                  "style": false,
-                  "content": [
-                    {
-                      "section": "Stadium",
-                      "style": {
-                        "width": "15vh"
-                      }
-                    },
-                    {
-                      "section": "Active",
-                      "style": {}
-                    }
-                  ],
-                  "isSymetricalForOpponents": true
-                }
-              ],
-              "isSymetricalForOpponents": false
+              "section": "Stadium",
+              "style": { "width": "15vh" }
+            },
+            {
+              "section": "Active",
+              "style": {}
             }
           ]
         },
