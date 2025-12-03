@@ -1,10 +1,10 @@
 {
   "name": "Frontiers TCG",
-  "menuBackgroundImage": "https://img.notionusercontent.com/s3/prod-files-secure%2F580ff10c-a08b-8113-98de-00037ae9e6e3%2Faacb6292-9af3-4bad-b134-fb6c54eb5523%2FWallpaper2.png/size/w=2000?exp=1764787199&sig=9pCwkc6Jq3M4ZgjjajaZ29eEyn1wpRak_ROBrMrnI_w&id=217ff10c-a08b-8030-8e88-debfc22e1e5d&table=block",
+  "menuBackgroundImage": "https://raw.githubusercontent.com/raulgabrielalmeida/Frontiers-TCG/refs/heads/main/src/Wallpaper.png",
   "defaultRessources": {
     "backgrounds": [
-      "https://img.notionusercontent.com/s3/prod-files-secure%2F580ff10c-a08b-8113-98de-00037ae9e6e3%2Fe0bb1f1a-21a9-4504-aeb8-8885385d446d%2Fimage.png/size/w=2000?exp=1764763253&sig=2qT4qCviAkvWrRTIGAr09_4sAFtt9YdDo9Vj2TAZpW0&id=2bbff10c-a08b-801d-96e6-eb75cb020044&table=block",
-      "https://img.notionusercontent.com/s3/prod-files-secure%2F580ff10c-a08b-8113-98de-00037ae9e6e3%2Fa205e919-3f26-466b-a0ed-51836f948f16%2Fimage.png/size/w=2000?exp=1764763267&sig=kxaFl6ss7pnO50Ml27dVgtBzNMYqXmbB8HMVCVIhNys&id=2bbff10c-a08b-80c0-a99b-d144b6127824&table=block"
+      "https://raw.githubusercontent.com/raulgabrielalmeida/Frontiers-TCG/refs/heads/main/src/playmat1.png",
+      "https://raw.githubusercontent.com/raulgabrielalmeida/Frontiers-TCG/refs/heads/main/src/playmat2.png"
     ],
     "decksUrl": ""
   },
@@ -123,7 +123,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "",
+            "displayedTitle": "SUPORTE DE CAMPO",
             "noQuickActions": false,
             "enterTapped": false,
             "isGroupForbidden": false,
@@ -139,13 +139,29 @@
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "",
+            "displayedTitle": "SUPORTE DE CAMPO",
             "noQuickActions": true,
             "enterTapped": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false,
             "enterSpun": false
+          },"Stack": {
+            "isDefaultSection": true,
+            "title": "Stack",
+            "isHidden": "no",
+            "height": "HUGE",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "displayedTitle": "efeitos",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
           }
         }
       }
