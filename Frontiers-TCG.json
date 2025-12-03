@@ -119,14 +119,16 @@
         },
         "categoriesAlreadyOnBoard": [],
         "autoPlayFromHand": {
+          "char": "Active",
           "field": "Stadium",
           "magic": "Stack",
-          "char": "Active"
+          "equip": "GROUP"
         },
         "autoPlayFromStack": {
+          "char": "Active",
           "field": "Stadium",
-          "magic": "Stack",
-          "char": "Active"
+          "magic": "Discard",
+          "equip": "GROUP"
         },
         "sectionsDict": {
           "Active": {
