@@ -17,7 +17,7 @@
     "attribute": "water",
     "class": "guerreiro",
     "pv": "120",
-    "effect": false
+    "effect": "No"
   },
   "A002": {
     "id": "A002",
@@ -37,7 +37,7 @@
     "attribute": "water",
     "class": "guerreiro",
     "pv": "90",
-    "effect": true
+    "effect": "Yes"
   },
   "A003": {
     "id": "A003",
@@ -57,7 +57,7 @@
     "attribute": "water",
     "class": "mago",
     "pv": "90",
-    "effect": true
+    "effect": "Yes"
   },
   "A004": {
     "id": "A004",
@@ -77,7 +77,7 @@
     "attribute": "water",
     "class": "guerreiro",
     "pv": "120",
-    "effect": true
+    "effect": "Yes"
   },
   "A005": {
     "id": "A005",
@@ -97,7 +97,7 @@
     "attribute": "water",
     "class": "mago",
     "pv": "70",
-    "effect": true
+    "effect": "Yes"
   },
   "A006": {
     "id": "A006",
@@ -117,7 +117,7 @@
     "attribute": "water",
     "class": "maquina",
     "pv": "50",
-    "effect": true
+    "effect": "Yes"
   },
   "A007": {
     "id": "A007",
@@ -134,7 +134,7 @@
     "name": "Campo de Batalha da Brigada Estelar",
     "type": "Suporte - Campo",
     "cost": 3,
-    "effect": true
+    "effect": "Yes"
   },
   "A008": {
     "id": "A008",
@@ -151,7 +151,7 @@
     "name": "Taticas de Guerra da Brigada Estelar",
     "type": "Suporte - Normal",
     "cost": 1,
-    "effect": true
+    "effect": "Yes"
   },
   "A009": {
     "id": "A009",
@@ -171,7 +171,7 @@
     "attribute": "fire",
     "class": "noturno",
     "pv": "170",
-    "effect": false
+    "effect": "No"
   },
   "A010": {
     "id": "A010",
@@ -191,7 +191,7 @@
     "attribute": "fire",
     "class": "noturno",
     "pv": "150",
-    "effect": true
+    "effect": "Yes"
   },
   "A011": {
     "id": "A011",
@@ -211,7 +211,7 @@
     "attribute": "fire",
     "class": "noturno",
     "pv": "130",
-    "effect": true
+    "effect": "Yes"
   },
   "A012": {
     "id": "A012",
@@ -231,7 +231,7 @@
     "attribute": "fire",
     "class": "noturno",
     "pv": "130",
-    "effect": true
+    "effect": "Yes"
   },
   "A013": {
     "id": "A013",
@@ -251,7 +251,7 @@
     "attribute": "fire",
     "class": "noturno",
     "pv": "50",
-    "effect": true
+    "effect": "Yes"
   },
   "A014": {
     "id": "A014",
@@ -271,7 +271,7 @@
     "attribute": "fire",
     "class": "noturno",
     "pv": "50",
-    "effect": true
+    "effect": "Yes"
   },
   "A015": {
     "id": "A015",
@@ -288,7 +288,7 @@
     "name": "Chamas da Discordia dos Cavaleiros Infernais",
     "type": "Suporte - Normal",
     "cost": 3,
-    "effect": true
+    "effect": "Yes"
   },
   "A016": {
     "id": "A016",
@@ -305,7 +305,7 @@
     "name": "Ordem de Ataque dos Cavaleiros Infernais",
     "type": "Suporte - Normal",
     "cost": 2,
-    "effect": true
+    "effect": "Yes"
   },
   "A017": {
     "id": "A017",
@@ -325,7 +325,7 @@
     "attribute": "light",
     "class": "mago",
     "pv": "120",
-    "effect": false
+    "effect": "No"
   },
   "A018": {
     "id": "A018",
@@ -345,7 +345,7 @@
     "attribute": "light",
     "class": "mago",
     "pv": "90",
-    "effect": true
+    "effect": "Yes"
   },
   "A019": {
     "id": "A019",
@@ -365,7 +365,7 @@
     "attribute": "light",
     "class": "mago",
     "pv": "60",
-    "effect": true
+    "effect": "Yes"
   },
   "A020": {
     "id": "A020",
@@ -385,7 +385,7 @@
     "attribute": "light",
     "class": "mago",
     "pv": "150",
-    "effect": true
+    "effect": "Yes"
   },
   "A021": {
     "id": "A021",
@@ -402,7 +402,7 @@
     "name": "A Cabana na Floresta",
     "type": "Suporte - Campo",
     "cost": 3,
-    "effect": true
+    "effect": "Yes"
   },
   "A022": {
     "id": "A022",
@@ -419,7 +419,7 @@
     "name": "Sobrecarga do Relampago Dourado",
     "type": "Suporte - Normal",
     "cost": 1,
-    "effect": true
+    "effect": "Yes"
   },
   "A023": {
     "id": "A023",
@@ -436,7 +436,7 @@
     "name": "A Chegada do Relampago Dourado",
     "type": "Suporte - Normal",
     "cost": 1,
-    "effect": true
+    "effect": "Yes"
   },
   "A024": {
     "id": "A024",
@@ -453,7 +453,7 @@
     "name": "Circulo Magico do Relampago Dourado",
     "type": "Suporte - Normal",
     "cost": 1,
-    "effect": true
+    "effect": "Yes"
   },
   "A025": {
     "id": "A025",
@@ -473,7 +473,7 @@
     "attribute": "earth",
     "class": "maquina",
     "pv": "160",
-    "effect": true
+    "effect": "Yes"
   },
   "A026": {
     "id": "A026",
@@ -493,7 +493,7 @@
     "attribute": "earth",
     "class": "maquina",
     "pv": "160",
-    "effect": true
+    "effect": "Yes"
   },
   "A027": {
     "id": "A027",
@@ -513,7 +513,7 @@
     "attribute": "earth",
     "class": "mago",
     "pv": "90",
-    "effect": true
+    "effect": "Yes"
   },
   "A028": {
     "id": "A028",
@@ -533,7 +533,7 @@
     "attribute": "earth",
     "class": "mago",
     "pv": "90",
-    "effect": true
+    "effect": "Yes"
   },
   "A029": {
     "id": "A029",
@@ -553,7 +553,7 @@
     "attribute": "earth",
     "class": "guerreiro",
     "pv": "100",
-    "effect": true
+    "effect": "Yes"
   },
   "A030": {
     "id": "A030",
@@ -573,7 +573,7 @@
     "attribute": "earth",
     "class": "guerreiro",
     "pv": "100",
-    "effect": true
+    "effect": "Yes"
   },
   "A031": {
     "id": "A031",
@@ -593,7 +593,7 @@
     "attribute": "earth",
     "class": "guerreiro",
     "pv": "90",
-    "effect": true
+    "effect": "Yes"
   },
   "A032": {
     "id": "A032",
@@ -610,7 +610,7 @@
     "name": "Walkie Talkie",
     "type": "Suporte - Normal",
     "cost": 2,
-    "effect": true
+    "effect": "Yes"
   },
   "A033": {
     "id": "A033",
@@ -627,7 +627,7 @@
     "name": "Chamado das Damas do Abismo",
     "type": "Suporte - Normal",
     "cost": 2,
-    "effect": true
+    "effect": "Yes"
   },
   "A034": {
     "id": "A034",
@@ -647,7 +647,7 @@
     "attribute": "dark",
     "class": "noturno",
     "pv": "150",
-    "effect": false
+    "effect": "No"
   },
   "A035": {
     "id": "A035",
@@ -667,7 +667,7 @@
     "attribute": "dark",
     "class": "noturno",
     "pv": "120",
-    "effect": true
+    "effect": "Yes"
   },
   "A036": {
     "id": "A036",
@@ -687,7 +687,7 @@
     "attribute": "dark",
     "class": "noturno",
     "pv": "100",
-    "effect": true
+    "effect": "Yes"
   },
   "A037": {
     "id": "A037",
@@ -707,7 +707,7 @@
     "attribute": "dark",
     "class": "noturno",
     "pv": "120",
-    "effect": true
+    "effect": "Yes"
   },
   "A038": {
     "id": "A038",
@@ -724,7 +724,7 @@
     "name": "Castelo do Senhor da Noite",
     "type": "Suporte - Campo",
     "cost": 3,
-    "effect": true
+    "effect": "Yes"
   },
   "A039": {
     "id": "A039",
@@ -741,7 +741,7 @@
     "name": "Controle Mental da Mestra do Castelo",
     "type": "Suporte - Normal",
     "cost": 1,
-    "effect": true
+    "effect": "Yes"
   },
   "A040": {
     "id": "A040",
@@ -758,7 +758,7 @@
     "name": "O Poder do Senhor da Noite",
     "type": "Suporte - Normal",
     "cost": 3,
-    "effect": true
+    "effect": "Yes"
   },
   "A041": {
     "id": "A041",
@@ -775,7 +775,7 @@
     "name": "Chamado das Sombras",
     "type": "Suporte - Normal",
     "cost": 2,
-    "effect": true
+    "effect": "Yes"
   },
   "A042": {
     "id": "A042",
@@ -792,7 +792,7 @@
     "name": "Protecao do Senhor da Noite",
     "type": "Suporte - Resposta",
     "cost": 1,
-    "effect": true
+    "effect": "Yes"
   },
   "A043": {
     "id": "A043",
@@ -812,7 +812,7 @@
     "attribute": "wind",
     "class": "mago",
     "pv": "100",
-    "effect": true
+    "effect": "Yes"
   },
   "A044": {
     "id": "A044",
@@ -832,7 +832,7 @@
     "attribute": "wind",
     "class": "guerreiro",
     "pv": "110",
-    "effect": true
+    "effect": "Yes"
   },
   "A045": {
     "id": "A045",
@@ -852,7 +852,7 @@
     "attribute": "wind",
     "class": "mago",
     "pv": "100",
-    "effect": true
+    "effect": "Yes"
   },
   "A046": {
     "id": "A046",
@@ -872,7 +872,7 @@
     "attribute": "wind",
     "class": "guerreiro",
     "pv": "150",
-    "effect": false
+    "effect": "No"
   },
   "A047": {
     "id": "A047",
@@ -892,7 +892,7 @@
     "attribute": "wind",
     "class": "besta",
     "pv": "30",
-    "effect": true
+    "effect": "Yes"
   },
   "A048": {
     "id": "A048",
@@ -909,7 +909,7 @@
     "name": "Granada de gas do Terror Toxico",
     "type": "Suporte - Normal",
     "cost": 2,
-    "effect": true
+    "effect": "Yes"
   },
   "A049": {
     "id": "A049",
@@ -926,7 +926,7 @@
     "name": "Linha de Defesa do Terror Toxico",
     "type": "Suporte - Resposta",
     "cost": 2,
-    "effect": true
+    "effect": "Yes"
   },
   "A050": {
     "id": "A050",
@@ -943,7 +943,7 @@
     "name": "Recombincao do Terror Toxico",
     "type": "Suporte - Normal",
     "cost": 2,
-    "effect": true
+    "effect": "Yes"
   },
   "A051": {
     "id": "A051",
@@ -963,7 +963,7 @@
     "attribute": "water",
     "class": "guerreio",
     "pv": "160",
-    "effect": true
+    "effect": "Yes"
   },
   "A052": {
     "id": "A052",
@@ -983,7 +983,7 @@
     "attribute": "water",
     "class": "construto",
     "pv": "100",
-    "effect": true
+    "effect": "Yes"
   },
   "A053": {
     "id": "A053",
@@ -1003,7 +1003,7 @@
     "attribute": "water",
     "class": "maquina",
     "pv": "50",
-    "effect": false
+    "effect": "No"
   },
   "A054": {
     "id": "A054",
@@ -1023,7 +1023,7 @@
     "attribute": "water",
     "class": "natureza",
     "pv": "90",
-    "effect": false
+    "effect": "No"
   },
   "A055": {
     "id": "A055",
@@ -1043,7 +1043,7 @@
     "attribute": "water",
     "class": "besta",
     "pv": "130",
-    "effect": true
+    "effect": "Yes"
   },
   "A056": {
     "id": "A056",
@@ -1063,7 +1063,7 @@
     "attribute": "water",
     "class": "natureza",
     "pv": "50",
-    "effect": true
+    "effect": "Yes"
   },
   "A057": {
     "id": "A057",
@@ -1083,7 +1083,7 @@
     "attribute": "fire",
     "class": "dragão",
     "pv": "180",
-    "effect": false
+    "effect": "No"
   },
   "A058": {
     "id": "A058",
@@ -1103,7 +1103,7 @@
     "attribute": "fire",
     "class": "construto",
     "pv": "100",
-    "effect": true
+    "effect": "Yes"
   },
   "A059": {
     "id": "A059",
@@ -1123,7 +1123,7 @@
     "attribute": "fire",
     "class": "mago",
     "pv": "100",
-    "effect": true
+    "effect": "Yes"
   },
   "A060": {
     "id": "A060",
@@ -1143,7 +1143,7 @@
     "attribute": "fire",
     "class": "mago",
     "pv": "100",
-    "effect": true
+    "effect": "Yes"
   },
   "A061": {
     "id": "A061",
@@ -1163,7 +1163,7 @@
     "attribute": "fire",
     "class": "dragão",
     "pv": "100",
-    "effect": true
+    "effect": "Yes"
   },
   "A062": {
     "id": "A062",
@@ -1183,7 +1183,7 @@
     "attribute": "fire",
     "class": "noturno",
     "pv": "90",
-    "effect": true
+    "effect": "Yes"
   },
   "A063": {
     "id": "A063",
@@ -1203,7 +1203,7 @@
     "attribute": "light",
     "class": "celestial",
     "pv": "110",
-    "effect": true
+    "effect": "Yes"
   },
   "A064": {
     "id": "A064",
@@ -1223,7 +1223,7 @@
     "attribute": "light",
     "class": "construto",
     "pv": "100",
-    "effect": true
+    "effect": "Yes"
   },
   "A065": {
     "id": "A065",
@@ -1243,7 +1243,7 @@
     "attribute": "light",
     "class": "celestial",
     "pv": "120",
-    "effect": true
+    "effect": "Yes"
   },
   "A066": {
     "id": "A066",
@@ -1263,7 +1263,7 @@
     "attribute": "light",
     "class": "celestial",
     "pv": "100",
-    "effect": true
+    "effect": "Yes"
   },
   "A067": {
     "id": "A067",
@@ -1283,7 +1283,7 @@
     "attribute": "light",
     "class": "mago",
     "pv": "70",
-    "effect": true
+    "effect": "Yes"
   },
   "A068": {
     "id": "A068",
@@ -1303,7 +1303,7 @@
     "attribute": "light",
     "class": "fada",
     "pv": "50",
-    "effect": true
+    "effect": "Yes"
   },
   "A069": {
     "id": "A069",
@@ -1323,7 +1323,7 @@
     "attribute": "neutral",
     "class": "maquina",
     "pv": "170",
-    "effect": false
+    "effect": "No"
   },
   "A070": {
     "id": "A070",
@@ -1343,7 +1343,7 @@
     "attribute": "neutral",
     "class": "mago",
     "pv": "100",
-    "effect": false
+    "effect": "No"
   },
   "A071": {
     "id": "A071",
@@ -1363,7 +1363,7 @@
     "attribute": "neutral",
     "class": "dragão",
     "pv": "170",
-    "effect": true
+    "effect": "Yes"
   },
   "A072": {
     "id": "A072",
@@ -1383,7 +1383,7 @@
     "attribute": "neutral",
     "class": "maquina",
     "pv": "100",
-    "effect": true
+    "effect": "Yes"
   },
   "A073": {
     "id": "A073",
@@ -1403,7 +1403,7 @@
     "attribute": "neutral",
     "class": "guerreiro",
     "pv": "100",
-    "effect": false
+    "effect": "No"
   },
   "A074": {
     "id": "A074",
@@ -1423,7 +1423,7 @@
     "attribute": "neutral",
     "class": "guerreiro",
     "pv": "120",
-    "effect": false
+    "effect": "No"
   },
   "A075": {
     "id": "A075",
@@ -1443,7 +1443,7 @@
     "attribute": "earth",
     "class": "natureza",
     "pv": "120",
-    "effect": true
+    "effect": "Yes"
   },
   "A076": {
     "id": "A076",
@@ -1463,7 +1463,7 @@
     "attribute": "earth",
     "class": "construto",
     "pv": "100",
-    "effect": true
+    "effect": "Yes"
   },
   "A077": {
     "id": "A077",
@@ -1483,7 +1483,7 @@
     "attribute": "earth",
     "class": "guerreiro",
     "pv": "110",
-    "effect": false
+    "effect": "No"
   },
   "A078": {
     "id": "A078",
@@ -1503,7 +1503,7 @@
     "attribute": "earth",
     "class": "natureza",
     "pv": "50",
-    "effect": true
+    "effect": "Yes"
   },
   "A079": {
     "id": "A079",
@@ -1523,7 +1523,7 @@
     "attribute": "Earth",
     "class": "natureza",
     "pv": "70",
-    "effect": false
+    "effect": "No"
   },
   "A080": {
     "id": "A080",
@@ -1543,7 +1543,7 @@
     "attribute": "Earth",
     "class": "maquina",
     "pv": "70",
-    "effect": true
+    "effect": "Yes"
   },
   "A081": {
     "id": "A081",
@@ -1563,7 +1563,7 @@
     "attribute": "dark",
     "class": "celestial",
     "pv": "150",
-    "effect": true
+    "effect": "Yes"
   },
   "A082": {
     "id": "A082",
@@ -1583,7 +1583,7 @@
     "attribute": "dark",
     "class": "constructo",
     "pv": "100",
-    "effect": true
+    "effect": "Yes"
   },
   "A083": {
     "id": "A083",
@@ -1603,7 +1603,7 @@
     "attribute": "dark",
     "class": "maquina",
     "pv": "100",
-    "effect": false
+    "effect": "No"
   },
   "A084": {
     "id": "A084",
@@ -1623,7 +1623,7 @@
     "attribute": "dark",
     "class": "mago",
     "pv": "140",
-    "effect": true
+    "effect": "Yes"
   },
   "A085": {
     "id": "A085",
@@ -1643,7 +1643,7 @@
     "attribute": "dark",
     "class": "guerreiro",
     "pv": "100",
-    "effect": true
+    "effect": "Yes"
   },
   "A086": {
     "id": "A086",
@@ -1663,7 +1663,7 @@
     "attribute": "dark",
     "class": "maquina",
     "pv": "80",
-    "effect": false
+    "effect": "No"
   },
   "A087": {
     "id": "A087",
@@ -1683,7 +1683,7 @@
     "attribute": "wind",
     "class": "maquina",
     "pv": "110",
-    "effect": false
+    "effect": "No"
   },
   "A088": {
     "id": "A088",
@@ -1703,7 +1703,7 @@
     "attribute": "wind",
     "class": "construto",
     "pv": "100",
-    "effect": true
+    "effect": "Yes"
   },
   "A089": {
     "id": "A089",
@@ -1723,7 +1723,7 @@
     "attribute": "wind",
     "class": "dragao",
     "pv": "160",
-    "effect": true
+    "effect": "Yes"
   },
   "A090": {
     "id": "A090",
@@ -1743,7 +1743,7 @@
     "attribute": "wind",
     "class": "guerreiro",
     "pv": "110",
-    "effect": false
+    "effect": "No"
   },
   "A091": {
     "id": "A091",
@@ -1763,7 +1763,7 @@
     "attribute": "wind",
     "class": "dragao",
     "pv": "90",
-    "effect": true
+    "effect": "Yes"
   },
   "A092": {
     "id": "A092",
@@ -1783,7 +1783,7 @@
     "attribute": "wind",
     "class": "besta",
     "pv": "70",
-    "effect": true
+    "effect": "Yes"
   },
   "A093": {
     "id": "A093",
@@ -1800,7 +1800,7 @@
     "name": "Mudanca de Territroio",
     "type": "Suporte - Normal",
     "cost": 1,
-    "effect": true
+    "effect": "Yes"
   },
   "A094": {
     "id": "A094",
@@ -1817,7 +1817,7 @@
     "name": "Faisca",
     "type": "Suporte - Normal",
     "cost": 1,
-    "effect": true
+    "effect": "Yes"
   },
   "A095": {
     "id": "A095",
@@ -1834,7 +1834,7 @@
     "name": "Disparo Magico",
     "type": "Suporte - Normal",
     "cost": 1,
-    "effect": true
+    "effect": "Yes"
   },
   "A096": {
     "id": "A096",
@@ -1851,7 +1851,7 @@
     "name": "Impulso de Energia",
     "type": "Suporte - Normal",
     "cost": 1,
-    "effect": true
+    "effect": "Yes"
   },
   "A097": {
     "id": "A097",
@@ -1868,7 +1868,7 @@
     "name": "Viso do Destino",
     "type": "Suporte - Normal",
     "cost": 1,
-    "effect": true
+    "effect": "Yes"
   },
   "A098": {
     "id": "A098",
@@ -1885,7 +1885,7 @@
     "name": "Passo do Vento",
     "type": "Suporte - Normal",
     "cost": 1,
-    "effect": true
+    "effect": "Yes"
   },
   "A099": {
     "id": "A099",
@@ -1902,7 +1902,7 @@
     "name": "Chamado da Noite",
     "type": "Suporte - Normal",
     "cost": 1,
-    "effect": true
+    "effect": "Yes"
   },
   "A100": {
     "id": "A100",
@@ -1919,7 +1919,7 @@
     "name": "Nucleo do Vazio Perpetuo",
     "type": "Suporte - Normal",
     "cost": 1,
-    "effect": true
+    "effect": "Yes"
   },
   "A101": {
     "id": "A101",
@@ -1936,7 +1936,7 @@
     "name": "Nucleo da Alma Incandescente",
     "type": "Suporte - Normal",
     "cost": 1,
-    "effect": true
+    "effect": "Yes"
   },
   "A102": {
     "id": "A102",
@@ -1953,7 +1953,7 @@
     "name": "Nucleo da Brisa Primordial",
     "type": "Suporte - Normal",
     "cost": 1,
-    "effect": true
+    "effect": "Yes"
   },
   "A103": {
     "id": "A103",
@@ -1970,7 +1970,7 @@
     "name": "Nucleo da Chuva Ancestral",
     "type": "Suporte - Resposta",
     "cost": 1,
-    "effect": true
+    "effect": "Yes"
   },
   "A104": {
     "id": "A104",
@@ -1987,7 +1987,7 @@
     "name": "Nucleo do Guardaiao Terreno",
     "type": "Suporte - Normal",
     "cost": 1,
-    "effect": true
+    "effect": "Yes"
   },
   "A105": {
     "id": "A105",
@@ -2004,7 +2004,7 @@
     "name": "Nucleo da Luminancia Eterna",
     "type": "Suporte - Normal",
     "cost": 1,
-    "effect": true
+    "effect": "Yes"
   },
   "A106": {
     "id": "A106",
@@ -2021,7 +2021,7 @@
     "name": "Ascenso do Escolhido",
     "type": "Suporte - Normal",
     "cost": 2,
-    "effect": true
+    "effect": "Yes"
   },
   "A107": {
     "id": "A107",
@@ -2038,7 +2038,7 @@
     "name": "Onda de Purificacao",
     "type": "Suporte - Normal",
     "cost": 2,
-    "effect": true
+    "effect": "Yes"
   },
   "A108": {
     "id": "A108",
@@ -2055,7 +2055,7 @@
     "name": "Recarga Turbulenta",
     "type": "Suporte - Normal",
     "cost": 2,
-    "effect": true
+    "effect": "Yes"
   },
   "A109": {
     "id": "A109",
@@ -2072,7 +2072,7 @@
     "name": "Rebobinar",
     "type": "Suporte - Normal",
     "cost": 2,
-    "effect": true
+    "effect": "Yes"
   },
   "A110": {
     "id": "A110",
@@ -2089,7 +2089,7 @@
     "name": "Pocao de Remocao de Status",
     "type": "Suporte - Equipamento",
     "cost": 2,
-    "effect": true
+    "effect": "Yes"
   },
   "A111": {
     "id": "A111",
@@ -2106,7 +2106,7 @@
     "name": "Pocao de Cura",
     "type": "Suporte - Normal",
     "cost": 1,
-    "effect": true
+    "effect": "Yes"
   },
   "A112": {
     "id": "A112",
@@ -2123,7 +2123,7 @@
     "name": "Medalho da Centelha Absoluta",
     "type": "Suporte - Normal",
     "cost": 3,
-    "effect": true
+    "effect": "Yes"
   },
   "A113": {
     "id": "A113",
@@ -2140,7 +2140,7 @@
     "name": "Tufao",
     "type": "Suporte - Normal",
     "cost": 1,
-    "effect": true
+    "effect": "Yes"
   },
   "A114": {
     "id": "A114",
@@ -2157,7 +2157,7 @@
     "name": "Pocao de Cura Maior",
     "type": "Suporte - Normal",
     "cost": 2,
-    "effect": true
+    "effect": "Yes"
   },
   "A115": {
     "id": "A115",
@@ -2174,7 +2174,7 @@
     "name": "Buraco Negro",
     "type": "Suporte - Normal",
     "cost": 5,
-    "effect": true
+    "effect": "Yes"
   },
   "A116": {
     "id": "A116",
@@ -2191,7 +2191,7 @@
     "name": "Teletransporte de Emergencia",
     "type": "Suporte - Resposta",
     "cost": 2,
-    "effect": true
+    "effect": "Yes"
   },
   "A117": {
     "id": "A117",
@@ -2208,7 +2208,7 @@
     "name": "Reencarnacao Flamejante",
     "type": "Suporte - Resposta",
     "cost": 1,
-    "effect": true
+    "effect": "Yes"
   },
   "A118": {
     "id": "A118",
@@ -2225,7 +2225,7 @@
     "name": "Alterar probabilidades",
     "type": "Suporte - Resposta",
     "cost": 2,
-    "effect": true
+    "effect": "Yes"
   },
   "A119": {
     "id": "A119",
@@ -2242,7 +2242,7 @@
     "name": "Acenda! Chamas do Milagre!",
     "type": "Suporte - Resposta",
     "cost": 2,
-    "effect": true
+    "effect": "Yes"
   },
   "A120": {
     "id": "A120",
@@ -2259,7 +2259,7 @@
     "name": "Monolito do Guardiao",
     "type": "Suporte - Resposta",
     "cost": 2,
-    "effect": true
+    "effect": "Yes"
   },
   "A121": {
     "id": "A121",
@@ -2276,7 +2276,7 @@
     "name": "Bloqueio",
     "type": "Suporte - Resposta",
     "cost": 1,
-    "effect": true
+    "effect": "Yes"
   },
   "A122": {
     "id": "A122",
@@ -2293,7 +2293,7 @@
     "name": "Escudo da Provocacao",
     "type": "Suporte - Equipamento",
     "cost": 2,
-    "effect": true
+    "effect": "Yes"
   },
   "A123": {
     "id": "A123",
@@ -2310,7 +2310,7 @@
     "name": "Lamina Esmeralda",
     "type": "Suporte - Equipamento",
     "cost": 2,
-    "effect": true
+    "effect": "Yes"
   },
   "A124": {
     "id": "A124",
@@ -2327,7 +2327,7 @@
     "name": "Expansao de Vigor",
     "type": "Suporte - Equipamento",
     "cost": 3,
-    "effect": true
+    "effect": "Yes"
   },
   "A125": {
     "id": "A125",
@@ -2344,7 +2344,7 @@
     "name": "Correntes de Poder",
     "type": "Suporte - Equipamento",
     "cost": 1,
-    "effect": true
+    "effect": "Yes"
   },
   "A126": {
     "id": "A126",
@@ -2361,7 +2361,7 @@
     "name": "Armadura de Fogo e Gelo",
     "type": "Suporte - Equipamento",
     "cost": 2,
-    "effect": true
+    "effect": "Yes"
   },
   "A127": {
     "id": "A127",
@@ -2378,7 +2378,7 @@
     "name": "Espaco",
     "type": "Suporte - Campo",
     "cost": 2,
-    "effect": true
+    "effect": "Yes"
   },
   "A128": {
     "id": "A128",
@@ -2395,7 +2395,7 @@
     "name": "Vulcao",
     "type": "Suporte - Campo",
     "cost": 2,
-    "effect": true
+    "effect": "Yes"
   },
   "A129": {
     "id": "A129",
@@ -2412,7 +2412,7 @@
     "name": "Caverna",
     "type": "Suporte - Campo",
     "cost": 2,
-    "effect": true
+    "effect": "Yes"
   },
   "A130": {
     "id": "A130",
@@ -2429,7 +2429,7 @@
     "name": "Oceano",
     "type": "Suporte - Campo",
     "cost": 2,
-    "effect": true
+    "effect": "Yes"
   },
   "A131": {
     "id": "A131",
@@ -2446,7 +2446,7 @@
     "name": "Montanha",
     "type": "Suporte - Campo",
     "cost": 2,
-    "effect": true
+    "effect": "Yes"
   },
   "A132": {
     "id": "A132",
@@ -2463,7 +2463,7 @@
     "name": "Ceu",
     "type": "Suporte - Campo",
     "cost": 2,
-    "effect": true
+    "effect": "Yes"
   },
   "A133": {
     "id": "A133",
@@ -2483,7 +2483,7 @@
     "attribute": "Earth",
     "class": "natureza",
     "pv": "20",
-    "effect": true
+    "effect": "Yes"
   },
   "A134": {
     "id": "A134",
@@ -2503,7 +2503,7 @@
     "attribute": "Earth",
     "class": "natureza",
     "pv": "180",
-    "effect": true
+    "effect": "Yes"
   },
   "A135": {
     "id": "A135",
@@ -2523,6 +2523,6 @@
     "attribute": "neutral",
     "class": "maquina",
     "pv": "120",
-    "effect": true
+    "effect": "Yes"
   }
 }
