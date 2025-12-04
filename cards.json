@@ -13,7 +13,7 @@
     },
     "name": "Cranell a Lider da Brigada Estelar",
     "type": "guerreiro",
-    "cost": 0,
+    "cost": 3,
     "attribute": "water",
     "pv": "120",
     "effect": false
@@ -32,7 +32,7 @@
     },
     "name": "Ginna a Assassina da Brigada Estelar",
     "type": "guerreiro",
-    "cost": 0,
+    "cost": 3,
     "attribute": "water",
     "pv": "90",
     "effect": true
@@ -51,7 +51,7 @@
     },
     "name": "Rina a Curandeira da Brigada Estelar",
     "type": "mago",
-    "cost": 0,
+    "cost": 3,
     "attribute": "water",
     "pv": "90",
     "effect": true
@@ -70,7 +70,7 @@
     },
     "name": "Dielan o Mestre de Armas da Brigada Estelar",
     "type": "guerreiro",
-    "cost": 0,
+    "cost": 3,
     "attribute": "water",
     "pv": "120",
     "effect": true
@@ -89,7 +89,7 @@
     },
     "name": "Leneh a Engenheira da Brigada Estelar",
     "type": "mago",
-    "cost": 0,
+    "cost": 2,
     "attribute": "water",
     "pv": "70",
     "effect": true
@@ -108,7 +108,7 @@
     },
     "name": "Drone da Brigada Estelar",
     "type": "maquina",
-    "cost": 0,
+    "cost": 2,
     "attribute": "water",
     "pv": "50",
     "effect": true
@@ -126,8 +126,8 @@
       }
     },
     "name": "Campo de Batalha da Brigada Estelar",
-    "type": "",
-    "cost": 0,
+    "type": "magica - campo",
+    "cost": 3,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -145,8 +145,8 @@
       }
     },
     "name": "Taticas de Guerra da Brigada Estelar",
-    "type": "",
-    "cost": 0,
+    "type": "magica",
+    "cost": 1,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -165,7 +165,7 @@
     },
     "name": "Astaroth o Duque da Desolacao dos Cavaleiros Infernais",
     "type": "noturno",
-    "cost": 0,
+    "cost": 5,
     "attribute": "fire",
     "pv": "170",
     "effect": false
@@ -184,7 +184,7 @@
     },
     "name": "Zariel o Duque da Guerra dos Cavaleiros Infernais",
     "type": "noturno",
-    "cost": 0,
+    "cost": 4,
     "attribute": "fire",
     "pv": "150",
     "effect": true
@@ -203,7 +203,7 @@
     },
     "name": "Belphegor a Duquesa da Preguica dos Cavaleiros Infernais",
     "type": "noturno",
-    "cost": 0,
+    "cost": 4,
     "attribute": "fire",
     "pv": "130",
     "effect": true
@@ -222,7 +222,7 @@
     },
     "name": "Morgrim o Duque dos Segredos dos Cavaleiros Infernais",
     "type": "noturno",
-    "cost": 0,
+    "cost": 4,
     "attribute": "fire",
     "pv": "130",
     "effect": true
@@ -241,7 +241,7 @@
     },
     "name": "Karon o Vassalo dos Cavaleiros Infernais",
     "type": "noturno",
-    "cost": 0,
+    "cost": 2,
     "attribute": "fire",
     "pv": "50",
     "effect": true
@@ -260,7 +260,7 @@
     },
     "name": "Varud o Vassalo dos Cavaleiros Infernais",
     "type": "noturno",
-    "cost": 0,
+    "cost": 2,
     "attribute": "fire",
     "pv": "50",
     "effect": true
@@ -278,8 +278,8 @@
       }
     },
     "name": "Chamas da Discordia dos Cavaleiros Infernais",
-    "type": "",
-    "cost": 0,
+    "type": "magica",
+    "cost": 3,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -297,8 +297,8 @@
       }
     },
     "name": "Ordem de Ataque dos Cavaleiros Infernais",
-    "type": "",
-    "cost": 0,
+    "type": "magica",
+    "cost": 2,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -317,7 +317,7 @@
     },
     "name": "Thomas o Mago do Relampago Dourado",
     "type": "mago",
-    "cost": 0,
+    "cost": 3,
     "attribute": "light",
     "pv": "120",
     "effect": false
@@ -336,7 +336,7 @@
     },
     "name": "Marie a Bruxa do Relampago Dourado",
     "type": "mago",
-    "cost": 0,
+    "cost": 3,
     "attribute": "light",
     "pv": "90",
     "effect": true
@@ -355,7 +355,7 @@
     },
     "name": "Ciel a Aprendiz do Relampago Dourado",
     "type": "mago",
-    "cost": 0,
+    "cost": 2,
     "attribute": "light",
     "pv": "60",
     "effect": true
@@ -374,7 +374,7 @@
     },
     "name": "Ciel a Arquimaga do Relampago Dourado",
     "type": "mago",
-    "cost": 0,
+    "cost": 4,
     "attribute": "light",
     "pv": "150",
     "effect": true
@@ -392,8 +392,8 @@
       }
     },
     "name": "A Cabana na Floresta",
-    "type": "",
-    "cost": 0,
+    "type": "magica - campo",
+    "cost": 3,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -411,8 +411,8 @@
       }
     },
     "name": "Sobrecarga do Relampago Dourado",
-    "type": "",
-    "cost": 0,
+    "type": "magica",
+    "cost": 1,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -430,8 +430,8 @@
       }
     },
     "name": "A Chegada do Relampago Dourado",
-    "type": "",
-    "cost": 0,
+    "type": "magica",
+    "cost": 1,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -449,8 +449,8 @@
       }
     },
     "name": "Circulo Magico do Relampago Dourado",
-    "type": "",
-    "cost": 0,
+    "type": "magica",
+    "cost": 1,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -469,7 +469,7 @@
     },
     "name": "Heather a Grande Mestra das Damas do Abismo",
     "type": "maquina",
-    "cost": 0,
+    "cost": 4,
     "attribute": "earth",
     "pv": "160",
     "effect": true
@@ -488,7 +488,7 @@
     },
     "name": "Willow a Guardia das Damas do Abismo",
     "type": "maquina",
-    "cost": 0,
+    "cost": 4,
     "attribute": "earth",
     "pv": "160",
     "effect": true
@@ -507,7 +507,7 @@
     },
     "name": "Iras a Mecanica das Damas do Abismo",
     "type": "mago",
-    "cost": 0,
+    "cost": 3,
     "attribute": "earth",
     "pv": "90",
     "effect": true
@@ -526,7 +526,7 @@
     },
     "name": "Liriel a Medica das Damas do Abismo",
     "type": "mago",
-    "cost": 0,
+    "cost": 3,
     "attribute": "earth",
     "pv": "90",
     "effect": true
@@ -545,7 +545,7 @@
     },
     "name": "Melissa a Cacadora das Damas do Abismo",
     "type": "guerreiro",
-    "cost": 0,
+    "cost": 3,
     "attribute": "earth",
     "pv": "100",
     "effect": true
@@ -564,7 +564,7 @@
     },
     "name": "Alyssa a Cacadora das Damas do Abismo",
     "type": "guerreiro",
-    "cost": 0,
+    "cost": 3,
     "attribute": "earth",
     "pv": "100",
     "effect": true
@@ -583,7 +583,7 @@
     },
     "name": "Clover a Escavadora das Damas do Abismo",
     "type": "guerreiro",
-    "cost": 0,
+    "cost": 3,
     "attribute": "earth",
     "pv": "90",
     "effect": true
@@ -601,8 +601,8 @@
       }
     },
     "name": "Walkie Talkie",
-    "type": "",
-    "cost": 0,
+    "type": "magica",
+    "cost": 2,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -620,8 +620,8 @@
       }
     },
     "name": "Chamado das Damas do Abismo",
-    "type": "",
-    "cost": 0,
+    "type": "magica",
+    "cost": 2,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -640,7 +640,7 @@
     },
     "name": "Dracula o Supremo Senhor da Noite",
     "type": "noturno",
-    "cost": 0,
+    "cost": 4,
     "attribute": "dark",
     "pv": "150",
     "effect": false
@@ -659,7 +659,7 @@
     },
     "name": "Lilith a Dama do Senhor da Noite",
     "type": "noturno",
-    "cost": 0,
+    "cost": 3,
     "attribute": "dark",
     "pv": "120",
     "effect": true
@@ -678,7 +678,7 @@
     },
     "name": "Mumia o Senhor da Noite",
     "type": "noturno",
-    "cost": 0,
+    "cost": 3,
     "attribute": "dark",
     "pv": "100",
     "effect": true
@@ -697,7 +697,7 @@
     },
     "name": "Stein o Senhor da Noite",
     "type": "noturno",
-    "cost": 0,
+    "cost": 3,
     "attribute": "dark",
     "pv": "120",
     "effect": true
@@ -715,8 +715,8 @@
       }
     },
     "name": "Castelo do Senhor da Noite",
-    "type": "",
-    "cost": 0,
+    "type": "magica - campo",
+    "cost": 3,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -734,8 +734,8 @@
       }
     },
     "name": "Controle Mental da Mestra do Castelo",
-    "type": "",
-    "cost": 0,
+    "type": "magica",
+    "cost": 1,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -753,8 +753,8 @@
       }
     },
     "name": "O Poder do Senhor da Noite",
-    "type": "",
-    "cost": 0,
+    "type": "magica",
+    "cost": 3,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -772,8 +772,8 @@
       }
     },
     "name": "Chamado das Sombras",
-    "type": "",
-    "cost": 0,
+    "type": "magica",
+    "cost": 2,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -791,8 +791,8 @@
       }
     },
     "name": "Protecao do Senhor da Noite",
-    "type": "",
-    "cost": 0,
+    "type": "magica - instantanea",
+    "cost": 1,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -811,7 +811,7 @@
     },
     "name": "Bosch o Terror Toxico",
     "type": "mago",
-    "cost": 0,
+    "cost": 3,
     "attribute": "wind",
     "pv": "100",
     "effect": true
@@ -830,7 +830,7 @@
     },
     "name": "Haber o Terror Toxico",
     "type": "guerreiro",
-    "cost": 0,
+    "cost": 3,
     "attribute": "wind",
     "pv": "110",
     "effect": true
@@ -849,7 +849,7 @@
     },
     "name": "Clara o Terror Toxico",
     "type": "mago",
-    "cost": 0,
+    "cost": 3,
     "attribute": "wind",
     "pv": "100",
     "effect": true
@@ -868,7 +868,7 @@
     },
     "name": "AMMO-NIAC o Terror Toxico",
     "type": "guerreiro",
-    "cost": 0,
+    "cost": 4,
     "attribute": "wind",
     "pv": "150",
     "effect": false
@@ -887,7 +887,7 @@
     },
     "name": "S-LIME o Terror Toxico",
     "type": "besta",
-    "cost": 0,
+    "cost": 1,
     "attribute": "wind",
     "pv": "30",
     "effect": true
@@ -905,8 +905,8 @@
       }
     },
     "name": "Granada de gas do Terror Toxico",
-    "type": "",
-    "cost": 0,
+    "type": "magica",
+    "cost": 2,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -924,8 +924,8 @@
       }
     },
     "name": "Linha de Defesa do Terror Toxico",
-    "type": "",
-    "cost": 0,
+    "type": "magica - resposta",
+    "cost": 2,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -943,8 +943,8 @@
       }
     },
     "name": "Recombincao do Terror Toxico",
-    "type": "",
-    "cost": 0,
+    "type": "magica",
+    "cost": 2,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -963,7 +963,7 @@
     },
     "name": "Shiro o Paladino da Neve",
     "type": "guerreio",
-    "cost": 0,
+    "cost": 5,
     "attribute": "water",
     "pv": "160",
     "effect": true
@@ -982,7 +982,7 @@
     },
     "name": "Estatua Defensora das Mars",
     "type": "construto",
-    "cost": 0,
+    "cost": 3,
     "attribute": "water",
     "pv": "100",
     "effect": true
@@ -1001,7 +1001,7 @@
     },
     "name": "Cryptofauna - Piranha",
     "type": "maquina",
-    "cost": 0,
+    "cost": 2,
     "attribute": "water",
     "pv": "50",
     "effect": false
@@ -1020,7 +1020,7 @@
     },
     "name": "Lyla Guerreira das Mares",
     "type": "natureza",
-    "cost": 0,
+    "cost": 3,
     "attribute": "water",
     "pv": "90",
     "effect": false
@@ -1039,7 +1039,7 @@
     },
     "name": "Fahrkhael o Terror das Montanhas Geladas",
     "type": "besta",
-    "cost": 0,
+    "cost": 3,
     "attribute": "water",
     "pv": "130",
     "effect": true
@@ -1058,7 +1058,7 @@
     },
     "name": "agua Viva",
     "type": "natureza",
-    "cost": 0,
+    "cost": 1,
     "attribute": "water",
     "pv": "50",
     "effect": true
@@ -1077,7 +1077,7 @@
     },
     "name": "Siegfried o Dragao Rubro",
     "type": "dragão",
-    "cost": 0,
+    "cost": 5,
     "attribute": "fire",
     "pv": "180",
     "effect": false
@@ -1096,7 +1096,7 @@
     },
     "name": "Estatua Defensora das Chamas",
     "type": "construto",
-    "cost": 0,
+    "cost": 3,
     "attribute": "fire",
     "pv": "100",
     "effect": true
@@ -1115,7 +1115,7 @@
     },
     "name": "Red Vermillion o Bardo Errante",
     "type": "mago",
-    "cost": 0,
+    "cost": 3,
     "attribute": "fire",
     "pv": "100",
     "effect": true
@@ -1134,7 +1134,7 @@
     },
     "name": "Luccia a Maga das Chamas Azuis",
     "type": "mago",
-    "cost": 0,
+    "cost": 3,
     "attribute": "fire",
     "pv": "100",
     "effect": true
@@ -1153,7 +1153,7 @@
     },
     "name": "Wyvern Carmesim",
     "type": "dragão",
-    "cost": 0,
+    "cost": 2,
     "attribute": "fire",
     "pv": "100",
     "effect": true
@@ -1172,7 +1172,7 @@
     },
     "name": "Mithril a Lamina Sangrenta",
     "type": "noturno",
-    "cost": 0,
+    "cost": 3,
     "attribute": "fire",
     "pv": "90",
     "effect": true
@@ -1191,7 +1191,7 @@
     },
     "name": "Illuminum o Guerreiro da Luz",
     "type": "celestial",
-    "cost": 0,
+    "cost": 3,
     "attribute": "light",
     "pv": "110",
     "effect": true
@@ -1210,7 +1210,7 @@
     },
     "name": "Estatua Defensora Celeste",
     "type": "construto",
-    "cost": 0,
+    "cost": 3,
     "attribute": "light",
     "pv": "100",
     "effect": true
@@ -1229,7 +1229,7 @@
     },
     "name": "Noelle a Guardia Valquiria",
     "type": "celestial",
-    "cost": 0,
+    "cost": 3,
     "attribute": "light",
     "pv": "120",
     "effect": true
@@ -1248,7 +1248,7 @@
     },
     "name": "Castielle a Guardia Valquiria",
     "type": "celestial",
-    "cost": 0,
+    "cost": 3,
     "attribute": "light",
     "pv": "100",
     "effect": true
@@ -1267,7 +1267,7 @@
     },
     "name": "Tom o Aprendiz do Relampago",
     "type": "mago",
-    "cost": 0,
+    "cost": 2,
     "attribute": "light",
     "pv": "70",
     "effect": true
@@ -1286,7 +1286,7 @@
     },
     "name": "Lilian a Fada Curandeira",
     "type": "fada",
-    "cost": 0,
+    "cost": 1,
     "attribute": "light",
     "pv": "50",
     "effect": true
@@ -1305,7 +1305,7 @@
     },
     "name": "Sky Guardian - O Sentinela Estelar",
     "type": "maquina",
-    "cost": 0,
+    "cost": 4,
     "attribute": "neutral",
     "pv": "170",
     "effect": false
@@ -1324,7 +1324,7 @@
     },
     "name": "Carta secreta",
     "type": "mago",
-    "cost": 0,
+    "cost": 3,
     "attribute": "neutral",
     "pv": "100",
     "effect": false
@@ -1343,7 +1343,7 @@
     },
     "name": "Ascalon o Lendario Drago Branco",
     "type": "dragão",
-    "cost": 0,
+    "cost": 5,
     "attribute": "neutral",
     "pv": "170",
     "effect": true
@@ -1362,7 +1362,7 @@
     },
     "name": "Dub Avancado",
     "type": "maquina",
-    "cost": 0,
+    "cost": 3,
     "attribute": "neutral",
     "pv": "100",
     "effect": true
@@ -1381,7 +1381,7 @@
     },
     "name": "kaguya a Assassina das Sombras",
     "type": "guerreiro",
-    "cost": 0,
+    "cost": 3,
     "attribute": "neutral",
     "pv": "100",
     "effect": false
@@ -1400,7 +1400,7 @@
     },
     "name": "ignis a Lamina Escarlate",
     "type": "guerreiro",
-    "cost": 0,
+    "cost": 3,
     "attribute": "neutral",
     "pv": "120",
     "effect": false
@@ -1419,7 +1419,7 @@
     },
     "name": "Noccio o Protetor da Floresta",
     "type": "natureza",
-    "cost": 0,
+    "cost": 3,
     "attribute": "earth",
     "pv": "120",
     "effect": true
@@ -1438,7 +1438,7 @@
     },
     "name": "Estatua Defensora das Cavernas",
     "type": "construto",
-    "cost": 0,
+    "cost": 3,
     "attribute": "earth",
     "pv": "100",
     "effect": true
@@ -1457,7 +1457,7 @@
     },
     "name": "Kaede a Monge Errante",
     "type": "guerreiro",
-    "cost": 0,
+    "cost": 3,
     "attribute": "earth",
     "pv": "110",
     "effect": false
@@ -1476,7 +1476,7 @@
     },
     "name": "Arbusto Amaldicoado",
     "type": "natureza",
-    "cost": 0,
+    "cost": 2,
     "attribute": "earth",
     "pv": "50",
     "effect": true
@@ -1495,7 +1495,7 @@
     },
     "name": "Guerreiro Druida",
     "type": "natureza",
-    "cost": 0,
+    "cost": 2,
     "attribute": "Earth",
     "pv": "70",
     "effect": false
@@ -1514,7 +1514,7 @@
     },
     "name": "Dub-Canho!",
     "type": "maquina",
-    "cost": 0,
+    "cost": 2,
     "attribute": "Earth",
     "pv": "70",
     "effect": true
@@ -1533,7 +1533,7 @@
     },
     "name": "Artemis a Deusa da Lua",
     "type": "celestial",
-    "cost": 0,
+    "cost": 5,
     "attribute": "dark",
     "pv": "150",
     "effect": true
@@ -1552,7 +1552,7 @@
     },
     "name": "statua Defensora do Vazio",
     "type": "constructo",
-    "cost": 0,
+    "cost": 3,
     "attribute": "dark",
     "pv": "100",
     "effect": true
@@ -1571,7 +1571,7 @@
     },
     "name": "Axel o Grande Pistoleiro",
     "type": "maquina",
-    "cost": 0,
+    "cost": 3,
     "attribute": "dark",
     "pv": "100",
     "effect": false
@@ -1590,7 +1590,7 @@
     },
     "name": "Green o Mago da Destruicao Final",
     "type": "mago",
-    "cost": 0,
+    "cost": 4,
     "attribute": "dark",
     "pv": "140",
     "effect": true
@@ -1609,7 +1609,7 @@
     },
     "name": "Touya o Espadachim Desertor",
     "type": "guerreiro",
-    "cost": 0,
+    "cost": 3,
     "attribute": "dark",
     "pv": "100",
     "effect": true
@@ -1628,7 +1628,7 @@
     },
     "name": "Neo Horizon - MK I",
     "type": "maquina",
-    "cost": 0,
+    "cost": 2,
     "attribute": "dark",
     "pv": "80",
     "effect": false
@@ -1647,7 +1647,7 @@
     },
     "name": "Storm Eagle",
     "type": "maquina",
-    "cost": 0,
+    "cost": 3,
     "attribute": "wind",
     "pv": "110",
     "effect": false
@@ -1666,7 +1666,7 @@
     },
     "name": "Estatua Defensora das Colinas",
     "type": "construto",
-    "cost": 0,
+    "cost": 3,
     "attribute": "wind",
     "pv": "100",
     "effect": true
@@ -1685,7 +1685,7 @@
     },
     "name": "Kakaiju a Grande Kaiju",
     "type": "dragao",
-    "cost": 0,
+    "cost": 5,
     "attribute": "wind",
     "pv": "160",
     "effect": true
@@ -1704,7 +1704,7 @@
     },
     "name": "Aiko a Pugilista Lendaria",
     "type": "guerreiro",
-    "cost": 0,
+    "cost": 3,
     "attribute": "wind",
     "pv": "110",
     "effect": false
@@ -1723,7 +1723,7 @@
     },
     "name": "Windblade",
     "type": "dragao",
-    "cost": 0,
+    "cost": 2,
     "attribute": "wind",
     "pv": "90",
     "effect": true
@@ -1742,7 +1742,7 @@
     },
     "name": "Pastel o Gato do Destino",
     "type": "besta",
-    "cost": 0,
+    "cost": 2,
     "attribute": "wind",
     "pv": "70",
     "effect": true
@@ -1760,8 +1760,8 @@
       }
     },
     "name": "Mudanca de Territroio",
-    "type": "",
-    "cost": 0,
+    "type": "magica",
+    "cost": 1,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -1779,8 +1779,8 @@
       }
     },
     "name": "Faisca",
-    "type": "",
-    "cost": 0,
+    "type": "magica",
+    "cost": 1,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -1798,8 +1798,8 @@
       }
     },
     "name": "Disparo Magico",
-    "type": "",
-    "cost": 0,
+    "type": "magica",
+    "cost": 1,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -1817,8 +1817,8 @@
       }
     },
     "name": "Impulso de Energia",
-    "type": "",
-    "cost": 0,
+    "type": "magica",
+    "cost": 1,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -1836,8 +1836,8 @@
       }
     },
     "name": "Viso do Destino",
-    "type": "",
-    "cost": 0,
+    "type": "magica",
+    "cost": 1,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -1855,8 +1855,8 @@
       }
     },
     "name": "Passo do Vento",
-    "type": "",
-    "cost": 0,
+    "type": "magica",
+    "cost": 1,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -1874,8 +1874,8 @@
       }
     },
     "name": "Chamado da Noite",
-    "type": "",
-    "cost": 0,
+    "type": "magica",
+    "cost": 1,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -1885,16 +1885,16 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Nucleo da Vazio Perpetuo",
+        "name": "Nucleo do Vazio Perpetuo",
         "type": "spell",
         "cost": 1,
         "image": "https://frontierstcg.notion.site/image/attachment%3A7ab832a4-7d2a-4621-8b8c-598c0f79664d%3AFRTS_-_100_-_Ncleo_da_Vazio_Perptuo.png?table=block&id=27cff10c-a08b-8082-bd37-fdf967cf6ed4&width=420&userId=&cache=v2",
         "isHorizontal": false
       }
     },
-    "name": "Nucleo da Vazio Perpetuo",
-    "type": "",
-    "cost": 0,
+    "name": "Nucleo do Vazio Perpetuo",
+    "type": "magica",
+    "cost": 1,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -1912,8 +1912,8 @@
       }
     },
     "name": "Nucleo da Alma Incandescente",
-    "type": "",
-    "cost": 0,
+    "type": "magica",
+    "cost": 1,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -1931,8 +1931,8 @@
       }
     },
     "name": "Nucleo da Brisa Primordial",
-    "type": "",
-    "cost": 0,
+    "type": "magica",
+    "cost": 1,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -1950,8 +1950,8 @@
       }
     },
     "name": "Nucleo da Chuva Ancestral",
-    "type": "",
-    "cost": 0,
+    "type": "magica - resposta",
+    "cost": 1,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -1969,8 +1969,8 @@
       }
     },
     "name": "Nucleo do Guardaio Terreno",
-    "type": "",
-    "cost": 0,
+    "type": "magica",
+    "cost": 1,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -1988,8 +1988,8 @@
       }
     },
     "name": "Nucleo da Luminancia Eterna",
-    "type": "",
-    "cost": 0,
+    "type": "magica",
+    "cost": 1,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -2007,8 +2007,8 @@
       }
     },
     "name": "Ascenso do Escolhido",
-    "type": "",
-    "cost": 0,
+    "type": "magica",
+    "cost": 2,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -2026,8 +2026,8 @@
       }
     },
     "name": "Onda de Purificacao",
-    "type": "",
-    "cost": 0,
+    "type": "magica",
+    "cost": 2,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -2045,8 +2045,8 @@
       }
     },
     "name": "Recarga Turbulenta",
-    "type": "",
-    "cost": 0,
+    "type": "magica",
+    "cost": 2,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -2064,8 +2064,8 @@
       }
     },
     "name": "Rebobinar",
-    "type": "",
-    "cost": 0,
+    "type": "magica",
+    "cost": 2,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -2083,8 +2083,8 @@
       }
     },
     "name": "Pocao de Remocao de Status",
-    "type": "",
-    "cost": 0,
+    "type": "magica",
+    "cost": 2,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -2102,8 +2102,8 @@
       }
     },
     "name": "Pocao de Cura",
-    "type": "",
-    "cost": 0,
+    "type": "magica",
+    "cost": 1,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -2121,8 +2121,8 @@
       }
     },
     "name": "Medalho da Centelha Absoluta",
-    "type": "",
-    "cost": 0,
+    "type": "magica",
+    "cost": 3,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -2140,8 +2140,8 @@
       }
     },
     "name": "Tufao",
-    "type": "",
-    "cost": 0,
+    "type": "magica",
+    "cost": 1,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -2159,8 +2159,8 @@
       }
     },
     "name": "Pocao de Cura Maior",
-    "type": "",
-    "cost": 0,
+    "type": "magica",
+    "cost": 2,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -2178,8 +2178,8 @@
       }
     },
     "name": "Buraco Negro",
-    "type": "",
-    "cost": 0,
+    "type": "magica",
+    "cost": 5,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -2197,8 +2197,8 @@
       }
     },
     "name": "Teletransporte de Emergencia",
-    "type": "",
-    "cost": 0,
+    "type": "magica - resposta",
+    "cost": 2,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -2216,8 +2216,8 @@
       }
     },
     "name": "Reencarnacao Flamejante",
-    "type": "",
-    "cost": 0,
+    "type": "magica  - resposta",
+    "cost": 1,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -2235,8 +2235,8 @@
       }
     },
     "name": "Alterar probabilidades",
-    "type": "",
-    "cost": 0,
+    "type": "magica - resposta",
+    "cost": 2,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -2254,8 +2254,8 @@
       }
     },
     "name": "Acenda! Chamas do Milagre!",
-    "type": "",
-    "cost": 0,
+    "type": "magica - resposta",
+    "cost": 2,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -2273,8 +2273,8 @@
       }
     },
     "name": "Monolito do Guardiao",
-    "type": "",
-    "cost": 0,
+    "type": "magica - resposta",
+    "cost": 2,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -2292,8 +2292,8 @@
       }
     },
     "name": "Bloqueio",
-    "type": "",
-    "cost": 0,
+    "type": "magica - resposta",
+    "cost": 1,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -2311,8 +2311,8 @@
       }
     },
     "name": "Escudo da Provocacao",
-    "type": "",
-    "cost": 0,
+    "type": "magica",
+    "cost": 2,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -2330,8 +2330,8 @@
       }
     },
     "name": "Lamina Esmeralda",
-    "type": "",
-    "cost": 0,
+    "type": "magica",
+    "cost": 2,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -2349,8 +2349,8 @@
       }
     },
     "name": "Expansao de Vigor",
-    "type": "",
-    "cost": 0,
+    "type": "magica",
+    "cost": 3,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -2368,8 +2368,8 @@
       }
     },
     "name": "Correntes de Poder",
-    "type": "",
-    "cost": 0,
+    "type": "magica",
+    "cost": 1,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -2387,8 +2387,8 @@
       }
     },
     "name": "Armadura de Fogo e Gelo",
-    "type": "",
-    "cost": 0,
+    "type": "magica",
+    "cost": 2,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -2406,8 +2406,8 @@
       }
     },
     "name": "Espaco",
-    "type": "",
-    "cost": 0,
+    "type": "magica - campo",
+    "cost": 2,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -2425,8 +2425,8 @@
       }
     },
     "name": "Vulcao",
-    "type": "",
-    "cost": 0,
+    "type": "magica - campo",
+    "cost": 2,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -2444,8 +2444,8 @@
       }
     },
     "name": "Caverna",
-    "type": "",
-    "cost": 0,
+    "type": "magica - campo",
+    "cost": 2,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -2463,8 +2463,8 @@
       }
     },
     "name": "Oceano",
-    "type": "",
-    "cost": 0,
+    "type": "magica - campo",
+    "cost": 2,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -2482,8 +2482,8 @@
       }
     },
     "name": "Montanha",
-    "type": "",
-    "cost": 0,
+    "type": "magica - campo",
+    "cost": 2,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -2501,8 +2501,8 @@
       }
     },
     "name": "Ceu",
-    "type": "",
-    "cost": 0,
+    "type": "magica - campo",
+    "cost": 2,
     "attribute": "",
     "pv": "",
     "effect": true
@@ -2521,7 +2521,7 @@
     },
     "name": "Eldertree a arvore Guardia da Floresta",
     "type": "natureza",
-    "cost": 0,
+    "cost": 1,
     "attribute": "Earth",
     "pv": "20",
     "effect": true
@@ -2540,7 +2540,7 @@
     },
     "name": "Eldertree o Drago Anciao",
     "type": "natureza",
-    "cost": 0,
+    "cost": 4,
     "attribute": "Earth",
     "pv": "180",
     "effect": true
@@ -2559,7 +2559,7 @@
     },
     "name": "Tezla o Mecha-Cientista",
     "type": "maquina",
-    "cost": 0,
+    "cost": 3,
     "attribute": "neutral",
     "pv": "120",
     "effect": true
