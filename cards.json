@@ -134,9 +134,6 @@
     "name": "Campo de Batalha da Brigada Estelar",
     "type": "Suporte - Campo",
     "cost": 3,
-    "attribute": "",
-    "class": "",
-    "pv": "",
     "effect": true
   },
   "A008": {
@@ -405,9 +402,6 @@
     "name": "A Cabana na Floresta",
     "type": "Suporte - Campo",
     "cost": 3,
-    "attribute": "",
-    "class": "",
-    "pv": "",
     "effect": true
   },
   "A022": {
@@ -730,9 +724,6 @@
     "name": "Castelo do Senhor da Noite",
     "type": "Suporte - Campo",
     "cost": 3,
-    "attribute": "",
-    "class": "",
-    "pv": "",
     "effect": true
   },
   "A039": {
@@ -2096,11 +2087,8 @@
       }
     },
     "name": "Pocao de Remocao de Status",
-    "type": "Suporte - Normal",
+    "type": "Suporte - Equipamento",
     "cost": 2,
-    "attribute": "",
-    "class": "",
-    "pv": "",
     "effect": true
   },
   "A111": {
@@ -2303,11 +2291,8 @@
       }
     },
     "name": "Escudo da Provocacao",
-    "type": "Suporte - Normal",
+    "type": "Suporte - Equipamento",
     "cost": 2,
-    "attribute": "",
-    "class": "",
-    "pv": "",
     "effect": true
   },
   "A123": {
@@ -2323,11 +2308,8 @@
       }
     },
     "name": "Lamina Esmeralda",
-    "type": "Suporte - Normal",
+    "type": "Suporte - Equipamento",
     "cost": 2,
-    "attribute": "",
-    "class": "",
-    "pv": "",
     "effect": true
   },
   "A124": {
@@ -2343,11 +2325,8 @@
       }
     },
     "name": "Expansao de Vigor",
-    "type": "Suporte - Normal",
+    "type": "Suporte - Equipamento",
     "cost": 3,
-    "attribute": "",
-    "class": "",
-    "pv": "",
     "effect": true
   },
   "A125": {
@@ -2363,11 +2342,8 @@
       }
     },
     "name": "Correntes de Poder",
-    "type": "Suporte - Normal",
+    "type": "Suporte - Equipamento",
     "cost": 1,
-    "attribute": "",
-    "class": "",
-    "pv": "",
     "effect": true
   },
   "A126": {
@@ -2383,11 +2359,8 @@
       }
     },
     "name": "Armadura de Fogo e Gelo",
-    "type": "Suporte - Normal",
+    "type": "Suporte - Equipamento",
     "cost": 2,
-    "attribute": "",
-    "class": "",
-    "pv": "",
     "effect": true
   },
   "A127": {
@@ -2405,9 +2378,6 @@
     "name": "Espaco",
     "type": "Suporte - Campo",
     "cost": 2,
-    "attribute": "",
-    "class": "",
-    "pv": "",
     "effect": true
   },
   "A128": {
@@ -2425,9 +2395,6 @@
     "name": "Vulcao",
     "type": "Suporte - Campo",
     "cost": 2,
-    "attribute": "",
-    "class": "",
-    "pv": "",
     "effect": true
   },
   "A129": {
@@ -2445,9 +2412,6 @@
     "name": "Caverna",
     "type": "Suporte - Campo",
     "cost": 2,
-    "attribute": "",
-    "class": "",
-    "pv": "",
     "effect": true
   },
   "A130": {
@@ -2465,9 +2429,6 @@
     "name": "Oceano",
     "type": "Suporte - Campo",
     "cost": 2,
-    "attribute": "",
-    "class": "",
-    "pv": "",
     "effect": true
   },
   "A131": {
@@ -2485,9 +2446,6 @@
     "name": "Montanha",
     "type": "Suporte - Campo",
     "cost": 2,
-    "attribute": "",
-    "class": "",
-    "pv": "",
     "effect": true
   },
   "A132": {
@@ -2505,9 +2463,6 @@
     "name": "Ceu",
     "type": "Suporte - Campo",
     "cost": 2,
-    "attribute": "",
-    "class": "",
-    "pv": "",
     "effect": true
   },
   "A133": {
