@@ -12,7 +12,7 @@
       }
     },
     "name": "Cranell a Lider da Brigada Estelar",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 3,
     "attribute": "water",
     "class": "Criatura",
@@ -32,7 +32,7 @@
       }
     },
     "name": "Ginna a Assassina da Brigada Estelar",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 3,
     "attribute": "water",
     "class": "Criatura",
@@ -52,7 +52,7 @@
       }
     },
     "name": "Rina a Curandeira da Brigada Estelar",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 3,
     "attribute": "water",
     "class": "Criatura",
@@ -72,7 +72,7 @@
       }
     },
     "name": "Dielan o Mestre de Armas da Brigada Estelar",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 3,
     "attribute": "water",
     "class": "Criatura",
@@ -92,7 +92,7 @@
       }
     },
     "name": "Leneh a Engenheira da Brigada Estelar",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 2,
     "attribute": "water",
     "class": "Criatura",
@@ -112,7 +112,7 @@
       }
     },
     "name": "Drone da Brigada Estelar",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 2,
     "attribute": "water",
     "class": "Criatura",
@@ -169,7 +169,7 @@
       }
     },
     "name": "Astaroth o Duque da Desolacao dos Cavaleiros Infernais",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 5,
     "attribute": "fire",
     "class": "Criatura",
@@ -189,7 +189,7 @@
       }
     },
     "name": "Zariel o Duque da Guerra dos Cavaleiros Infernais",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 4,
     "attribute": "fire",
     "class": "Criatura",
@@ -209,7 +209,7 @@
       }
     },
     "name": "Belphegor a Duquesa da Preguica dos Cavaleiros Infernais",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 4,
     "attribute": "fire",
     "class": "Criatura",
@@ -229,7 +229,7 @@
       }
     },
     "name": "Morgrim o Duque dos Segredos dos Cavaleiros Infernais",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 4,
     "attribute": "fire",
     "class": "Criatura",
@@ -249,7 +249,7 @@
       }
     },
     "name": "Karon o Vassalo dos Cavaleiros Infernais",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 2,
     "attribute": "fire",
     "class": "Criatura",
@@ -269,7 +269,7 @@
       }
     },
     "name": "Varud o Vassalo dos Cavaleiros Infernais",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 2,
     "attribute": "fire",
     "class": "Criatura",
@@ -323,7 +323,7 @@
       }
     },
     "name": "Thomas o Mago do Relampago Dourado",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 3,
     "attribute": "light",
     "class": "Criatura",
@@ -343,7 +343,7 @@
       }
     },
     "name": "Marie a Bruxa do Relampago Dourado",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 3,
     "attribute": "light",
     "class": "Criatura",
@@ -363,7 +363,7 @@
       }
     },
     "name": "Ciel a Aprendiz do Relampago Dourado",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 2,
     "attribute": "light",
     "class": "Criatura",
@@ -383,7 +383,7 @@
       }
     },
     "name": "Ciel a Arquimaga do Relampago Dourado",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 4,
     "attribute": "light",
     "class": "Criatura",
@@ -474,7 +474,7 @@
       }
     },
     "name": "Heather a Grande Mestra das Damas do Abismo",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 4,
     "attribute": "earth",
     "class": "Criatura",
@@ -494,7 +494,7 @@
       }
     },
     "name": "Willow a Guardia das Damas do Abismo",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 4,
     "attribute": "earth",
     "class": "Criatura",
@@ -514,7 +514,7 @@
       }
     },
     "name": "Iras a Mecanica das Damas do Abismo",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 3,
     "attribute": "earth",
     "class": "Criatura",
@@ -534,7 +534,7 @@
       }
     },
     "name": "Liriel a Medica das Damas do Abismo",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 3,
     "attribute": "earth",
     "class": "Criatura",
@@ -554,7 +554,7 @@
       }
     },
     "name": "Melissa a Cacadora das Damas do Abismo",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 3,
     "attribute": "earth",
     "class": "Criatura",
@@ -574,7 +574,7 @@
       }
     },
     "name": "Alyssa a Cacadora das Damas do Abismo",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 3,
     "attribute": "earth",
     "class": "Criatura",
@@ -594,7 +594,7 @@
       }
     },
     "name": "Clover a Escavadora das Damas do Abismo",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 3,
     "attribute": "earth",
     "class": "Criatura",
@@ -648,7 +648,7 @@
       }
     },
     "name": "Dracula o Supremo Senhor da Noite",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 4,
     "attribute": "dark",
     "class": "Criatura",
@@ -668,7 +668,7 @@
       }
     },
     "name": "Lilith a Dama do Senhor da Noite",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 3,
     "attribute": "dark",
     "class": "Criatura",
@@ -688,7 +688,7 @@
       }
     },
     "name": "Mumia o Senhor da Noite",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 3,
     "attribute": "dark",
     "class": "Criatura",
@@ -708,7 +708,7 @@
       }
     },
     "name": "Stein o Senhor da Noite",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 3,
     "attribute": "dark",
     "class": "Criatura",
@@ -816,7 +816,7 @@
       }
     },
     "name": "Bosch o Terror Toxico",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 3,
     "attribute": "wind",
     "class": "Criatura",
@@ -836,7 +836,7 @@
       }
     },
     "name": "Haber o Terror Toxico",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 3,
     "attribute": "wind",
     "class": "Criatura",
@@ -856,7 +856,7 @@
       }
     },
     "name": "Clara o Terror Toxico",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 3,
     "attribute": "wind",
     "class": "Criatura",
@@ -876,7 +876,7 @@
       }
     },
     "name": "AMMO-NIAC o Terror Toxico",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 4,
     "attribute": "wind",
     "class": "Criatura",
@@ -896,7 +896,7 @@
       }
     },
     "name": "S-LIME o Terror Toxico",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 1,
     "attribute": "wind",
     "class": "Criatura",
@@ -967,7 +967,7 @@
       }
     },
     "name": "Shiro o Paladino da Neve",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 5,
     "attribute": "water",
     "class": "Criatura",
@@ -987,7 +987,7 @@
       }
     },
     "name": "Estatua Defensora das Mars",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 3,
     "attribute": "water",
     "class": "Criatura",
@@ -1007,7 +1007,7 @@
       }
     },
     "name": "Cryptofauna - Piranha",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 2,
     "attribute": "water",
     "class": "Criatura",
@@ -1027,7 +1027,7 @@
       }
     },
     "name": "Lyla Guerreira das Mares",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 3,
     "attribute": "water",
     "class": "Criatura",
@@ -1047,7 +1047,7 @@
       }
     },
     "name": "Fahrkhael o Terror das Montanhas Geladas",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 3,
     "attribute": "water",
     "class": "Criatura",
@@ -1067,7 +1067,7 @@
       }
     },
     "name": "agua Viva",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 1,
     "attribute": "water",
     "class": "Criatura",
@@ -1087,7 +1087,7 @@
       }
     },
     "name": "Siegfried o Dragao Rubro",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 5,
     "attribute": "fire",
     "class": "Criatura",
@@ -1107,7 +1107,7 @@
       }
     },
     "name": "Estatua Defensora das Chamas",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 3,
     "attribute": "fire",
     "class": "Criatura",
@@ -1127,7 +1127,7 @@
       }
     },
     "name": "Red Vermillion o Bardo Errante",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 3,
     "attribute": "fire",
     "class": "Criatura",
@@ -1147,7 +1147,7 @@
       }
     },
     "name": "Luccia a Maga das Chamas Azuis",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 3,
     "attribute": "fire",
     "class": "Criatura",
@@ -1167,7 +1167,7 @@
       }
     },
     "name": "Wyvern Carmesim",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 2,
     "attribute": "fire",
     "class": "Criatura",
@@ -1187,7 +1187,7 @@
       }
     },
     "name": "Mithril a Lamina Sangrenta",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 3,
     "attribute": "fire",
     "class": "Criatura",
@@ -1207,7 +1207,7 @@
       }
     },
     "name": "Illuminum o Guerreiro da Luz",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 3,
     "attribute": "light",
     "class": "Criatura",
@@ -1227,7 +1227,7 @@
       }
     },
     "name": "Estatua Defensora Celeste",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 3,
     "attribute": "light",
     "class": "Criatura",
@@ -1247,7 +1247,7 @@
       }
     },
     "name": "Noelle a Guardia Valquiria",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 3,
     "attribute": "light",
     "class": "Criatura",
@@ -1267,7 +1267,7 @@
       }
     },
     "name": "Castielle a Guardia Valquiria",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 3,
     "attribute": "light",
     "class": "Criatura",
@@ -1287,7 +1287,7 @@
       }
     },
     "name": "Tom o Aprendiz do Relampago",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 2,
     "attribute": "light",
     "class": "Criatura",
@@ -1307,7 +1307,7 @@
       }
     },
     "name": "Lilian a Fada Curandeira",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 1,
     "attribute": "light",
     "class": "Criatura",
@@ -1327,7 +1327,7 @@
       }
     },
     "name": "Sky Guardian - O Sentinela Estelar",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 4,
     "attribute": "neutral",
     "class": "Criatura",
@@ -1347,7 +1347,7 @@
       }
     },
     "name": "Carta secreta",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 3,
     "attribute": "neutral",
     "class": "Criatura",
@@ -1367,7 +1367,7 @@
       }
     },
     "name": "Ascalon o Lendario Drago Branco",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 5,
     "attribute": "neutral",
     "class": "Criatura",
@@ -1387,7 +1387,7 @@
       }
     },
     "name": "Dub Avancado",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 3,
     "attribute": "neutral",
     "class": "Criatura",
@@ -1407,7 +1407,7 @@
       }
     },
     "name": "kaguya a Assassina das Sombras",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 3,
     "attribute": "neutral",
     "class": "Criatura",
@@ -1427,7 +1427,7 @@
       }
     },
     "name": "ignis a Lamina Escarlate",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 3,
     "attribute": "neutral",
     "class": "Criatura",
@@ -1447,7 +1447,7 @@
       }
     },
     "name": "Noccio o Protetor da Floresta",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 3,
     "attribute": "earth",
     "class": "Criatura",
@@ -1467,7 +1467,7 @@
       }
     },
     "name": "Estatua Defensora das Cavernas",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 3,
     "attribute": "earth",
     "class": "Criatura",
@@ -1487,7 +1487,7 @@
       }
     },
     "name": "Kaede a Monge Errante",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 3,
     "attribute": "earth",
     "class": "Criatura",
@@ -1507,7 +1507,7 @@
       }
     },
     "name": "Arbusto Amaldicoado",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 2,
     "attribute": "earth",
     "class": "Criatura",
@@ -1527,7 +1527,7 @@
       }
     },
     "name": "Guerreiro Druida",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 2,
     "attribute": "Earth",
     "class": "Criatura",
@@ -1547,7 +1547,7 @@
       }
     },
     "name": "Dub-Canho!",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 2,
     "attribute": "Earth",
     "class": "Criatura",
@@ -1567,7 +1567,7 @@
       }
     },
     "name": "Artemis a Deusa da Lua",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 5,
     "attribute": "dark",
     "class": "Criatura",
@@ -1587,7 +1587,7 @@
       }
     },
     "name": "statua Defensora do Vazio",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 3,
     "attribute": "dark",
     "class": "Criatura",
@@ -1607,7 +1607,7 @@
       }
     },
     "name": "Axel o Grande Pistoleiro",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 3,
     "attribute": "dark",
     "class": "Criatura",
@@ -1627,7 +1627,7 @@
       }
     },
     "name": "Green o Mago da Destruicao Final",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 4,
     "attribute": "dark",
     "class": "Criatura",
@@ -1647,7 +1647,7 @@
       }
     },
     "name": "Touya o Espadachim Desertor",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 3,
     "attribute": "dark",
     "class": "Criatura",
@@ -1667,7 +1667,7 @@
       }
     },
     "name": "Neo Horizon - MK I",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 2,
     "attribute": "dark",
     "class": "Criatura",
@@ -1687,7 +1687,7 @@
       }
     },
     "name": "Storm Eagle",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 3,
     "attribute": "wind",
     "class": "Criatura",
@@ -1707,7 +1707,7 @@
       }
     },
     "name": "Estatua Defensora das Colinas",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 3,
     "attribute": "wind",
     "class": "Criatura",
@@ -1727,7 +1727,7 @@
       }
     },
     "name": "Kakaiju a Grande Kaiju",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 5,
     "attribute": "wind",
     "class": "Criatura",
@@ -1747,7 +1747,7 @@
       }
     },
     "name": "Aiko a Pugilista Lendaria",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 3,
     "attribute": "wind",
     "class": "Criatura",
@@ -1767,7 +1767,7 @@
       }
     },
     "name": "Windblade",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 2,
     "attribute": "wind",
     "class": "Criatura",
@@ -1787,7 +1787,7 @@
       }
     },
     "name": "Pastel o Gato do Destino",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 2,
     "attribute": "wind",
     "class": "Criatura",
@@ -2523,7 +2523,7 @@
       }
     },
     "name": "Eldertree a arvore Guardia da Floresta",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 1,
     "attribute": "Earth",
     "class": "Criatura",
@@ -2543,7 +2543,7 @@
       }
     },
     "name": "Eldertree o Drago Anciao",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 4,
     "attribute": "Earth",
     "class": "Criatura",
@@ -2563,7 +2563,7 @@
       }
     },
     "name": "Tezla o Mecha-Cientista",
-    "type": "char0",
+    "type": "Criatura",
     "cost": 3,
     "attribute": "neutral",
     "class": "Criatura",
