@@ -1520,7 +1520,7 @@
     "name": "Guerreiro Druida",
     "type": "Criatura",
     "cost": 2,
-    "attribute": "Earth",
+    "attribute": "earth",
     "class": "natureza",
     "pv": "70",
     "effect": "No"
@@ -1540,7 +1540,7 @@
     "name": "Dub-Canho!",
     "type": "Criatura",
     "cost": 2,
-    "attribute": "Earth",
+    "attribute": "earth",
     "class": "maquina",
     "pv": "70",
     "effect": "Yes"
@@ -2480,7 +2480,7 @@
     "name": "Eldertree a arvore Guardia da Floresta",
     "type": "Criatura",
     "cost": 1,
-    "attribute": "Earth",
+    "attribute": "earth",
     "class": "natureza",
     "pv": "20",
     "effect": "Yes"
@@ -2500,7 +2500,7 @@
     "name": "Eldertree o Drago Anciao",
     "type": "Criatura",
     "cost": 4,
-    "attribute": "Earth",
+    "attribute": "earth",
     "class": "natureza",
     "pv": "180",
     "effect": "Yes"
