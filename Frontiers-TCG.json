@@ -3,6 +3,8 @@
   "menuBackgroundImage": "https://raw.githubusercontent.com/raulgabrielalmeida/Frontiers-TCG/refs/heads/main/src/Wallpaper.png",
   "defaultRessources": {
     "backgrounds": [
+      "https://raw.githubusercontent.com/raulgabrielalmeida/Frontiers-TCG/refs/heads/main/src/astarothPM.png",
+      "https://raw.githubusercontent.com/raulgabrielalmeida/Frontiers-TCG/refs/heads/main/src/CielPM.png",
       "https://raw.githubusercontent.com/raulgabrielalmeida/Frontiers-TCG/refs/heads/main/src/playmat1.png",
       "https://raw.githubusercontent.com/raulgabrielalmeida/Frontiers-TCG/refs/heads/main/src/playmat2.png"
     ],
