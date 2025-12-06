@@ -128,7 +128,7 @@
           "Battlefield": {
             "title": "Battlefield",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "HUGE",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
