@@ -84,46 +84,56 @@
       "hideFacedDownCards": true,
       "sections": {
         "customSections": [
-          "Active",
-          "Stadium"
+          "Battlefield",
+          "FieldZone"
         ],
         "layout": {
           "direction": "row",
           "isSymetricalForOpponents": true,
+          "style": { 
+
+          },
           "content": [
             {
-              "section": "Stadium",
-              "style": { "width": "15vh" }
+              "section": "FieldZone",
+              "style": { 
+                "width": "10vh"
+               }
             },
             {
-              "section": "Active",
-              "style": {}
+              "section": "Battlefield",
+              "style": {
+
+              }
             }
           ]
         },
         "categoriesAlreadyOnBoard": [
-          "Stadium",
-          "Active"
+          "FieldZone",
+          "Battlefield"
         ],
         "autoPlayFromHand": {
-          "char": "Active",
-          "field": "Stadium",
+          "char": "Battlefield",
+          "field": "FieldZone",
           "spell": "Stack",
           "equip": "GROUP"
         },
         "autoPlayFromStack": {
-          "spell": "Discard"
+          "char": "Battlefield",
+          "field": "FieldZone",
+          "spell": "Discard",
+          "equip": "GROUP"
         },
         "sectionsDict": {
-          "Active": {
-            "title": "Active",
+          "Battlefield": {
+            "title": "Battlefield",
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "SUPORTE DE CAMPO",
+            "displayedTitle": "CAMPO DE BATALHA",
             "noQuickActions": false,
             "enterTapped": false,
             "isGroupForbidden": false,
@@ -131,8 +141,8 @@
             "showHiddenCardInHistory": false,
             "enterSpun": false
           },
-          "Stadium": {
-            "title": "Stadium",
+          "FieldZone": {
+            "title": "FieldZone",
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
@@ -146,23 +156,22 @@
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false,
             "enterSpun": false
-          },
-          "Stack":{
+          },"Stack": {
             "isDefaultSection": true,
             "title": "Stack",
             "isHidden": "no",
-            "height": "HUGE",
+            "height": "MEDIUM",
             "alignment": "NONE",
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "displayedTitle": "Pile",
             "opponentAlignment": false,
-            "noAutoPayTo": true,
+            "noAutoPayTo": "true",
+            "isHorizontalAllowed": false,
+            "displayedTitle": "efeitos",
             "noQuickActions": false,
             "enterTapped": false,
-            "enterSpun": false,
+            "isGroupForbidden": true,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+            "enterSpun": false
           }
         }
       }
