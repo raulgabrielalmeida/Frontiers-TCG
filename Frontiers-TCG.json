@@ -128,7 +128,7 @@
           "Battlefield": {
             "title": "Battlefield",
             "isHidden": "no",
-            "height": "HUGE",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -156,11 +156,12 @@
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false,
             "enterSpun": false
-          },"Stack": {
+          },
+          "Stack": {
             "isDefaultSection": true,
             "title": "Stack",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "HUGE",
             "alignment": "NONE",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
