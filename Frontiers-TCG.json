@@ -101,7 +101,10 @@
             }
           ]
         },
-        "categoriesAlreadyOnBoard": [],
+        "categoriesAlreadyOnBoard": [
+          "Stadium",
+          "Active"
+        ],
         "autoPlayFromHand": {
           "char": "Active",
           "field": "Stadium",
@@ -109,7 +112,7 @@
           "equip": "GROUP"
         },
         "autoPlayFromStack": {
-          "spell":"Discard"
+          "spell": "Discard"
         },
         "sectionsDict": {
           "Active": {
@@ -143,7 +146,8 @@
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false,
             "enterSpun": false
-          },"Stack": {
+          },
+          "Stack":{
             "isDefaultSection": true,
             "title": "Stack",
             "isHidden": "no",
@@ -151,9 +155,9 @@
             "alignment": "NONE",
             "isHorizontalAllowed": false,
             "isGroupForbidden": true,
-            "displayedTitle": "efeitos",
+            "displayedTitle": "Pile",
             "opponentAlignment": false,
-            "noAutoPayTo": false,
+            "noAutoPayTo": true,
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
