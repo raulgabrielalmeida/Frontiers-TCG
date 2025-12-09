@@ -1,6 +1,6 @@
 {
   "name": "Frontiers TCG",
-  "menuBackgroundImage": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/Wallpaper.png",
+  "menuBackgroundImage": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/CielPM.png",
   "defaultRessources": {
     "backgrounds": [
       "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/CielPM.png",
@@ -139,7 +139,7 @@
             "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
-            "noAutoPayTo": true,
+            "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "CAMPO DE BATALHA",
             "noQuickActions": false,
@@ -155,7 +155,7 @@
             "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
-            "noAutoPayTo": true,
+            "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "SUPORTE DE CAMPO",
             "noQuickActions": true,
