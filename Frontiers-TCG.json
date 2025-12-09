@@ -1,6 +1,6 @@
 {
   "name": "Frontiers TCG",
-  "menuBackgroundImage": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/PastelPM.png",
+  "menuBackgroundImage": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/CielPM.png",
   "defaultRessources": {
     "backgrounds": [
       "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/CielPM.png",
@@ -116,7 +116,7 @@
             }
           ]
         },
-        "categoriesAlreadyOnBoard": ["Mana"],
+        "categoriesAlreadyOnBoard": ["Energia"],
         "autoPlayFromHand": {
           "Energia": "Mana",
           "Personagem": "Battlefield",
@@ -139,7 +139,7 @@
             "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
-            "noAutoPayTo": false,
+            "noAutoPayTo": true,
             "isHorizontalAllowed": true,
             "displayedTitle": "CAMPO DE BATALHA",
             "noQuickActions": false,
@@ -155,7 +155,7 @@
             "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
-            "noAutoPayTo": false,
+            "noAutoPayTo": true,
             "isHorizontalAllowed": true,
             "displayedTitle": "SUPORTE DE CAMPO",
             "noQuickActions": true,
@@ -171,7 +171,7 @@
             "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
-            "noAutoPayTo": false,
+            "noAutoPayTo": true,
             "isHorizontalAllowed": true,
             "displayedTitle": "ZONA DE ENERGIA",
             "noQuickActions": true,
