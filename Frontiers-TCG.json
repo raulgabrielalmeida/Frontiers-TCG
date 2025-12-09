@@ -1,6 +1,6 @@
 {
   "name": "Frontiers TCG",
-  "menuBackgroundImage": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/CielPM.png",
+  "menuBackgroundImage": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/Wallpaper.png",
   "defaultRessources": {
     "backgrounds": [
       "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/CielPM.png",
@@ -116,9 +116,9 @@
             }
           ]
         },
-        "categoriesAlreadyOnBoard": ["Energia"],
+        "categoriesAlreadyOnBoard": ["Mana"],
         "autoPlayFromHand": {
-          "Energia": "Mana",
+          "Mana": "Mana",
           "Personagem": "Battlefield",
           "Suporte - Normal": "Stack",
           "Suporte - Resposta": "Stack",
