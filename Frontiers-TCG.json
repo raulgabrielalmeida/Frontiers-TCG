@@ -1,6 +1,6 @@
 {
   "name": "Frontiers TCG",
-  "menuBackgroundImage": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/DraculaPM.png",
+  "menuBackgroundImage": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/HeatherPM.png",
   "defaultRessources": {
     "backgrounds": [
       "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/CielPM.png",
@@ -20,11 +20,7 @@
     "cardBack": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/back.png"
   },
   "deckBuilding": {
-    "mainFilters": [
-      "name",
-      "type",
-      "cost"
-    ],
+    "mainFilters": ["name", "type", "cost"],
     "formats": [
       {
         "title": "Standard",
@@ -82,17 +78,10 @@
           "image": "https://frontierstcg.notion.site/image/attachment%3Ab6ff9c06-0f53-4b84-a2cb-67ede4daf501%3AENFRAQUECIDO.png?table=block&id=296ff10c-a08b-805d-994b-cd5d3f5a2c21&spaceId=580ff10c-a08b-8113-98de-00037ae9e6e3&width=480&userId=&cache=v2"
         }
       ],
-      "countersStartingValues": [
-        "12",
-        "6"
-      ],
+      "countersStartingValues": ["12", "6"],
       "hideFacedDownCards": true,
       "sections": {
-        "customSections": [
-          "Battlefield",
-          "FieldZone",
-          "EZone"
-        ],
+        "customSections": ["Battlefield", "FieldZone", "Energia"],
         "layout": {
           "direction": "column",
           "isSymetricalForOpponents": false,
@@ -117,7 +106,7 @@
               "style": false,
               "content": [
                 {
-                  "section": "EZone",
+                  "section": "Energia",
                   "style": {
                     "width": "50vh"
                   }
@@ -129,7 +118,7 @@
         },
         "categoriesAlreadyOnBoard": [],
         "autoPlayFromHand": {
-          "Energia": "EZone",
+          "Energia": "Energia",
           "Personagem": "Battlefield",
           "Suporte - Normal": "Stack",
           "Suporte - Resposta": "Stack",
@@ -137,7 +126,6 @@
           "Suporte - Campo": "FieldZone"
         },
         "autoPlayFromStack": {
-          "Energia": "EZone",
           "Personagem": "Battlefield",
           "Suporte - Normal": "Discard",
           "Suporte - Resposta": "Discard",
@@ -176,23 +164,22 @@
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false,
             "enterSpun": false
-          }
-          ,
-          "EZone": {
-            "title": "EZone",
+          },
+          "Energia": {
+            "title": "Energia",
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
-            "noAutoPayTo": true,
+            "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "ZONA DE ENERGIA",
             "noQuickActions": true,
             "enterTapped": false,
+            "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "enterSpun": false
+            "showHiddenCardInHistory": false
           }
         }
       }
