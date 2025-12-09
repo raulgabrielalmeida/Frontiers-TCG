@@ -116,7 +116,7 @@
             }
           ]
         },
-        "categoriesAlreadyOnBoard": [],
+        "categoriesAlreadyOnBoard": ["Energia"],
         "autoPlayFromHand": {
           "Energia": "Energia",
           "Personagem": "Battlefield",
