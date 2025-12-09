@@ -1,0 +1,2645 @@
+{
+  "A000a": {
+    "id": "A000a",
+    "face": {
+      "front": {
+        "name": "Energia",
+        "type": "Energia",
+        "cost": 0,
+        "image": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/energia/e1.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Energia",
+    "type": "Energia"
+  },
+  "A000b": {
+    "id": "A000b",
+    "face": {
+      "front": {
+        "name": "Energia",
+        "type": "Energia",
+        "cost": 0,
+        "image": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/energia/e2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Energia",
+    "type": "Energia"
+  },
+  "A000c": {
+    "id": "A000c",
+    "face": {
+      "front": {
+        "name": "Energia",
+        "type": "Energia",
+        "cost": 0,
+        "image": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/energia/e3.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Energia",
+    "type": "Energia"
+  },
+  "A000d": {
+    "id": "A000d",
+    "face": {
+      "front": {
+        "name": "Energia",
+        "type": "Energia",
+        "cost": 0,
+        "image": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/energia/e4.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Energia",
+    "type": "Energia"
+  },
+  "A000e": {
+    "id": "A000e",
+    "face": {
+      "front": {
+        "name": "Energia",
+        "type": "Energia",
+        "cost": 0,
+        "image": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/energia/e5.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Energia",
+    "type": "Energia"
+  },
+  "A000f": {
+    "id": "A000f",
+    "face": {
+      "front": {
+        "name": "Energia",
+        "type": "Energia",
+        "cost": 0,
+        "image": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/energia/e6.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Energia",
+    "type": "Energia"
+  },
+  "A000g": {
+    "id": "A000g",
+    "face": {
+      "front": {
+        "name": "Energia",
+        "type": "Energia",
+        "cost": 0,
+        "image": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/energia/e7.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Energia",
+    "type": "Energia"
+  },
+
+  "A001": {
+    "id": "A001",
+    "face": {
+      "front": {
+        "name": "Cranell a Lider da Brigada Estelar",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Aa5470b7d-9820-4b87-8fe3-364df0b6eab6%3AFRTS_-_001_-_Cranell_a_Lder_da_Brigada_Estelar.png?table=block&id=27bff10c-a08b-80ea-9e40-ff96d21856e3&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cranell a Lider da Brigada Estelar",
+    "type": "Personagem",
+    "cost": 3,
+    "attribute": "water",
+    "class": "guerreiro",
+    "pv": "120",
+    "effect": "No"
+  },
+  "A002": {
+    "id": "A002",
+    "face": {
+      "front": {
+        "name": "Ginna a Assassina da Brigada Estelar",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Ab82f1ce4-c979-4cfa-b9d3-ecd9a6205db9%3AFRTS_-_002_-_Ginna_a_Assassina_da_Brigada_Estelar.png?table=block&id=27cff10c-a08b-804a-971e-c98494fb2351&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ginna a Assassina da Brigada Estelar",
+    "type": "Personagem",
+    "cost": 3,
+    "attribute": "water",
+    "class": "guerreiro",
+    "pv": "90",
+    "effect": "Yes"
+  },
+  "A003": {
+    "id": "A003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rina a Curandeira da Brigada Estelar",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A1fab36b7-f84d-4ea9-9a28-220043f6db1d%3AFRTS_-_003_-_Rina_a_Curandeira_da_Brigada_Estelar.png?table=block&id=27cff10c-a08b-80b1-961f-cb223c051015&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rina a Curandeira da Brigada Estelar",
+    "type": "Personagem",
+    "cost": 3,
+    "attribute": "water",
+    "class": "mago",
+    "pv": "90",
+    "effect": "Yes"
+  },
+  "A004": {
+    "id": "A004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dielan o Mestre de Armas da Brigada Estelar",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A9a9b04b5-bd9d-48cc-bff8-569727fb006b%3AFRTS_-_004_-_Dielan_o_Mestre_de_Armas_da_Brigada_Estelar.png?table=block&id=27cff10c-a08b-80be-aaf7-dd39e36e294f&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dielan o Mestre de Armas da Brigada Estelar",
+    "type": "Personagem",
+    "cost": 3,
+    "attribute": "water",
+    "class": "guerreiro",
+    "pv": "120",
+    "effect": "Yes"
+  },
+  "A005": {
+    "id": "A005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Leneh a Engenheira da Brigada Estelar",
+        "type": "Personagem",
+        "cost": 2,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A9a22f1c0-c4e5-433b-8968-b54cadb8199a%3AFRTS_-_005_-_Leneh_a_Engenheira_da_Brigada_Estelar.png?table=block&id=27cff10c-a08b-8095-b7e9-d3f20fafcac5&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Leneh a Engenheira da Brigada Estelar",
+    "type": "Personagem",
+    "cost": 2,
+    "attribute": "water",
+    "class": "mago",
+    "pv": "70",
+    "effect": "Yes"
+  },
+  "A006": {
+    "id": "A006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Drone da Brigada Estelar",
+        "type": "Personagem",
+        "cost": 2,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A1768d974-d0db-4c11-b79f-49b865a6358b%3AFRTS_-_006_-_Drone_da_Brigada_Estelar.png?table=block&id=27cff10c-a08b-803c-9ca0-fb4cc1d282a3&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Drone da Brigada Estelar",
+    "type": "Personagem",
+    "cost": 2,
+    "attribute": "water",
+    "class": "maquina",
+    "pv": "50",
+    "effect": "Yes"
+  },
+  "A007": {
+    "id": "A007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Campo de Batalha da Brigada Estelar",
+        "type": "Suporte - Campo",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Aa10ab759-7a1e-4aa7-9bd8-f5aa6227a9a5%3AFRTS_-_007_-_Campo_de_Batalha_da_Brigada_Estelar.png?table=block&id=27cff10c-a08b-807f-960c-f4106bfe11aa&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Campo de Batalha da Brigada Estelar",
+    "type": "Suporte - Campo",
+    "cost": 3,
+    "effect": "Yes"
+  },
+  "A008": {
+    "id": "A008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Taticas de Guerra da Brigada Estelar",
+        "type": "Suporte - Normal",
+        "cost": 1,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Af4e55fa5-8864-42ea-ba26-970d5184185d%3AFRTS_-_008_-_Tticas_de_Guerra_da_Brigada_Estelar.png?table=block&id=27cff10c-a08b-8198-b59c-fef4dd0b0bbd&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Taticas de Guerra da Brigada Estelar",
+    "type": "Suporte - Normal",
+    "cost": 1,
+    "effect": "Yes"
+  },
+  "A009": {
+    "id": "A009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Astaroth o Duque da Desolacao dos Cavaleiros Infernais",
+        "type": "Personagem",
+        "cost": 5,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A3d85a7a5-e9b3-4ae8-a3ec-c497de21f19b%3AFRTS_-_009_-_Astaroth_o_Duque_da_Desolao_dos_Cavaleiros_Infernais.png?table=block&id=27cff10c-a08b-813a-b87c-f321e05cd3c7&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Astaroth o Duque da Desolacao dos Cavaleiros Infernais",
+    "type": "Personagem",
+    "cost": 5,
+    "attribute": "fire",
+    "class": "noturno",
+    "pv": "170",
+    "effect": "No"
+  },
+  "A010": {
+    "id": "A010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zariel o Duque da Guerra dos Cavaleiros Infernais",
+        "type": "Personagem",
+        "cost": 4,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A9a0c1115-8c44-41b7-bed4-f958a3f57ea1%3AFRTS_-_010_-_Zariel_o_Duque_da_Guerra_dos_Cavaleiros_Infernais.png?table=block&id=27cff10c-a08b-8015-bec5-e82cc3863092&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zariel o Duque da Guerra dos Cavaleiros Infernais",
+    "type": "Personagem",
+    "cost": 4,
+    "attribute": "fire",
+    "class": "noturno",
+    "pv": "150",
+    "effect": "Yes"
+  },
+  "A011": {
+    "id": "A011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Belphegor a Duquesa da Preguica dos Cavaleiros Infernais",
+        "type": "Personagem",
+        "cost": 4,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A5c054c8b-e58c-4edd-aa35-c15789050765%3AFRTS_-_011_-_Belphegor_a_Duquesa_da_Preguia_dos_Cavaleiros_Infernais.png?table=block&id=27cff10c-a08b-80b0-bcbe-dcd0c09040ab&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Belphegor a Duquesa da Preguica dos Cavaleiros Infernais",
+    "type": "Personagem",
+    "cost": 4,
+    "attribute": "fire",
+    "class": "noturno",
+    "pv": "130",
+    "effect": "Yes"
+  },
+  "A012": {
+    "id": "A012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Morgrim o Duque dos Segredos dos Cavaleiros Infernais",
+        "type": "Personagem",
+        "cost": 4,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A67eccc35-8e38-4d02-9ab1-df5f1ed2f5a0%3AFRTS_-_012_-_Morgrim_o_Duque_dos_Segredos_dos_Cavaleiros_Infernais.png?table=block&id=27cff10c-a08b-8071-b2d4-e600437f49d0&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Morgrim o Duque dos Segredos dos Cavaleiros Infernais",
+    "type": "Personagem",
+    "cost": 4,
+    "attribute": "fire",
+    "class": "noturno",
+    "pv": "130",
+    "effect": "Yes"
+  },
+  "A013": {
+    "id": "A013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Karon o Vassalo dos Cavaleiros Infernais",
+        "type": "Personagem",
+        "cost": 2,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Aa594d331-d157-4837-a8d5-0057e06b9fa5%3AFRTS_-_013_-_Karon_o_Vassalo_dos_Cavaleiros_Infernais.png?table=block&id=27cff10c-a08b-8070-b61d-e5bcf3e3bfe1&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Karon o Vassalo dos Cavaleiros Infernais",
+    "type": "Personagem",
+    "cost": 2,
+    "attribute": "fire",
+    "class": "noturno",
+    "pv": "50",
+    "effect": "Yes"
+  },
+  "A014": {
+    "id": "A014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Varud o Vassalo dos Cavaleiros Infernais",
+        "type": "Personagem",
+        "cost": 2,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A79e7612f-eb7b-4700-a711-36c17fe9e84e%3AFRTS_-_014_-_Varud_o_Vassalo_dos_Cavaleiros_Infernais.png?table=block&id=27cff10c-a08b-8038-a04b-ca879e75ccb5&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Varud o Vassalo dos Cavaleiros Infernais",
+    "type": "Personagem",
+    "cost": 2,
+    "attribute": "fire",
+    "class": "noturno",
+    "pv": "50",
+    "effect": "Yes"
+  },
+  "A015": {
+    "id": "A015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chamas da Discordia dos Cavaleiros Infernais",
+        "type": "Suporte - Normal",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A078e9762-96db-4552-b4be-48a245a9398c%3AFRTS_-_015_-_Chamas_da_Discrdia_dos_Cavaleiros_Infernais.png?table=block&id=27cff10c-a08b-8096-8af8-c78d2ca9c5c7&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chamas da Discordia dos Cavaleiros Infernais",
+    "type": "Suporte - Normal",
+    "cost": 3,
+    "effect": "Yes"
+  },
+  "A016": {
+    "id": "A016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ordem de Ataque dos Cavaleiros Infernais",
+        "type": "Suporte - Normal",
+        "cost": 2,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A4b0edf5a-ec85-4940-ac8d-6cd7720f61d4%3AFRTS_-_016_-_Ordem_de_Ataque_dos_Cavaleiros_Infernais.png?table=block&id=27cff10c-a08b-80e8-81ba-e8020dcdb4a6&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ordem de Ataque dos Cavaleiros Infernais",
+    "type": "Suporte - Normal",
+    "cost": 2,
+    "effect": "Yes"
+  },
+  "A017": {
+    "id": "A017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Thomas o Mago do Relampago Dourado",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Ac3241956-c8e3-4d6c-8c5c-fc64d35e4708%3AFRTS_-_017_-_Thomas_o_Mago_do_Relmpago_Dourado.png?table=block&id=27cff10c-a08b-8191-9483-c09ce5250b73&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Thomas o Mago do Relampago Dourado",
+    "type": "Personagem",
+    "cost": 3,
+    "attribute": "light",
+    "class": "mago",
+    "pv": "120",
+    "effect": "No"
+  },
+  "A018": {
+    "id": "A018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Marie a Bruxa do Relampago Dourado",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A4242c9e6-29ab-487e-82d1-c8f1bf06b8d4%3AFRTS_-_018_-_Marie_a_Bruxa_do_Relmpago_Dourado.png?table=block&id=27cff10c-a08b-806a-a1c1-c63f74a14cdb&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Marie a Bruxa do Relampago Dourado",
+    "type": "Personagem",
+    "cost": 3,
+    "attribute": "light",
+    "class": "mago",
+    "pv": "90",
+    "effect": "Yes"
+  },
+  "A019": {
+    "id": "A019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ciel a Aprendiz do Relampago Dourado",
+        "type": "Personagem",
+        "cost": 2,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A8175e57c-64a5-4f1f-88c4-ec449e8e58bd%3AFRTS_-_019_-_Ciel_a_Aprendiz_do_Relmpago_Dourado.png?table=block&id=27cff10c-a08b-80b3-ae16-e733f82f3978&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ciel a Aprendiz do Relampago Dourado",
+    "type": "Personagem",
+    "cost": 2,
+    "attribute": "light",
+    "class": "mago",
+    "pv": "60",
+    "effect": "Yes"
+  },
+  "A020": {
+    "id": "A020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ciel a Arquimaga do Relampago Dourado",
+        "type": "Personagem",
+        "cost": 4,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A05bfa2ac-3c14-48ca-adab-045c0f1a6b69%3AFRTS_-_020_-_Ciel_a_Arquimaga_do_Relmpago_Dourado.png?table=block&id=27cff10c-a08b-80d2-8ebe-d1b3f9c63a2a&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ciel a Arquimaga do Relampago Dourado",
+    "type": "Personagem",
+    "cost": 4,
+    "attribute": "light",
+    "class": "mago",
+    "pv": "150",
+    "effect": "Yes"
+  },
+  "A021": {
+    "id": "A021",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A Cabana na Floresta",
+        "type": "Suporte - Campo",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Ada5f0f6d-ce8b-4a5f-9f5f-300cce2734cd%3AFRTS_-_021_-_A_Cabana_na_Floresta_.png?table=block&id=27cff10c-a08b-8126-80b0-cc71495a7d30&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "A Cabana na Floresta",
+    "type": "Suporte - Campo",
+    "cost": 3,
+    "effect": "Yes"
+  },
+  "A022": {
+    "id": "A022",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sobrecarga do Relampago Dourado",
+        "type": "Suporte - Normal",
+        "cost": 1,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Ab4546e54-9ed8-401c-9b60-b6a4b7d4f23b%3AFRTS_-_022_-_Sobrecarga_do_Relmpago_Dourado.png?table=block&id=27cff10c-a08b-805a-819d-c35b437e82de&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sobrecarga do Relampago Dourado",
+    "type": "Suporte - Normal",
+    "cost": 1,
+    "effect": "Yes"
+  },
+  "A023": {
+    "id": "A023",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A Chegada do Relampago Dourado",
+        "type": "Suporte - Normal",
+        "cost": 1,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A64b19184-67d6-4047-962c-96d5b2ecf01a%3AFRTS_-_023_-_A_Chegada_do_Relmpago_Dourado.png?table=block&id=27cff10c-a08b-800f-b8a0-d4c77590d2fa&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "A Chegada do Relampago Dourado",
+    "type": "Suporte - Normal",
+    "cost": 1,
+    "effect": "Yes"
+  },
+  "A024": {
+    "id": "A024",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Circulo Magico do Relampago Dourado",
+        "type": "Suporte - Normal",
+        "cost": 1,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A87da7fcf-1534-42fb-b7ba-4c957d272fca%3AFRTS_-_024_-_Crculo_Mgico_do_Relmpago_Dourado.png?table=block&id=27cff10c-a08b-809c-89aa-cf8f8e0cd672&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Circulo Magico do Relampago Dourado",
+    "type": "Suporte - Normal",
+    "cost": 1,
+    "effect": "Yes"
+  },
+  "A025": {
+    "id": "A025",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Heather a Grande Mestra das Damas do Abismo",
+        "type": "Personagem",
+        "cost": 4,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A5c76dd77-123b-449f-a2b2-93c4f24c9cc0%3AFRTS_-_025_-_Heather_a_Grande_Mestra_das_Damas_do_Abismo.png?table=block&id=27cff10c-a08b-81a1-baac-f20a05fc7664&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Heather a Grande Mestra das Damas do Abismo",
+    "type": "Personagem",
+    "cost": 4,
+    "attribute": "earth",
+    "class": "maquina",
+    "pv": "160",
+    "effect": "Yes"
+  },
+  "A026": {
+    "id": "A026",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Willow a Guardia das Damas do Abismo",
+        "type": "Personagem",
+        "cost": 4,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A3f1fd130-e7ba-4678-ad7a-65de797aa7c5%3AFRTS_-_026_-_Willow_a_Guardi_das_Damas_do_Abismo.png?table=block&id=27cff10c-a08b-80af-9c3f-c37cc67cc3fb&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Willow a Guardia das Damas do Abismo",
+    "type": "Personagem",
+    "cost": 4,
+    "attribute": "earth",
+    "class": "maquina",
+    "pv": "160",
+    "effect": "Yes"
+  },
+  "A027": {
+    "id": "A027",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Iras a Mecanica das Damas do Abismo",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A2821fce5-1d20-4e0e-9e3d-4c723c2038e2%3AFRTS_-_027_-_Irs_a_Mecnica_das_Damas_do_Abismo.png?table=block&id=27cff10c-a08b-804b-be88-e81f5e4d72ad&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Iras a Mecanica das Damas do Abismo",
+    "type": "Personagem",
+    "cost": 3,
+    "attribute": "earth",
+    "class": "mago",
+    "pv": "90",
+    "effect": "Yes"
+  },
+  "A028": {
+    "id": "A028",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Liriel a Medica das Damas do Abismo",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A6ce9ac2a-d4d1-4eb4-9898-18a3d7061300%3AFRTS_-_028_-_Liriel_a_Mdica_das_Damas_do_Abismo.png?table=block&id=27cff10c-a08b-8046-abbc-fdfe68c0b528&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Liriel a Medica das Damas do Abismo",
+    "type": "Personagem",
+    "cost": 3,
+    "attribute": "earth",
+    "class": "mago",
+    "pv": "90",
+    "effect": "Yes"
+  },
+  "A029": {
+    "id": "A029",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Melissa a Cacadora das Damas do Abismo",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A5b4d80a1-a8b0-4217-a875-2e43a242c359%3AFRTS_-_029_-_Melissa_a_Caadora_das_Damas_do_Abismo.png?table=block&id=27cff10c-a08b-80ea-aa22-e4d695aad755&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Melissa a Cacadora das Damas do Abismo",
+    "type": "Personagem",
+    "cost": 3,
+    "attribute": "earth",
+    "class": "guerreiro",
+    "pv": "100",
+    "effect": "Yes"
+  },
+  "A030": {
+    "id": "A030",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Alyssa a Cacadora das Damas do Abismo",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Ad3c5cf5b-8b87-4c99-88ff-8baad1b53eca%3AFRTS_-_030_-_Alyssa_a_Caadora_das_Damas_do_Abismo.png?table=block&id=27cff10c-a08b-809e-af29-f5ec9e164a64&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Alyssa a Cacadora das Damas do Abismo",
+    "type": "Personagem",
+    "cost": 3,
+    "attribute": "earth",
+    "class": "guerreiro",
+    "pv": "100",
+    "effect": "Yes"
+  },
+  "A031": {
+    "id": "A031",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Clover a Escavadora das Damas do Abismo",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A6150a4bd-65c8-4124-8b5a-09c9a1e482ce%3AFRTS_-_031_-_Clover_a_Escavadora_das_Damas_do_Abismo.png?table=block&id=27cff10c-a08b-806a-810e-d4156c75db91&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Clover a Escavadora das Damas do Abismo",
+    "type": "Personagem",
+    "cost": 3,
+    "attribute": "earth",
+    "class": "guerreiro",
+    "pv": "90",
+    "effect": "Yes"
+  },
+  "A032": {
+    "id": "A032",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Walkie Talkie",
+        "type": "Suporte - Normal",
+        "cost": 2,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Adaf45c7a-dfd9-46aa-9088-548ce1717567%3AFRTS_-_032_-_Walkie_Talkie.png?table=block&id=27cff10c-a08b-8131-afd8-d4f3f43e0188&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Walkie Talkie",
+    "type": "Suporte - Normal",
+    "cost": 2,
+    "effect": "Yes"
+  },
+  "A033": {
+    "id": "A033",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chamado das Damas do Abismo",
+        "type": "Suporte - Normal",
+        "cost": 2,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A439accb9-f9f9-4594-a623-238c52ae1696%3AFRTS_-_033_-_Chamado_das_Damas_do_Abismo.png?table=block&id=27cff10c-a08b-807f-a8d1-e6114fee5ebd&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chamado das Damas do Abismo",
+    "type": "Suporte - Normal",
+    "cost": 2,
+    "effect": "Yes"
+  },
+  "A034": {
+    "id": "A034",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dracula o Supremo Senhor da Noite",
+        "type": "Personagem",
+        "cost": 4,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Af1ce5c30-84ef-4d40-9f08-98b7daf749ab%3AFRTS_-_034_-_Drcula_o_Supremo_Senhor_da_Noite.png?table=block&id=27cff10c-a08b-811f-affc-c986cc7035d0&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dracula o Supremo Senhor da Noite",
+    "type": "Personagem",
+    "cost": 4,
+    "attribute": "dark",
+    "class": "noturno",
+    "pv": "150",
+    "effect": "No"
+  },
+  "A035": {
+    "id": "A035",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lilith a Dama do Senhor da Noite",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A0efe2f79-d6e8-4d7a-ac13-5dfb2566f542%3AFRTS_-_035_-_Lilith_a_Dama_do_Senhor_da_Noite.png?table=block&id=27cff10c-a08b-80ed-8d7c-f3fc39358b4f&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lilith a Dama do Senhor da Noite",
+    "type": "Personagem",
+    "cost": 3,
+    "attribute": "dark",
+    "class": "noturno",
+    "pv": "120",
+    "effect": "Yes"
+  },
+  "A036": {
+    "id": "A036",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mumia o Senhor da Noite",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A785cc5cb-0ea3-477c-b513-c86568386c45%3AFRTS_-_036_-_Mmia_o_Senhor_da_Noite.png?table=block&id=27cff10c-a08b-80cd-a88d-f5f4f50ea90d&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mumia o Senhor da Noite",
+    "type": "Personagem",
+    "cost": 3,
+    "attribute": "dark",
+    "class": "noturno",
+    "pv": "100",
+    "effect": "Yes"
+  },
+  "A037": {
+    "id": "A037",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Stein o Senhor da Noite",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A2e644533-b89b-42af-a4a0-92dd0a428768%3AFRTS_-_037_-_Stein_o_Senhor_da_Noite.png?table=block&id=27cff10c-a08b-8032-86be-f1bea5045db4&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stein o Senhor da Noite",
+    "type": "Personagem",
+    "cost": 3,
+    "attribute": "dark",
+    "class": "noturno",
+    "pv": "120",
+    "effect": "Yes"
+  },
+  "A038": {
+    "id": "A038",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Castelo do Senhor da Noite",
+        "type": "Suporte - Campo",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A728f200f-558c-4b16-8af1-e6ea870349c7%3AFRTS_-_038_-_Castelo_do_Senhor_da_Noite.png?table=block&id=27cff10c-a08b-8143-88fb-e6828fe1b53e&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Castelo do Senhor da Noite",
+    "type": "Suporte - Campo",
+    "cost": 3,
+    "effect": "Yes"
+  },
+  "A039": {
+    "id": "A039",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Controle Mental da Mestra do Castelo",
+        "type": "Suporte - Normal",
+        "cost": 1,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A1a0c1a20-7bf7-47cb-b3d7-eaaa91e129e6%3AFRTS_-_039_-_Controle_Mental_da_Mestra_do_Castelo.png?table=block&id=27cff10c-a08b-8117-828f-dd74a28f5ca0&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Controle Mental da Mestra do Castelo",
+    "type": "Suporte - Normal",
+    "cost": 1,
+    "effect": "Yes"
+  },
+  "A040": {
+    "id": "A040",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "O Poder do Senhor da Noite",
+        "type": "Suporte - Normal",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Aa68b7407-5c87-449b-aca2-5eccfd46fc9c%3AFRTS_-_040_-_O_Poder_do_Senhor_da_Noite.png?table=block&id=27cff10c-a08b-80d5-a0f6-fc855f8d4765&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "O Poder do Senhor da Noite",
+    "type": "Suporte - Normal",
+    "cost": 3,
+    "effect": "Yes"
+  },
+  "A041": {
+    "id": "A041",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chamado das Sombras",
+        "type": "Suporte - Normal",
+        "cost": 2,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Aa3a0dfd2-1315-468b-afa9-4475d5bb6ff3%3AFRTS_-_041_-_Chamado_das_Sombras.png?table=block&id=27cff10c-a08b-8047-8ecb-f8dc91d45770&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chamado das Sombras",
+    "type": "Suporte - Normal",
+    "cost": 2,
+    "effect": "Yes"
+  },
+  "A042": {
+    "id": "A042",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Protecao do Senhor da Noite",
+        "type": "Suporte - Resposta",
+        "cost": 1,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Afa8d199b-a88c-43df-8e88-ccacd9650ded%3AFRTS_-_042_-_Proteo_do_Senhor_da_Noite.png?table=block&id=27cff10c-a08b-8055-a0e9-c1abebf24e40&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Protecao do Senhor da Noite",
+    "type": "Suporte - Resposta",
+    "cost": 1,
+    "effect": "Yes"
+  },
+  "A043": {
+    "id": "A043",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bosch o Terror Toxico",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A4b071c2f-786c-431d-9ea3-d7d856ba4cc8%3AFRTS_-_043_-_Bosch_o_Terror_Txico.png?table=block&id=27cff10c-a08b-8118-844e-edade7feeba5&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bosch o Terror Toxico",
+    "type": "Personagem",
+    "cost": 3,
+    "attribute": "wind",
+    "class": "mago",
+    "pv": "100",
+    "effect": "Yes"
+  },
+  "A044": {
+    "id": "A044",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Haber o Terror Toxico",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Aeb217cd0-2b06-4be1-b18e-b1d4847e7bf6%3AFRTS_-_044_-_Haber_o_Terror_Txico.png?table=block&id=27cff10c-a08b-80d9-952a-f85b039818bf&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Haber o Terror Toxico",
+    "type": "Personagem",
+    "cost": 3,
+    "attribute": "wind",
+    "class": "guerreiro",
+    "pv": "110",
+    "effect": "Yes"
+  },
+  "A045": {
+    "id": "A045",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Clara o Terror Toxico",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A5f0b6d9a-671e-4b0c-94b8-3a2e51e72457%3AFRTS_-_045_-_Clara_o_Terror_Txico.png?table=block&id=27cff10c-a08b-8077-a11c-c852e7f2f7c0&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Clara o Terror Toxico",
+    "type": "Personagem",
+    "cost": 3,
+    "attribute": "wind",
+    "class": "mago",
+    "pv": "100",
+    "effect": "Yes"
+  },
+  "A046": {
+    "id": "A046",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "AMMO-NIAC o Terror Toxico",
+        "type": "Personagem",
+        "cost": 4,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A12bea552-5cf7-4cb6-a8dd-51bb815ac2dd%3AFRTS_-_046_-_AMMO-NIAC_o_Terror_Txico.png?table=block&id=27cff10c-a08b-8062-985e-e2facd0851ee&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "AMMO-NIAC o Terror Toxico",
+    "type": "Personagem",
+    "cost": 4,
+    "attribute": "wind",
+    "class": "guerreiro",
+    "pv": "150",
+    "effect": "No"
+  },
+  "A047": {
+    "id": "A047",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "S-LIME o Terror Toxico",
+        "type": "Personagem",
+        "cost": 1,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A776fd751-4c9e-44d2-accb-827608cd3614%3AFRTS_-_047_-_S-LIME_o_Terror_Txico.png?table=block&id=27cff10c-a08b-80ba-aa46-e08e0e925881&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "S-LIME o Terror Toxico",
+    "type": "Personagem",
+    "cost": 1,
+    "attribute": "wind",
+    "class": "besta",
+    "pv": "30",
+    "effect": "Yes"
+  },
+  "A048": {
+    "id": "A048",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Granada de gas do Terror Toxico",
+        "type": "Suporte - Normal",
+        "cost": 2,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Ae4e939cd-a8cb-4a93-bef3-cef11bc66fe9%3AFRTS_-_048_-_Granada_de_Gs_do_Terror_Txico.png?table=block&id=28eff10c-a08b-80f6-8069-d80e72bb3559&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Granada de gas do Terror Toxico",
+    "type": "Suporte - Normal",
+    "cost": 2,
+    "effect": "Yes"
+  },
+  "A049": {
+    "id": "A049",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Linha de Defesa do Terror Toxico",
+        "type": "Suporte - Resposta",
+        "cost": 2,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A7fc0b268-b6c6-43d4-9004-5717fcbcb318%3AFRTS_-_049_-_Linha_de_Defesa_do_Terror_Txico.png?table=block&id=27cff10c-a08b-80d2-abda-ebbbca19bd75&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Linha de Defesa do Terror Toxico",
+    "type": "Suporte - Resposta",
+    "cost": 2,
+    "effect": "Yes"
+  },
+  "A050": {
+    "id": "A050",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Recombincao do Terror Toxico",
+        "type": "Suporte - Normal",
+        "cost": 2,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Aa5fe2949-3e46-4a69-ad09-525090909ca5%3AFRTS_-_050_-_Recombinao_do_Terror_Txico.png?table=block&id=27cff10c-a08b-802e-a625-f78d50c64e23&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Recombincao do Terror Toxico",
+    "type": "Suporte - Normal",
+    "cost": 2,
+    "effect": "Yes"
+  },
+  "A051": {
+    "id": "A051",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shiro o Paladino da Neve",
+        "type": "Personagem",
+        "cost": 5,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Aadf89c7e-85e5-4483-9a79-9a28ab8016a0%3AFRTS_-_051_-_Shiro_o_Paladino_da_Neve.png?table=block&id=27cff10c-a08b-80d7-a2ab-c8cd4b2e2e16&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shiro o Paladino da Neve",
+    "type": "Personagem",
+    "cost": 5,
+    "attribute": "water",
+    "class": "guerreio",
+    "pv": "160",
+    "effect": "Yes"
+  },
+  "A052": {
+    "id": "A052",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Estatua Defensora das Mars",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Acb235c86-0f1a-4162-a3b6-17318568a6d6%3AFRTS_-_052_-_Esttua_Defensora_das_Mars.png?table=block&id=27cff10c-a08b-802a-a440-fd7de9c0b189&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Estatua Defensora das Mars",
+    "type": "Personagem",
+    "cost": 3,
+    "attribute": "water",
+    "class": "construto",
+    "pv": "100",
+    "effect": "Yes"
+  },
+  "A053": {
+    "id": "A053",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cryptofauna - Piranha",
+        "type": "Personagem",
+        "cost": 2,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A376c44da-a12a-480d-b616-731e787bc647%3AFRTS_-_053_-_Cryptofauna_-_Piranha.png?table=block&id=27cff10c-a08b-8004-9008-f1716638ee4d&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cryptofauna - Piranha",
+    "type": "Personagem",
+    "cost": 2,
+    "attribute": "water",
+    "class": "maquina",
+    "pv": "50",
+    "effect": "No"
+  },
+  "A054": {
+    "id": "A054",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lyla Guerreira das Mares",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Ae751325b-d65d-4930-940c-2951fc935311%3AFRTS_-_054_-_Lyla_Guerreira_das_Mars.png?table=block&id=27cff10c-a08b-8054-8b5b-e303ec28651a&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lyla Guerreira das Mares",
+    "type": "Personagem",
+    "cost": 3,
+    "attribute": "water",
+    "class": "natureza",
+    "pv": "90",
+    "effect": "No"
+  },
+  "A055": {
+    "id": "A055",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fahrkhael o Terror das Montanhas Geladas",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A97c22c49-2ddb-4162-9f89-f2b1d76e1712%3AFRTS_-_055_-_Fahrkhael_o_Terror_das_Montanhas_Geladas.png?table=block&id=27cff10c-a08b-8005-80ce-d30028b2d12c&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fahrkhael o Terror das Montanhas Geladas",
+    "type": "Personagem",
+    "cost": 3,
+    "attribute": "water",
+    "class": "besta",
+    "pv": "130",
+    "effect": "Yes"
+  },
+  "A056": {
+    "id": "A056",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "agua Viva",
+        "type": "Personagem",
+        "cost": 1,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A06b9ae1b-e3b7-4d1f-a227-f07160a6bde0%3AFRTS_-_056_-_gua_Viva.png?table=block&id=27cff10c-a08b-8098-94cd-f772a878cf58&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "agua Viva",
+    "type": "Personagem",
+    "cost": 1,
+    "attribute": "water",
+    "class": "natureza",
+    "pv": "50",
+    "effect": "Yes"
+  },
+  "A057": {
+    "id": "A057",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Siegfried o Dragao Rubro",
+        "type": "Personagem",
+        "cost": 5,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A070f19cd-756f-48e0-99bc-e39e83057b2d%3AFRTS_-_057_-_Siegfried_o_Drago_Rubro.png?table=block&id=28eff10c-a08b-80f5-a396-f524cacf693f&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Siegfried o Dragao Rubro",
+    "type": "Personagem",
+    "cost": 5,
+    "attribute": "fire",
+    "class": "dragão",
+    "pv": "180",
+    "effect": "No"
+  },
+  "A058": {
+    "id": "A058",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Estatua Defensora das Chamas",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Acdc31d78-d1ff-44d7-a3bd-a9cd670e12d5%3AFRTS_-_058_-_Esttua_Defensora_das_Chamas.png?table=block&id=27cff10c-a08b-8005-a4cb-d5ed845acb84&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Estatua Defensora das Chamas",
+    "type": "Personagem",
+    "cost": 3,
+    "attribute": "fire",
+    "class": "construto",
+    "pv": "100",
+    "effect": "Yes"
+  },
+  "A059": {
+    "id": "A059",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Red Vermillion o Bardo Errante",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Af30c013e-75d5-4b2b-9bd6-5a7bc84a9b9e%3AFRTS_-_059_-_Red_Vermillion_o_Bardo_Errante.png?table=block&id=27cff10c-a08b-804d-aab6-f160ffc1df9a&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Red Vermillion o Bardo Errante",
+    "type": "Personagem",
+    "cost": 3,
+    "attribute": "fire",
+    "class": "mago",
+    "pv": "100",
+    "effect": "Yes"
+  },
+  "A060": {
+    "id": "A060",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Luccia a Maga das Chamas Azuis",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A98e10adc-95e2-4095-988f-1cca814ba4a6%3AFRTS_-_060_-_Luccia_a_Maga_das_Chamas_Azuis.png?table=block&id=27cff10c-a08b-8032-b3a7-f2440ef78e4f&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Luccia a Maga das Chamas Azuis",
+    "type": "Personagem",
+    "cost": 3,
+    "attribute": "fire",
+    "class": "mago",
+    "pv": "100",
+    "effect": "Yes"
+  },
+  "A061": {
+    "id": "A061",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wyvern Carmesim",
+        "type": "Personagem",
+        "cost": 2,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A1e03efa7-6207-4b81-bf5f-3f8eabc39ed8%3AFRTS_-_061_-_Wyvern_Carmesim.png?table=block&id=27cff10c-a08b-8003-b924-ed2000545403&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wyvern Carmesim",
+    "type": "Personagem",
+    "cost": 2,
+    "attribute": "fire",
+    "class": "dragão",
+    "pv": "100",
+    "effect": "Yes"
+  },
+  "A062": {
+    "id": "A062",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mithril a Lamina Sangrenta",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A995929ca-1eac-41e5-9e39-bbecf4c3f040%3AFRTS_-_062_-_Mithril_a_Lmina_Sangrenta.png?table=block&id=27cff10c-a08b-8050-912a-d3b9bb1abcd9&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mithril a Lamina Sangrenta",
+    "type": "Personagem",
+    "cost": 3,
+    "attribute": "fire",
+    "class": "noturno",
+    "pv": "90",
+    "effect": "Yes"
+  },
+  "A063": {
+    "id": "A063",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Illuminum o Guerreiro da Luz",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A6af94866-2874-4fe8-a907-25a6b8e3c6f1%3AFRTS_-_063_-_Illuminum_o_Guerreiro_da_Luz.png?table=block&id=27cff10c-a08b-810c-90c3-c3e4f2b745c5&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Illuminum o Guerreiro da Luz",
+    "type": "Personagem",
+    "cost": 3,
+    "attribute": "light",
+    "class": "celestial",
+    "pv": "110",
+    "effect": "Yes"
+  },
+  "A064": {
+    "id": "A064",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Estatua Defensora Celeste",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A50d220de-41db-4d5c-9128-5f02ef811466%3AFRTS_-_064_-_Esttua_Defensora_Celeste.png?table=block&id=27cff10c-a08b-80e8-a141-eda83a68b191&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Estatua Defensora Celeste",
+    "type": "Personagem",
+    "cost": 3,
+    "attribute": "light",
+    "class": "construto",
+    "pv": "100",
+    "effect": "Yes"
+  },
+  "A065": {
+    "id": "A065",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Noelle a Guardia Valquiria",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Aecfb7768-48bd-4cc4-9ba0-f24acf1b3d9c%3AFRTS_-_065_-_Noelle_a_Guardi_Valquria.png?table=block&id=27cff10c-a08b-8027-acd9-cff513bdbace&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Noelle a Guardia Valquiria",
+    "type": "Personagem",
+    "cost": 3,
+    "attribute": "light",
+    "class": "celestial",
+    "pv": "120",
+    "effect": "Yes"
+  },
+  "A066": {
+    "id": "A066",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Castielle a Guardia Valquiria",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Acc57c8af-49b2-4385-ac00-1cca5ca2a40e%3AFRTS_-_066_-_Castielle_a_Guardi_Valquria.png?table=block&id=27cff10c-a08b-808b-9797-fe29f87b87e4&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Castielle a Guardia Valquiria",
+    "type": "Personagem",
+    "cost": 3,
+    "attribute": "light",
+    "class": "celestial",
+    "pv": "100",
+    "effect": "Yes"
+  },
+  "A067": {
+    "id": "A067",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tom o Aprendiz do Relampago",
+        "type": "Personagem",
+        "cost": 2,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A479036cc-9422-4359-a255-650fa4ab703b%3AFRTS_-_067_-_Tom_o_Aprendiz_do_Relmpago.png?table=block&id=28eff10c-a08b-8079-90fc-c02d70c0550d&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tom o Aprendiz do Relampago",
+    "type": "Personagem",
+    "cost": 2,
+    "attribute": "light",
+    "class": "mago",
+    "pv": "70",
+    "effect": "Yes"
+  },
+  "A068": {
+    "id": "A068",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lilian a Fada Curandeira",
+        "type": "Personagem",
+        "cost": 1,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A064c011c-9efa-4a79-a68e-1a22e7fd8a92%3AFRTS_-_068_-_Lilian_a_Fada_Curandeira.png?table=block&id=27cff10c-a08b-8027-a665-f11d9b6bb2f3&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lilian a Fada Curandeira",
+    "type": "Personagem",
+    "cost": 1,
+    "attribute": "light",
+    "class": "fada",
+    "pv": "50",
+    "effect": "Yes"
+  },
+  "A069": {
+    "id": "A069",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sky Guardian - O Sentinela Estelar",
+        "type": "Personagem",
+        "cost": 4,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A783d12fc-ccf7-4473-a335-772c581cc73b%3AFRTS_-_069_-_Sky_Guardian_-_O_Sentinela_Estelar.png?table=block&id=27cff10c-a08b-80e4-a7c5-fe8e8a13a14a&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sky Guardian - O Sentinela Estelar",
+    "type": "Personagem",
+    "cost": 4,
+    "attribute": "neutral",
+    "class": "maquina",
+    "pv": "170",
+    "effect": "No"
+  },
+  "A070": {
+    "id": "A070",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Carta secreta",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/Frontiers-TCG/refs/heads/main/src/back.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Carta secreta",
+    "type": "Personagem",
+    "cost": 3,
+    "attribute": "neutral",
+    "class": "mago",
+    "pv": "100",
+    "effect": "No"
+  },
+  "A071": {
+    "id": "A071",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ascalon o Lendario Drago Branco",
+        "type": "Personagem",
+        "cost": 4,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Af5db1688-1995-4408-af8a-8468ae7e3d2b%3AFRTS_-_071_-_Ascalon_o_Lendrio_Drago_Branco.png?table=block&id=27cff10c-a08b-80ad-9f0c-e6866f0ff930&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ascalon o Lendario Drago Branco",
+    "type": "Personagem",
+    "cost": 4,
+    "attribute": "neutral",
+    "class": "dragão",
+    "pv": "170",
+    "effect": "Yes"
+  },
+  "A072": {
+    "id": "A072",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dub Avancado",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A3d84a9df-e490-487f-bb75-62c1dafe5c4b%3AFRTS_-_072_-_Dub_Avanado.png?table=block&id=27cff10c-a08b-8055-9a5d-d81c612c954c&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dub Avancado",
+    "type": "Personagem",
+    "cost": 3,
+    "attribute": "neutral",
+    "class": "maquina",
+    "pv": "100",
+    "effect": "Yes"
+  },
+  "A073": {
+    "id": "A073",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "kaguya a Assassina das Sombras",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Accf7a17d-c0ed-4f2f-a5a2-90e85f3b0d1d%3AFRTS_-_073_-_Kaguya_a_Assassina_das_Sombras.png?table=block&id=28eff10c-a08b-8067-8993-d6c10b8dd6ce&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "kaguya a Assassina das Sombras",
+    "type": "Personagem",
+    "cost": 3,
+    "attribute": "neutral",
+    "class": "guerreiro",
+    "pv": "100",
+    "effect": "No"
+  },
+  "A074": {
+    "id": "A074",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "ignis a Lamina Escarlate",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A25b505b6-94e9-4fcf-8715-f9b5b2b7492c%3AFRTS_-_074_-_Ignis_a_Lmina_Escarlate.png?table=block&id=28eff10c-a08b-8057-86a2-f1c7bbabfc02&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "ignis a Lamina Escarlate",
+    "type": "Personagem",
+    "cost": 3,
+    "attribute": "neutral",
+    "class": "guerreiro",
+    "pv": "120",
+    "effect": "No"
+  },
+  "A075": {
+    "id": "A075",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Noccio o Protetor da Floresta",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A5a21aba3-29fc-4028-a125-0d1fa92244e1%3AFRTS_-_075_-_Noccio_o_Protetor_da_Floresta.png?table=block&id=27cff10c-a08b-8080-90e5-fddbdc4c9af4&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Noccio o Protetor da Floresta",
+    "type": "Personagem",
+    "cost": 3,
+    "attribute": "earth",
+    "class": "natureza",
+    "pv": "120",
+    "effect": "Yes"
+  },
+  "A076": {
+    "id": "A076",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Estatua Defensora das Cavernas",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A3753cae3-7e3b-473b-afc0-6340f569a16c%3AFRTS_-_076_-_Esttua_Defensora_das_Cavernas.png?table=block&id=27cff10c-a08b-8030-9575-cc39acf249b9&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Estatua Defensora das Cavernas",
+    "type": "Personagem",
+    "cost": 3,
+    "attribute": "earth",
+    "class": "construto",
+    "pv": "100",
+    "effect": "Yes"
+  },
+  "A077": {
+    "id": "A077",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kaede a Monge Errante",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Aed95f2fe-5a45-463c-ae2a-e2e80063c5d6%3AFRTS_-_077_-_Kaede_a_Monge_Errante.png?table=block&id=27cff10c-a08b-800c-b8ab-e36515a6d003&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kaede a Monge Errante",
+    "type": "Personagem",
+    "cost": 3,
+    "attribute": "earth",
+    "class": "guerreiro",
+    "pv": "110",
+    "effect": "No"
+  },
+  "A078": {
+    "id": "A078",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Arbusto Amaldicoado",
+        "type": "Personagem",
+        "cost": 2,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A0e68e5c8-dac8-416b-a7df-07c629824bd4%3AFRTS_-_078_-_Arbusto_Amaldioado.png?table=block&id=27cff10c-a08b-80aa-b617-c10410ea8ced&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Arbusto Amaldicoado",
+    "type": "Personagem",
+    "cost": 2,
+    "attribute": "earth",
+    "class": "natureza",
+    "pv": "50",
+    "effect": "Yes"
+  },
+  "A079": {
+    "id": "A079",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Guerreiro Druida",
+        "type": "Personagem",
+        "cost": 2,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A58749ed9-31bf-47ec-8b3e-901d84918d4b%3AFRTS_-_079_-_Guerreiro_Druida.png?table=block&id=27cff10c-a08b-8072-bb2a-c1c0dca07764&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Guerreiro Druida",
+    "type": "Personagem",
+    "cost": 2,
+    "attribute": "earth",
+    "class": "natureza",
+    "pv": "70",
+    "effect": "No"
+  },
+  "A080": {
+    "id": "A080",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dub-Canho!",
+        "type": "Personagem",
+        "cost": 2,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Afa393190-80bc-43aa-bb78-a5867da60703%3AFRTS_-_080_-_Dub-Canho!.png?table=block&id=27cff10c-a08b-80cc-b21e-d470c5443f8b&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dub-Canho!",
+    "type": "Personagem",
+    "cost": 2,
+    "attribute": "earth",
+    "class": "maquina",
+    "pv": "70",
+    "effect": "Yes"
+  },
+  "A081": {
+    "id": "A081",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Artemis a Deusa da Lua",
+        "type": "Personagem",
+        "cost": 4,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Aade41d55-7c22-4ff5-a999-b0e1db439383%3AFRTS_-_081_-_rtemis_a_Deusa_da_Lua.png?table=block&id=27cff10c-a08b-8014-a39b-e5dd7a744472&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Artemis a Deusa da Lua",
+    "type": "Personagem",
+    "cost": 4,
+    "attribute": "dark",
+    "class": "celestial",
+    "pv": "150",
+    "effect": "Yes"
+  },
+  "A081a": {
+    "id": "A081a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Artemis a Deusa da Lua",
+        "type": "Personagem",
+        "cost": 4,
+        "image": "https://img.notionusercontent.com/s3/prod-files-secure%2F580ff10c-a08b-8113-98de-00037ae9e6e3%2F2174f30b-59c4-489f-a2c5-41c575eb18be%2FFRTS_-_081A_-_rtemis_a_Deusa_da_Lua.png/size/w=520?exp=1765249918&sig=R8RwcZ6LDUYLyL6VZHOBrTWvCw-NwRi2KIFS1ZzfRjI&id=27cff10c-a08b-8036-8c4b-cba25db52dd1&table=block",
+        "isHorizontal": false
+      }
+    },
+    "name": "Artemis a Deusa da Lua",
+    "type": "Personagem",
+    "cost": 4,
+    "attribute": "dark",
+    "class": "celestial",
+    "pv": "150",
+    "effect": "Yes"
+  },
+  "A082": {
+    "id": "A082",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "statua Defensora do Vazio",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Af416a5c0-683c-404f-9e61-fd9232affb05%3AFRTS_-_082_-_Esttua_Defensora_do_Vazio.png?table=block&id=27cff10c-a08b-80b8-8860-dc7b6660fec5&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "statua Defensora do Vazio",
+    "type": "Personagem",
+    "cost": 3,
+    "attribute": "dark",
+    "class": "constructo",
+    "pv": "100",
+    "effect": "Yes"
+  },
+  "A083": {
+    "id": "A083",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Axel o Grande Pistoleiro",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A6f7bd8b7-98a9-454a-98ca-fe4656cc7d78%3AFRTS_-_083_-_Axel_o_Grande_Pistoleiro.png?table=block&id=27cff10c-a08b-8073-a042-dd379f2fc7ce&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Axel o Grande Pistoleiro",
+    "type": "Personagem",
+    "cost": 3,
+    "attribute": "dark",
+    "class": "maquina",
+    "pv": "100",
+    "effect": "No"
+  },
+  "A084": {
+    "id": "A084",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Green o Mago da Destruicao Final",
+        "type": "Personagem",
+        "cost": 4,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A31122440-f3e9-40e2-bc47-c75a43d4ca29%3AFRTS_-_084_-_Green_o_Mago_da_Destruio_Final.png?table=block&id=27cff10c-a08b-80e3-a864-f333a67bd6b6&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Green o Mago da Destruicao Final",
+    "type": "Personagem",
+    "cost": 4,
+    "attribute": "dark",
+    "class": "mago",
+    "pv": "140",
+    "effect": "Yes"
+  },
+  "A085": {
+    "id": "A085",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Touya o Espadachim Desertor",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A50b49a1d-aceb-4f16-9f47-53d721400a7b%3AFRTS_-_085_-_Touya_o_Espadachim_Desertor.png?table=block&id=27cff10c-a08b-8037-9bae-f0ae36f30036&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Touya o Espadachim Desertor",
+    "type": "Personagem",
+    "cost": 3,
+    "attribute": "dark",
+    "class": "guerreiro",
+    "pv": "100",
+    "effect": "Yes"
+  },
+  "A086": {
+    "id": "A086",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Neo Horizon - MK I",
+        "type": "Personagem",
+        "cost": 2,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A43bc19a8-e9af-44c4-bcff-8057eeee7e54%3AFRTS_-_086_-_Neo_Horizon_-_MK_I.png?table=block&id=27cff10c-a08b-802f-8af9-f37c9acb2be3&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Neo Horizon - MK I",
+    "type": "Personagem",
+    "cost": 2,
+    "attribute": "dark",
+    "class": "maquina",
+    "pv": "80",
+    "effect": "No"
+  },
+  "A087": {
+    "id": "A087",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Storm Eagle",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A119ec889-fc9b-433d-a03a-d26254b81d2b%3AFRTS_-_087_-_Storm_Eagle.png?table=block&id=27cff10c-a08b-80ec-9d60-c4e94a960e4e&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Storm Eagle",
+    "type": "Personagem",
+    "cost": 3,
+    "attribute": "wind",
+    "class": "maquina",
+    "pv": "110",
+    "effect": "No"
+  },
+  "A088": {
+    "id": "A088",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Estatua Defensora das Colinas",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A7dcc294a-c841-4966-92b7-f7773bbb8f54%3AFRTS_-_088_-_Esttua_Defensora_das_Colinas.png?table=block&id=27cff10c-a08b-8091-acf1-fb29114e4f38&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Estatua Defensora das Colinas",
+    "type": "Personagem",
+    "cost": 3,
+    "attribute": "wind",
+    "class": "construto",
+    "pv": "100",
+    "effect": "Yes"
+  },
+  "A089": {
+    "id": "A089",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kakaiju a Grande Kaiju",
+        "type": "Personagem",
+        "cost": 5,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A0703674f-78dd-48a4-ab9f-6697b112d698%3AFRTS_-_089_-_Kakaiju_a_Grande_Kaiju.png?table=block&id=27cff10c-a08b-8018-9916-da501da1d626&width=540&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kakaiju a Grande Kaiju",
+    "type": "Personagem",
+    "cost": 5,
+    "attribute": "wind",
+    "class": "dragao",
+    "pv": "160",
+    "effect": "Yes"
+  },
+  "A090": {
+    "id": "A090",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aiko a Pugilista Lendaria",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A2c37ca1c-2c48-43bf-8280-6c62c586056d%3AFRTS_-_090_-_Aiko_a_Pugilista_Lendria.png?table=block&id=27cff10c-a08b-80c0-bd11-d0dc0e1ad35d&width=420&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aiko a Pugilista Lendaria",
+    "type": "Personagem",
+    "cost": 3,
+    "attribute": "wind",
+    "class": "guerreiro",
+    "pv": "110",
+    "effect": "No"
+  },
+  "A091": {
+    "id": "A091",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Windblade",
+        "type": "Personagem",
+        "cost": 2,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A3de7bde8-2ae3-4390-bc79-6b84fa8fca2e%3AFRTS_-_091_-_Windblade.png?table=block&id=27cff10c-a08b-8075-9852-ed85e24830a1&width=420&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Windblade",
+    "type": "Personagem",
+    "cost": 2,
+    "attribute": "wind",
+    "class": "dragao",
+    "pv": "90",
+    "effect": "Yes"
+  },
+  "A092": {
+    "id": "A092",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pastel o Gato do Destino",
+        "type": "Personagem",
+        "cost": 2,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Aa5501af5-6218-46e1-b08f-0811659e9600%3AFRTS_-_092_-_Pastel_o_Gato_do_Destino.png?table=block&id=27cff10c-a08b-80c8-b392-c2878fa34ae5&width=420&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pastel o Gato do Destino",
+    "type": "Personagem",
+    "cost": 2,
+    "attribute": "wind",
+    "class": "besta",
+    "pv": "70",
+    "effect": "Yes"
+  },
+  "A093": {
+    "id": "A093",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mudanca de Territroio",
+        "type": "Suporte - Normal",
+        "cost": 1,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A0e653298-d37d-4590-921c-3ec2a78fefdd%3AFRTS_-_093_-_Mudana_de_Territrio.png?table=block&id=27cff10c-a08b-804f-95c4-f320f248a80f&width=420&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mudanca de Territroio",
+    "type": "Suporte - Normal",
+    "cost": 1,
+    "effect": "Yes"
+  },
+  "A094": {
+    "id": "A094",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Faisca",
+        "type": "Suporte - Normal",
+        "cost": 1,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Ad741926f-0a60-4940-991c-16855f9bab5b%3AFRTS_-_094_-_Fasca.png?table=block&id=27cff10c-a08b-80b2-b11c-dd2d1376ef26&width=420&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Faisca",
+    "type": "Suporte - Normal",
+    "cost": 1,
+    "effect": "Yes"
+  },
+  "A095": {
+    "id": "A095",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Disparo Magico",
+        "type": "Suporte - Normal",
+        "cost": 1,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Aabc7b0ca-88fa-40ef-baf2-e6ef273bb458%3AFRTS_-_095_-_Disparo_Mgico.png?table=block&id=27cff10c-a08b-80c6-800e-dced423db124&width=420&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Disparo Magico",
+    "type": "Suporte - Normal",
+    "cost": 1,
+    "effect": "Yes"
+  },
+  "A096": {
+    "id": "A096",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Impulso de Energia",
+        "type": "Suporte - Normal",
+        "cost": 1,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A1b7a304f-6ee0-4c3e-8915-e5a817bcd08c%3AFRTS_-_096_-_Impulso_de_Energia.png?table=block&id=27cff10c-a08b-80c0-aed6-f45516127509&width=420&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Impulso de Energia",
+    "type": "Suporte - Normal",
+    "cost": 1,
+    "effect": "Yes"
+  },
+  "A097": {
+    "id": "A097",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Viso do Destino",
+        "type": "Suporte - Normal",
+        "cost": 1,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A04859c34-e4a5-414f-9718-72d9f8f5e869%3AFRTS_-_097_-_Viso_do_Destino.png?table=block&id=27cff10c-a08b-806f-b82c-de3874d6a693&width=420&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Viso do Destino",
+    "type": "Suporte - Normal",
+    "cost": 1,
+    "effect": "Yes"
+  },
+  "A098": {
+    "id": "A098",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Passo do Vento",
+        "type": "Suporte - Normal",
+        "cost": 1,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Ad704a90f-757a-4918-9962-46088986ff21%3AFRTS_-_098_-_Passo_do_Vento.png?table=block&id=27cff10c-a08b-8019-98b3-f6983fccad3b&width=420&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Passo do Vento",
+    "type": "Suporte - Normal",
+    "cost": 1,
+    "effect": "Yes"
+  },
+  "A099": {
+    "id": "A099",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chamado da Noite",
+        "type": "Suporte - Normal",
+        "cost": 1,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A491f2957-059f-4fc3-95a4-85bedfe9c72d%3AFRTS_-_099_-_Chamado_da_Noite.png?table=block&id=27cff10c-a08b-800a-9dc9-ef419cdd7c98&width=420&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chamado da Noite",
+    "type": "Suporte - Normal",
+    "cost": 1,
+    "effect": "Yes"
+  },
+  "A100": {
+    "id": "A100",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nucleo do Vazio Perpetuo",
+        "type": "Suporte - Normal",
+        "cost": 1,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A7ab832a4-7d2a-4621-8b8c-598c0f79664d%3AFRTS_-_100_-_Ncleo_da_Vazio_Perptuo.png?table=block&id=27cff10c-a08b-8082-bd37-fdf967cf6ed4&width=420&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nucleo do Vazio Perpetuo",
+    "type": "Suporte - Normal",
+    "cost": 1,
+    "effect": "Yes"
+  },
+  "A101": {
+    "id": "A101",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nucleo da Alma Incandescente",
+        "type": "Suporte - Normal",
+        "cost": 1,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Abc4924ef-5c08-4b49-8853-2e6b1d30639b%3AFRTS_-_101_-_Ncleo_da_Alma_Incandescente.png?table=block&id=27cff10c-a08b-8038-9fc1-fdd597c641dc&width=420&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nucleo da Alma Incandescente",
+    "type": "Suporte - Normal",
+    "cost": 1,
+    "effect": "Yes"
+  },
+  "A102": {
+    "id": "A102",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nucleo da Brisa Primordial",
+        "type": "Suporte - Normal",
+        "cost": 1,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A656c365b-fcbf-47e3-b91e-f3418ccb17ed%3AFRTS_-_102_-_Ncleo_da_Brisa_Primordial.png?table=block&id=27cff10c-a08b-805c-9e83-ffc787ed6dc5&width=420&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nucleo da Brisa Primordial",
+    "type": "Suporte - Normal",
+    "cost": 1,
+    "effect": "Yes"
+  },
+  "A103": {
+    "id": "A103",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nucleo da Chuva Ancestral",
+        "type": "Suporte - Resposta",
+        "cost": 1,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Ad466a2c6-7ba2-49bb-afe8-833ec3c259eb%3AFRTS_-_103_-_Ncleo_da_Chuva_Ancestral.png?table=block&id=27cff10c-a08b-807e-b30f-e115dd6c368e&width=420&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nucleo da Chuva Ancestral",
+    "type": "Suporte - Resposta",
+    "cost": 1,
+    "effect": "Yes"
+  },
+  "A104": {
+    "id": "A104",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nucleo do Guardaiao Terreno",
+        "type": "Suporte - Normal",
+        "cost": 1,
+        "image": "https://img.notionusercontent.com/s3/prod-files-secure%2F580ff10c-a08b-8113-98de-00037ae9e6e3%2F60949440-ae17-4f83-be9e-c905ef9810c3%2FFRTS_-_104_-_Ncleo_do_Guardio_Terreno.png/size/w=1140?exp=1765249910&sig=Y8Ug-55NIfiXQBsVyuqlNFNnosnOO4Hd0AzljerNc-Y&id=27cff10c-a08b-8056-be6b-d0400a80b0d4&table=block",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nucleo do Guardaiao Terreno",
+    "type": "Suporte - Normal",
+    "cost": 1,
+    "effect": "Yes"
+  },
+  "A105": {
+    "id": "A105",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nucleo da Luminancia Eterna",
+        "type": "Suporte - Normal",
+        "cost": 1,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A6e3b97f1-9676-4ffa-9067-9edf71a02027%3AFRTS_-_105_-_Ncleo_da_Luminncia_Eterna.png?table=block&id=27cff10c-a08b-80e5-a0d7-e5c8da808a89&width=420&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nucleo da Luminancia Eterna",
+    "type": "Suporte - Normal",
+    "cost": 1,
+    "effect": "Yes"
+  },
+  "A106": {
+    "id": "A106",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ascenso do Escolhido",
+        "type": "Suporte - Normal",
+        "cost": 2,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Ade86b627-790a-4509-bc78-904428404138%3AFRTS_-_106_-_Ascenso_do_Escolhido.png?table=block&id=27cff10c-a08b-800a-b814-d988be6e66d3&width=420&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ascenso do Escolhido",
+    "type": "Suporte - Normal",
+    "cost": 2,
+    "effect": "Yes"
+  },
+  "A107": {
+    "id": "A107",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Onda de Purificacao",
+        "type": "Suporte - Normal",
+        "cost": 2,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A8d9110f7-e7d5-41a3-a3b4-e542137485bc%3AFRTS_-_107_-_Onda_de_Purificao.png?table=block&id=27cff10c-a08b-808f-b5c1-f450ff420b2f&width=420&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Onda de Purificacao",
+    "type": "Suporte - Normal",
+    "cost": 2,
+    "effect": "Yes"
+  },
+  "A108": {
+    "id": "A108",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Recarga Turbulenta",
+        "type": "Suporte - Normal",
+        "cost": 2,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A5788bd8e-5e54-4cee-9c85-b30320f26384%3AFRTS_-_108_-_Recarga_Turbulenta.png?table=block&id=27cff10c-a08b-8086-9758-f107e086509b&width=420&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Recarga Turbulenta",
+    "type": "Suporte - Normal",
+    "cost": 2,
+    "effect": "Yes"
+  },
+  "A109": {
+    "id": "A109",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rebobinar",
+        "type": "Suporte - Normal",
+        "cost": 2,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Aa895ebb3-bb25-4238-89d0-b3d538fc9c02%3AFRTS_-_109_-_Rebobinar.png?table=block&id=27cff10c-a08b-80ce-86ce-cd37c1aadf82&width=420&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rebobinar",
+    "type": "Suporte - Normal",
+    "cost": 2,
+    "effect": "Yes"
+  },
+  "A110": {
+    "id": "A110",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pocao de Remocao de Status",
+        "type": "Suporte - Equipamento",
+        "cost": 2,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Aa4a20226-76a6-4368-84b6-71b641841137%3AFRTS_-_110_-_Poo_de_Remoo_de_Status.png?table=block&id=27cff10c-a08b-806e-b1b0-f6641e814bd5&width=420&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pocao de Remocao de Status",
+    "type": "Suporte - Equipamento",
+    "cost": 2,
+    "effect": "Yes"
+  },
+  "A111": {
+    "id": "A111",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pocao de Cura",
+        "type": "Suporte - Normal",
+        "cost": 1,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Ab281b0b4-c370-457c-b586-20064f8e57f4%3AFRTS_-_111_-_Poo_de_Cura_.png?table=block&id=27cff10c-a08b-8074-aba2-f6f4ecd3e574&width=420&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pocao de Cura",
+    "type": "Suporte - Normal",
+    "cost": 1,
+    "effect": "Yes"
+  },
+  "A112": {
+    "id": "A112",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Medalho da Centelha Absoluta",
+        "type": "Suporte - Normal",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Af7221c21-8817-44e4-8710-913cb31b2a36%3AFRTS_-_112_-_Medalho_da_Centelha_Absoluta.png?table=block&id=27cff10c-a08b-8056-bcfd-c40afbd69ff1&width=420&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Medalho da Centelha Absoluta",
+    "type": "Suporte - Normal",
+    "cost": 3,
+    "effect": "Yes"
+  },
+  "A113": {
+    "id": "A113",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tufao",
+        "type": "Suporte - Normal",
+        "cost": 1,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Ab8dce108-d5dc-4dfe-8aed-a5157d337ff4%3AFRTS_-_113_-_Tufo.png?table=block&id=27cff10c-a08b-80ed-ad91-dab0b3567a8c&width=420&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tufao",
+    "type": "Suporte - Normal",
+    "cost": 1,
+    "effect": "Yes"
+  },
+  "A114": {
+    "id": "A114",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pocao de Cura Maior",
+        "type": "Suporte - Normal",
+        "cost": 2,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A80b93021-e122-4c6d-ad1e-be35d44003d6%3AFRTS_-_114_-_Poo_de_Cura_Maior.png?table=block&id=27cff10c-a08b-80be-8191-f5dd808ccec8&width=420&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pocao de Cura Maior",
+    "type": "Suporte - Normal",
+    "cost": 2,
+    "effect": "Yes"
+  },
+  "A115": {
+    "id": "A115",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Buraco Negro",
+        "type": "Suporte - Normal",
+        "cost": 5,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A7e96118a-82b1-4439-82c5-2f4bfc9563d8%3AFRTS_-_115_-_Buraco_Negro.png?table=block&id=27cff10c-a08b-8095-988c-e15c63ebc939&width=420&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Buraco Negro",
+    "type": "Suporte - Normal",
+    "cost": 5,
+    "effect": "Yes"
+  },
+  "A116": {
+    "id": "A116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Teletransporte de Emergencia",
+        "type": "Suporte - Resposta",
+        "cost": 2,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A4d4d6f8f-2003-4e80-883f-29e6657ea3ac%3AFRTS_-_116_-_Teletransporte_de_Emergncia.png?table=block&id=27cff10c-a08b-80c6-9310-cd96c1fc3be6&width=420&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Teletransporte de Emergencia",
+    "type": "Suporte - Resposta",
+    "cost": 2,
+    "effect": "Yes"
+  },
+  "A117": {
+    "id": "A117",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Reencarnacao Flamejante",
+        "type": "Suporte - Resposta",
+        "cost": 1,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A5d55be07-a205-4f65-90e1-c5b33fc89b8d%3AFRTS_-_117_-_Reencarnao_Flamejante.png?table=block&id=27cff10c-a08b-80c0-b0a2-f8b33f21cf99&width=420&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Reencarnacao Flamejante",
+    "type": "Suporte - Resposta",
+    "cost": 1,
+    "effect": "Yes"
+  },
+  "A118": {
+    "id": "A118",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Alterar probabilidades",
+        "type": "Suporte - Resposta",
+        "cost": 2,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A92f5167e-c300-453d-a5c2-dbbbd80bd62d%3AFRTS_-_118_-_Alterar_probabilidades.png?table=block&id=27cff10c-a08b-80f4-b8ee-d0495093bace&width=420&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Alterar probabilidades",
+    "type": "Suporte - Resposta",
+    "cost": 2,
+    "effect": "Yes"
+  },
+  "A119": {
+    "id": "A119",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Acenda! Chamas do Milagre!",
+        "type": "Suporte - Resposta",
+        "cost": 2,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A32cddb30-6c5f-45d2-8ffa-955bd512eb15%3AFRTS_-_119_-_Acenda!_Chamas_do_Milagre!.png?table=block&id=27cff10c-a08b-802e-b1c0-e1856f1170a7&width=420&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Acenda! Chamas do Milagre!",
+    "type": "Suporte - Resposta",
+    "cost": 2,
+    "effect": "Yes"
+  },
+  "A120": {
+    "id": "A120",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Monolito do Guardiao",
+        "type": "Suporte - Resposta",
+        "cost": 2,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A9fdde535-2152-4644-98a6-2201c916edee%3AFRTS_-_120_-_Monlito_do_Guardio.png?table=block&id=27cff10c-a08b-8015-ae05-f27c814f9e83&width=420&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Monolito do Guardiao",
+    "type": "Suporte - Resposta",
+    "cost": 2,
+    "effect": "Yes"
+  },
+  "A121": {
+    "id": "A121",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bloqueio",
+        "type": "Suporte - Resposta",
+        "cost": 1,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Aad5bd265-1a56-4664-acbe-15899534be1e%3AFRTS_-_121_-_Bloqueio.png?table=block&id=27cff10c-a08b-8085-9856-f1aad9d5f916&width=420&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bloqueio",
+    "type": "Suporte - Resposta",
+    "cost": 1,
+    "effect": "Yes"
+  },
+  "A122": {
+    "id": "A122",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Escudo da Provocacao",
+        "type": "Suporte - Equipamento",
+        "cost": 2,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A9fb0e2ca-6aa8-4999-a5e7-34bdfa01ca85%3AFRTS_-_122_-_Escudo_da_Provocao.png?table=block&id=27cff10c-a08b-80f8-9311-d4abd709cdf7&width=420&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Escudo da Provocacao",
+    "type": "Suporte - Equipamento",
+    "cost": 2,
+    "effect": "Yes"
+  },
+  "A123": {
+    "id": "A123",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lamina Esmeralda",
+        "type": "Suporte - Equipamento",
+        "cost": 2,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A4093a075-0560-4635-ac53-b82017826d32%3AFRTS_-_123_-_Lmina_Esmeralda.png?table=block&id=27cff10c-a08b-80b9-9204-f397ab09a47c&width=420&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lamina Esmeralda",
+    "type": "Suporte - Equipamento",
+    "cost": 2,
+    "effect": "Yes"
+  },
+  "A124": {
+    "id": "A124",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Expansao de Vigor",
+        "type": "Suporte - Equipamento",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A2e301611-c036-40a4-9a4b-7c0f97f6ca57%3AFRTS_-_124_-_Expanso_de_Vigor.png?table=block&id=27cff10c-a08b-8035-89f0-e45324b2ba03&width=420&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Expansao de Vigor",
+    "type": "Suporte - Equipamento",
+    "cost": 3,
+    "effect": "Yes"
+  },
+  "A125": {
+    "id": "A125",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Correntes de Poder",
+        "type": "Suporte - Equipamento",
+        "cost": 1,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A3c0c87b9-c24c-45d0-a624-938608ad4d47%3AFRTS_-_125_-_Correntes_de_Poder.png?table=block&id=27cff10c-a08b-80a2-a88c-e79dd506a7cf&width=420&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Correntes de Poder",
+    "type": "Suporte - Equipamento",
+    "cost": 1,
+    "effect": "Yes"
+  },
+  "A126": {
+    "id": "A126",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Armadura de Fogo e Gelo",
+        "type": "Suporte - Equipamento",
+        "cost": 2,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Aaac23c5f-6106-4cac-841a-d60190bbbba8%3AFRTS_-_126_-_Armadura_de_Fogo_e_Gelo.png?table=block&id=27cff10c-a08b-807f-968a-c801e0f103eb&width=420&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Armadura de Fogo e Gelo",
+    "type": "Suporte - Equipamento",
+    "cost": 2,
+    "effect": "Yes"
+  },
+  "A127": {
+    "id": "A127",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Espaco",
+        "type": "Suporte - Campo",
+        "cost": 2,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A04903d22-19db-435f-8170-39893f99ec4a%3AFRTS_-_127_-_Espao.png?table=block&id=27cff10c-a08b-8023-9e62-e22a3344da82&width=420&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Espaco",
+    "type": "Suporte - Campo",
+    "cost": 2,
+    "effect": "Yes"
+  },
+  "A128": {
+    "id": "A128",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vulcao",
+        "type": "Suporte - Campo",
+        "cost": 2,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A34c198b6-42db-4276-99ed-66552c57857d%3AFRTS_-_128_-_Vulco.png?table=block&id=27cff10c-a08b-8040-ab24-f4811d044001&width=420&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vulcao",
+    "type": "Suporte - Campo",
+    "cost": 2,
+    "effect": "Yes"
+  },
+  "A129": {
+    "id": "A129",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Caverna",
+        "type": "Suporte - Campo",
+        "cost": 2,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A3227c2a9-85a0-4328-a7a1-3b49018ba969%3AFRTS_-_129_-_Caverna.png?table=block&id=27cff10c-a08b-807f-8a8a-f1e0ab8b78a4&width=420&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Caverna",
+    "type": "Suporte - Campo",
+    "cost": 2,
+    "effect": "Yes"
+  },
+  "A130": {
+    "id": "A130",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Oceano",
+        "type": "Suporte - Campo",
+        "cost": 2,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A7a256826-ed90-4d3c-88e6-3c4a256f64c4%3AFRTS_-_130_-_Oceano.png?table=block&id=27cff10c-a08b-8065-aa7f-d9562d6e1533&width=420&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Oceano",
+    "type": "Suporte - Campo",
+    "cost": 2,
+    "effect": "Yes"
+  },
+  "A131": {
+    "id": "A131",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Montanha",
+        "type": "Suporte - Campo",
+        "cost": 2,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A58610d61-26f6-4ebd-879b-8816cf7c2b62%3AFRTS_-_131_-_Montanha.png?table=block&id=27cff10c-a08b-8008-b662-ffd4b6efeb11&width=420&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Montanha",
+    "type": "Suporte - Campo",
+    "cost": 2,
+    "effect": "Yes"
+  },
+  "A132": {
+    "id": "A132",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ceu",
+        "type": "Suporte - Campo",
+        "cost": 2,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A4feca95d-cbbc-4d14-9af1-f9c7411e13d3%3AFRTS_-_132_-_Cu.png?table=block&id=27cff10c-a08b-8088-a18b-cb3876474bd7&width=420&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ceu",
+    "type": "Suporte - Campo",
+    "cost": 2,
+    "effect": "Yes"
+  },
+  "A133": {
+    "id": "A133",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Eldertree a arvore Guardia da Floresta",
+        "type": "Personagem",
+        "cost": 1,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Abba1d701-fb99-4fc1-9cc5-c1a6384fe6c9%3AFRTS_-_133_-_Eldertree_a_rvore_Guardi_da_Floresta.png?table=block&id=27cff10c-a08b-81bd-a9cc-db52d0590fb2&width=420&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Eldertree a arvore Guardia da Floresta",
+    "type": "Personagem",
+    "cost": 1,
+    "attribute": "earth",
+    "class": "natureza",
+    "pv": "20",
+    "effect": "Yes"
+  },
+  "A134": {
+    "id": "A134",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Eldertree o Drago Anciao",
+        "type": "Personagem",
+        "cost": 4,
+        "image": "https://frontierstcg.notion.site/image/attachment%3Ad070a409-4a75-4ce4-9b10-64ba87fbd96d%3AFRTS_-_134_-_Eldertree_o_Drago_Ancio.png?table=block&id=27cff10c-a08b-808e-9751-cbfd38a3f033&width=420&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Eldertree o Drago Anciao",
+    "type": "Personagem",
+    "cost": 4,
+    "attribute": "earth",
+    "class": "natureza",
+    "pv": "180",
+    "effect": "Yes"
+  },
+  "A135": {
+    "id": "A135",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tezla o Mecha-Cientista",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://frontierstcg.notion.site/image/attachment%3A24770723-de75-412a-89b2-5ae2b1ffb445%3AFRTS_-_135_-_Tezla_o_Mecha-Cientista.png?table=block&id=27cff10c-a08b-811c-8b4d-ed0cb2ef6b83&width=420&userId=&cache=v2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tezla o Mecha-Cientista",
+    "type": "Personagem",
+    "cost": 3,
+    "attribute": "neutral",
+    "class": "maquina",
+    "pv": "120",
+    "effect": "Yes"
+  }
+}
