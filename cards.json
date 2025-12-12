@@ -10,8 +10,8 @@
         "isHorizontal": false
       }
     },
-    "name": "Mana",
-    "type": "Mana"
+    "name": "Energia Roxa",
+    "type": "Energia"
   },
   "A000b": {
     "id": "A000b",
@@ -24,8 +24,8 @@
         "isHorizontal": false
       }
     },
-    "name": "Mana",
-    "type": "Mana"
+    "name": "Energia Amarela",
+    "type": "Energia"
   },
   "A000c": {
     "id": "A000c",
@@ -38,8 +38,8 @@
         "isHorizontal": false
       }
     },
-    "name": "Mana",
-    "type": "Mana"
+    "name": "Energia Azul",
+    "type": "Energia"
   },
   "A000d": {
     "id": "A000d",
@@ -52,8 +52,8 @@
         "isHorizontal": false
       }
     },
-    "name": "Mana",
-    "type": "Mana"
+    "name": "Energia Marrom",
+    "type": "Energia"
   },
   "A000e": {
     "id": "A000e",
@@ -66,8 +66,8 @@
         "isHorizontal": false
       }
     },
-    "name": "Mana",
-    "type": "Mana"
+    "name": "Energia Verde",
+    "type": "Energia"
   },
   "A000f": {
     "id": "A000f",
@@ -80,8 +80,8 @@
         "isHorizontal": false
       }
     },
-    "name": "Mana",
-    "type": "Mana"
+    "name": "Energia Vermelha",
+    "type": "Energia"
   },
   "A000g": {
     "id": "A000g",
@@ -94,8 +94,8 @@
         "isHorizontal": false
       }
     },
-    "name": "Mana",
-    "type": "Mana"
+    "name": "Energia Preta",
+    "type": "Energia"
   },
 
   "A001": {
