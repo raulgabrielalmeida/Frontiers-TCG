@@ -116,7 +116,7 @@
             }
           ]
         },
-        "categoriesAlreadyOnBoard": ["Mana"],
+        "categoriesAlreadyOnBoard": ["Energia"],
         "autoPlayFromHand": {
           "Mana": "Mana",
           "Personagem": "Battlefield",
