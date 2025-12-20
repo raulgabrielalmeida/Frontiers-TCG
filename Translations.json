@@ -1,5 +1,5 @@
 {
-  "additionalLanguages": ["fr"],
+  "additionalLanguages": ["pt-BR"],
   "en": {
     "Big stuffs": {
       "translations.customHelp": "To learn more about the rules, cards, and how to play, visit our website:\nhttps://frontierstcg.notion.site/Frontiers-TCG-Official-Website-27dff10ca08b804198b8ff877f8a2de2",
@@ -9,7 +9,7 @@
       "f.inf": "Infinity"
     }
   },
-  "fr": {
+  "pt-BR": {
     "Deck - Card types": {
       "Mana": "Energia",
       "Character": "Personagem",
@@ -24,15 +24,17 @@
       "attribute": "Atributo",
       "class": "Classe",
       "hp": "PV",
-      "effect": "Efeito"
+      "effect": "Efeito",
+      "Sideboard": "Reserva"
     },
     "Gameplay": {
       "Standard": "Padrão"
     },
     "Sections": {
       "Battlefield": "Campo de Batalha",
-      "FieldZone": "Zona de Campo",
-      "Mana": "Zona de Energia"
+      "Field Zone": "Zona de Campo",
+      "Energy Zone": "Zona de Energia",
+      "Pile" : "Efeitos"
     },
     "Big stuffs": {
       "translations.customHelp": "Para saber mais sobre as regras, as cartas e como jogar, visite nosso site:\nhttps://frontierstcg.notion.site/Frontiers-TCG-Site-Oficial-217ff10ca08b80308e88debfc22e1e5d",
