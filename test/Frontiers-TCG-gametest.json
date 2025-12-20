@@ -41,7 +41,7 @@
       "newTurn": {
         "drawOnStart": true,
         "sharedTurn": false,
-        "firstPlayerTokenName": "TOKEN AQUI FP",
+        "firstPlayerTokenName": "TOKEN UM TESTE"",
         "drawPerTurn": 1
       },
       "defaultNotes": "",
