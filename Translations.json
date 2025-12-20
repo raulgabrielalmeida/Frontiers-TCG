@@ -1,0 +1,39 @@
+{
+  "additionalLanguages": ["fr"],
+  "en": {
+    "Big stuffs": {
+      "translations.customHelp": "To learn more about the rules, cards, and how to play, visit our website:\nhttps://frontierstcg.notion.site/Frontiers-TCG-Official-Website-27dff10ca08b804198b8ff877f8a2de2",
+      "translations.mulliganInfo": "mulligan en"
+    }
+  },
+  "fr": {
+    "Deck - Card types": {
+      "Mana": "Energia",
+      "Character": "Personagem",
+      "Support - Field": "Suporte - Campo",
+      "Support - Normal": "Suporte - Normal",
+      "Support - Response": "Suporte - Resposta",
+      "Support - Equipment": "Suporte - Equipamento"
+    },
+    "Deck - Others": {
+      "type": "Tipo",
+      "cost": "Rank",
+      "attribute": "Atributo",
+      "class": "Classe",
+      "hp": "PV",
+      "effect": "Efeito"
+    },
+    "Gameplay": {
+      "Standard": "Padrão"
+    },
+    "Sections": {
+      "Battlefield": "Campo de Batalha",
+      "FieldZone": "Zona de Campo",
+      "Mana": "Zona de Energia"
+    },
+    "Big stuffs": {
+      "translations.customHelp": "Para saber mais sobre as regras, as cartas e como jogar, visite nosso site:\nhttps://frontierstcg.notion.site/Frontiers-TCG-Site-Oficial-217ff10ca08b80308e88debfc22e1e5d",
+      "translations.mulliganInfo": "Mulligan fr"
+    }
+  }
+}
