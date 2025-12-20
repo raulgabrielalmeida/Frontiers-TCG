@@ -1,12 +1,12 @@
 {
-  "additionalLanguages": ["pt_BR"],
+  "additionalLanguages": ["fr"],
   "en": {
     "Big stuffs": {
       "translations.customHelp": "To learn more about the rules, cards, and how to play, visit our website:\nhttps://frontierstcg.notion.site/Frontiers-TCG-Official-Website-27dff10ca08b804198b8ff877f8a2de2",
       "translations.mulliganInfo": "mulligan en"
     }
   },
-  "pt-BR": {
+  "fr": {
     "Deck - Card types": {
       "Mana": "Energia",
       "Character": "Personagem",
