@@ -13,7 +13,7 @@
     ],
     "decksUrl": "https://raulgabrielalmeida.github.io/Frontiers-TCG/Frontiers-TCG-structural-decks.json"
   },
-  "customHelp": "To learn more about the rules, cards, and how to play, visit our website:\nhttps://frontierstcg.notion.site/Frontiers-TCG-Official-Website-27dff10ca08b804198b8ff877f8a2de2",
+  "customHelp": "translations.customHelp",
   "cardRotation": "45",
   "cards": {
     "dataUrl": "https://raulgabrielalmeida.github.io/Frontiers-TCG/test/Frontiers-TCG-cards.json",
@@ -25,15 +25,53 @@
       {
         "title": "Standard",
         "gameplay": "Standard",
+        "deckRuleset": "Standard",
         "customCategories": []
       }
-    ]
+    ],
+    "deckRulesets": {
+      "Standard": {
+        "general": {
+          "min": 36,
+          "max": 36,
+          "maxPerCard": 6
+        },
+        "categories": [
+          {
+            "category": "Character",
+            "maxPerCard": 2
+          },
+          {
+            "category": "Support - Normal",
+            "maxPerCard": 2
+          },
+          {
+            "category": "Support - Response",
+            "maxPerCard": 2
+          },
+          {
+            "category": "Support - Field",
+            "maxPerCard": 2
+          },
+          {
+            "category": "Support - Equipment",
+            "maxPerCard": 2
+          },
+          {
+            "category": "Mana",
+            "min": 6,
+            "max": 6
+          }
+        ]
+      }
+    }
+
   },
 
   "gameplay": {
     "Standard": {
       "mulligan": {
-        "info": "Mulligan Base",
+        "info": "translations.mulliganInfo",
         "startingHandSize": 5,
         "drawNewHand": true,
         "putSelectionAtBottom": false,
@@ -185,43 +223,5 @@
         }
       }
     }
-  },
-
-
-  "additionalLanguages": ["fr"],
-  "en": {
-        "Big stuffs": {
-            "translations.customHelp": "To learn more about the rules, cards, and how to play, visit our website:\nhttps://frontierstcg.notion.site/Frontiers-TCG-Official-Website-27dff10ca08b804198b8ff877f8a2de2",
-            "translations.mulliganInfo": "mulligan en"
-        }
-    },"fr": {
-      "Deck - Card types": {
-        "Mana": "Energia",
-        "Character": "Personagem",
-        "Support - Field": "Suporte - Campo",
-        "Support - Normal": "Suporte - Normal",
-        "Support - Response": "Suporte - Resposta",
-        "Support - Equipment": "Suporte - Equipamento"
-      },
-      "Deck - Others": {
-        "type": "Tipo",
-        "cost": "Rank",
-        "attribute": "Atributo",
-        "class": "Classe",
-        "hp": "PV",
-        "effect": "Efeito"
-      },
-      "Gameplay": {
-        "Standard": "Padrão"
-      },
-      "Sections": {
-        "Battlefield": "Campo de Batalha",
-        "FieldZone": "Zona de Campo",
-        "Mana": "Zona de Energia"
-      },
-      "Big stuffs": {
-        "translations.customHelp": "Para saber mais sobre as regras, as cartas e como jogar, visite nosso site:\nhttps://frontierstcg.notion.site/Frontiers-TCG-Site-Oficial-217ff10ca08b80308e88debfc22e1e5d",
-        "translations.mulliganInfo": "Mulligan fr"
-      }
-    }
+  }
 }
