@@ -223,5 +223,7 @@
         }
       }
     }
-  }
+  },
+
+  "translationsUrl": "https://raulgabrielalmeida.github.io/Frontiers-TCG/Translations.json"
 }
