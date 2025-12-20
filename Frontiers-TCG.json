@@ -1,0 +1,188 @@
+{
+  "name": "Frontiers TCG",
+  "menuBackgroundImage": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/Wallpaper.png",
+  "defaultRessources": {
+    "backgrounds": [
+      "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/CielPM.png",
+      "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/Ammo-NiacPM.png",
+      "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/AstarothPM.png",
+      "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/CranellPM.png",
+      "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/DraculaPM.png",
+      "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/HeatherPM.png",
+      "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/PastelPM.png"
+    ],
+    "decksUrl": "https://raulgabrielalmeida.github.io/Frontiers-TCG/Frontiers-TCG-structural-decks.json"
+  },
+  "customHelp": "Para mais informações acesse nosso site: \n https://frontierstcg.notion.site/Frontiers-TCG-Site-Oficial-217ff10ca08b80308e88debfc22e1e5d",
+  "cardRotation": "45",
+  "cards": {
+    "dataUrl": "https://raulgabrielalmeida.github.io/Frontiers-TCG/Frontiers-TCG-cards.json",
+    "cardBack": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/back.png"
+  },
+  "deckBuilding": {
+    "mainFilters": ["name", "type", "cost"],
+    "formats": [
+      {
+        "title": "Standard",
+        "gameplay": "Standard",
+        "customCategories": []
+      }
+    ]
+  },
+  "gameplay": {
+    "Standard": {
+      "mulligan": {
+        "info": "DECIDE AI MEU BOM KK",
+        "startingHandSize": 5,
+        "drawNewHand": true,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": false
+      },
+      "newTurn": {
+        "drawOnStart": true,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "TOKEN AQUI FP",
+        "drawPerTurn": 1
+      },
+      "defaultNotes": "",
+      "tokens": [],
+      "draggableTokens": [
+        {
+          "id": "Frozen",
+          "name": "Frozen token",
+          "image": "https://frontierstcg.notion.site/image/attachment%3Aa65fb0cf-5cec-4784-ba6d-5c6dc9cf4fc8%3ACONGELADO.png?table=block&id=296ff10c-a08b-8072-b94c-f563d4ad8291&spaceId=580ff10c-a08b-8113-98de-00037ae9e6e3&width=480&userId=&cache=v2"
+        },
+        {
+          "id": "Burned",
+          "name": "Burned token",
+          "image": "https://frontierstcg.notion.site/image/attachment%3Aa2975579-e23c-4718-8a97-aba1e896f575%3AQUEIMANDO.png?table=block&id=296ff10c-a08b-8076-85f3-e9e4c7b99c70&spaceId=580ff10c-a08b-8113-98de-00037ae9e6e3&width=480&userId=&cache=v2"
+        },
+        {
+          "id": "Paralysis",
+          "name": "Paralysis token",
+          "image": "https://frontierstcg.notion.site/image/attachment%3Af2f6a5ad-6781-4c0f-a1ba-d7e768899b38%3APARALISADO.png?table=block&id=296ff10c-a08b-80a9-8ae4-f9a2048d882c&spaceId=580ff10c-a08b-8113-98de-00037ae9e6e3&width=480&userId=&cache=v2"
+        },
+        {
+          "id": "Poisoned",
+          "name": "Poisoned token",
+          "image": "https://frontierstcg.notion.site/image/attachment%3A17f1acb6-ea25-4534-a560-4b77858516b4%3AENVENENADO.png?table=block&id=296ff10c-a08b-8046-96e2-d52735bc5a62&spaceId=580ff10c-a08b-8113-98de-00037ae9e6e3&width=480&userId=&cache=v2"
+        },
+        {
+          "id": "Silenced",
+          "name": "Silenced token",
+          "image": "https://frontierstcg.notion.site/image/attachment%3A10cf67f7-991e-4d72-ba06-7ae0ed31fec6%3ASILENCIADO.png?table=block&id=296ff10c-a08b-8056-867c-d6c01331ca98&spaceId=580ff10c-a08b-8113-98de-00037ae9e6e3&width=480&userId=&cache=v2"
+        },
+        {
+          "id": "Weakened",
+          "name": "Weakened token",
+          "image": "https://frontierstcg.notion.site/image/attachment%3Ab6ff9c06-0f53-4b84-a2cb-67ede4daf501%3AENFRAQUECIDO.png?table=block&id=296ff10c-a08b-805d-994b-cd5d3f5a2c21&spaceId=580ff10c-a08b-8113-98de-00037ae9e6e3&width=480&userId=&cache=v2"
+        }
+      ],
+      "countersStartingValues": ["12"],
+      "hideFacedDownCards": true,
+      "sections": {
+        "customSections": ["Battlefield", "FieldZone", "Mana"],
+        "layout": {
+          "direction": "column",
+          "isSymetricalForOpponents": false,
+          "content": [
+            {
+              "direction": "row",
+              "content": [
+                {
+                  "section": "FieldZone",
+                  "style": {
+                    "width": "25vh"
+                  }
+                },
+                {
+                  "section": "Battlefield"
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "column",
+              "style": false,
+              "content": [
+                {
+                  "section": "Mana",
+                  "style": {
+                    "width": "50vh"
+                  }
+                }
+              ],
+              "isSymetricalForOpponents": false
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": ["Mana"],
+        "autoPlayFromHand": {
+          "Mana": "Mana",
+          "Personagem": "Battlefield",
+          "Suporte - Normal": "Stack",
+          "Suporte - Resposta": "Stack",
+          "Suporte - Equipamento": "Stack",
+          "Suporte - Campo": "FieldZone"
+        },
+        "autoPlayFromStack": {
+          "Personagem": "Battlefield",
+          "Suporte - Normal": "Discard",
+          "Suporte - Resposta": "Discard",
+          "Suporte - Equipamento": "GROUP",
+          "Suporte - Campo": "FieldZone"
+        },
+        "sectionsDict": {
+          "Battlefield": {
+            "title": "Battlefield",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "CAMPO DE BATALHA",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false,
+            "enterSpun": false
+          },
+          "FieldZone": {
+            "title": "FieldZone",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "SUPORTE DE CAMPO",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false,
+            "enterSpun": false
+          },
+          "Mana": {
+            "title": "Mana",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "ZONA DE ENERGIA",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          }
+        }
+      }
+    }
+  }
+}
