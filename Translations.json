@@ -19,12 +19,6 @@
       "Support - Equipment": "Suporte - Equipamento"
     },
     "Deck - Others": {
-      "type": "Tipo",
-      "cost": "Rank",
-      "attribute": "Atributo",
-      "class": "Classe",
-      "hp": "PV",
-      "effect": "Efeito",
       "Sideboard": "Reserva"
     },
     "Gameplay": {
