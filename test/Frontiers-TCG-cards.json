@@ -4,7 +4,7 @@
     "face": {
       "front": {
         "name": {
-          "en": "Cranell a Lider da Brigada Estelar",
+          "en": "Cranell, Leader of the Star Brigade",
           "fr": "Cranell a Lider da Brigada Estelar"
         },
         "type": "Character",
@@ -17,14 +17,14 @@
       }
     },
     "name": {
-      "en": "Cranell a Lider da Brigada Estelar",
+      "en": "Cranell, Leader of the Star Brigade",
       "fr": "Cranell a Lider da Brigada Estelar"
     },
     "type": "Character",
     "cost": 3,
     "attribute": {
       "en": "Water",
-      "fr": "Água"
+      "fr": "Agua"
     },
     "class": {
       "en": "Warrior",
@@ -61,7 +61,7 @@
     "cost": 3,
     "attribute": {
       "en": "Water",
-      "fr": "Água"
+      "fr": "Agua"
     },
     "class": {
       "en": "Warrior",
@@ -99,7 +99,7 @@
     "cost": 3,
     "attribute": {
       "en": "Water",
-      "fr": "Água"
+      "fr": "Agua"
     },
     "class": {
       "en": "Spellcaster",
@@ -137,7 +137,7 @@
     "cost": 3,
     "attribute": {
       "en": "Water",
-      "fr": "Água"
+      "fr": "Agua"
     },
     "class": {
       "en": "Warrior",
@@ -175,7 +175,7 @@
     "cost": 2,
     "attribute": {
       "en": "Water",
-      "fr": "Água"
+      "fr": "Agua"
     },
     "class": {
       "en": "Spellcaster",
@@ -213,11 +213,11 @@
     "cost": 1,
     "attribute": {
       "en": "Water",
-      "fr": "Água"
+      "fr": "Agua"
     },
     "class": {
       "en": "Machine",
-      "fr": "Máquina"
+      "fr": "Maquina"
     },
     "hp": "50",
     "effect": {
@@ -883,7 +883,7 @@
     },
     "class": {
       "en": "Machine",
-      "fr": "Máquina"
+      "fr": "Maquina"
     },
     "hp": "160",
     "effect": {
@@ -921,7 +921,7 @@
     },
     "class": {
       "en": "Machine",
-      "fr": "Máquina"
+      "fr": "Maquina"
     },
     "hp": "160",
     "effect": {
@@ -1797,7 +1797,7 @@
     "cost": 5,
     "attribute": {
       "en": "Water",
-      "fr": "Água"
+      "fr": "Agua"
     },
     "class": {
       "en": "guerreio",
@@ -1835,7 +1835,7 @@
     "cost": 3,
     "attribute": {
       "en": "Water",
-      "fr": "Água"
+      "fr": "Agua"
     },
     "class": {
       "en": "Construct",
@@ -1873,11 +1873,11 @@
     "cost": 2,
     "attribute": {
       "en": "Water",
-      "fr": "Água"
+      "fr": "Agua"
     },
     "class": {
       "en": "Machine",
-      "fr": "Máquina"
+      "fr": "Maquina"
     },
     "hp": "50",
     "effect": {
@@ -1911,7 +1911,7 @@
     "cost": 3,
     "attribute": {
       "en": "Water",
-      "fr": "Água"
+      "fr": "Agua"
     },
     "class": {
       "en": "Nature",
@@ -1949,7 +1949,7 @@
     "cost": 3,
     "attribute": {
       "en": "Water",
-      "fr": "Água"
+      "fr": "Agua"
     },
     "class": {
       "en": "Beast",
@@ -1987,7 +1987,7 @@
     "cost": 1,
     "attribute": {
       "en": "Water",
-      "fr": "Água"
+      "fr": "Agua"
     },
     "class": {
       "en": "Nature",
@@ -2029,7 +2029,7 @@
     },
     "class": {
       "en": "Dragon",
-      "fr": "Dragão"
+      "fr": "Dragao"
     },
     "hp": "180",
     "effect": {
@@ -2181,7 +2181,7 @@
     },
     "class": {
       "en": "Dragon",
-      "fr": "Dragão"
+      "fr": "Dragao"
     },
     "hp": "100",
     "effect": {
@@ -2446,8 +2446,8 @@
       "fr": "Luz"
     },
     "class": {
-      "en": "fada",
-      "fr": "fada"
+      "en": "Fairy",
+      "fr": "Fada"
     },
     "hp": "50",
     "effect": {
@@ -2485,7 +2485,7 @@
     },
     "class": {
       "en": "Machine",
-      "fr": "Máquina"
+      "fr": "Maquina"
     },
     "hp": "170",
     "effect": {
@@ -2523,7 +2523,7 @@
     },
     "class": {
       "en": "Machine",
-      "fr": "Máquina"
+      "fr": "Maquina"
     },
     "hp": "170",
     "effect": {
@@ -2561,7 +2561,7 @@
     },
     "class": {
       "en": "Machine",
-      "fr": "Máquina"
+      "fr": "Maquina"
     },
     "hp": "110",
     "effect": {
@@ -2599,7 +2599,7 @@
     },
     "class": {
       "en": "Dragon",
-      "fr": "Dragão"
+      "fr": "Dragao"
     },
     "hp": "170",
     "effect": {
@@ -2637,7 +2637,7 @@
     },
     "class": {
       "en": "Machine",
-      "fr": "Máquina"
+      "fr": "Maquina"
     },
     "hp": "100",
     "effect": {
@@ -2941,7 +2941,7 @@
     },
     "class": {
       "en": "Machine",
-      "fr": "Máquina"
+      "fr": "Maquina"
     },
     "hp": "70",
     "effect": {
@@ -3093,7 +3093,7 @@
     },
     "class": {
       "en": "Machine",
-      "fr": "Máquina"
+      "fr": "Maquina"
     },
     "hp": "100",
     "effect": {
@@ -3207,7 +3207,7 @@
     },
     "class": {
       "en": "Machine",
-      "fr": "Máquina"
+      "fr": "Maquina"
     },
     "hp": "80",
     "effect": {
@@ -3245,7 +3245,7 @@
     },
     "class": {
       "en": "Machine",
-      "fr": "Máquina"
+      "fr": "Maquina"
     },
     "hp": "110",
     "effect": {
@@ -3321,7 +3321,7 @@
     },
     "class": {
       "en": "Dragon",
-      "fr": "Dragão"
+      "fr": "Dragao"
     },
     "hp": "160",
     "effect": {
@@ -3397,7 +3397,7 @@
     },
     "class": {
       "en": "Dragon",
-      "fr": "Dragão"
+      "fr": "Dragao"
     },
     "hp": "90",
     "effect": {
@@ -4789,7 +4789,7 @@
     },
     "class": {
       "en": "Machine",
-      "fr": "Máquina"
+      "fr": "Maquina"
     },
     "hp": "120",
     "effect": {
