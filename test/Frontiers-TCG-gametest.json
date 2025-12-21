@@ -34,29 +34,9 @@
         "general": {
           "min": 36,
           "max": 36,
-          "maxPerCard": 6
+          "maxPerCard": 2
         },
         "categories": [
-          {
-            "category": "Character",
-            "maxPerCard": 2
-          },
-          {
-            "category": "Support - Normal",
-            "maxPerCard": 2
-          },
-          {
-            "category": "Support - Response",
-            "maxPerCard": 2
-          },
-          {
-            "category": "Support - Field",
-            "maxPerCard": 2
-          },
-          {
-            "category": "Support - Equipment",
-            "maxPerCard": 2
-          },
           {
             "category": "Mana",
             "min": 6,
@@ -180,7 +160,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "Battlefield",
+            "displayedTitle": "Battle Zone",
             "noQuickActions": false,
             "enterTapped": false,
             "isGroupForbidden": false,
