@@ -1,6 +1,6 @@
 {
-  "name": "Frontiers TCG",
-  "menuBackgroundImage": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/WallpaperPlus.png",
+  "name": "[GAMETEST Frontiers TCG]",
+  "menuBackgroundImage": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/Wallpaper.png",
   "defaultRessources": {
     "backgrounds": [
       "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/CielPM.png",
@@ -13,10 +13,10 @@
     ],
     "decksUrl": "https://raulgabrielalmeida.github.io/Frontiers-TCG/Frontiers-TCG-structural-decks.json"
   },
-  "customHelp": "Para mais informações acesse nosso site: \n https://frontierstcg.notion.site/Frontiers-TCG-Site-Oficial-217ff10ca08b80308e88debfc22e1e5d",
+  "customHelp": "translations.customHelp",
   "cardRotation": "45",
   "cards": {
-    "dataUrl": "https://raulgabrielalmeida.github.io/Frontiers-TCG/Frontiers-TCG-cards.json",
+    "dataUrl": "https://raulgabrielalmeida.github.io/Frontiers-TCG/test/Frontiers-TCG-cards.json",
     "cardBack": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/back.png"
   },
   "deckBuilding": {
@@ -25,14 +25,33 @@
       {
         "title": "Standard",
         "gameplay": "Standard",
+        "deckRuleset": "Standard",
         "customCategories": []
       }
-    ]
+    ],
+    "deckRulesets": {
+      "Standard": {
+        "general": {
+          "min": 36,
+          "max": 36,
+          "maxPerCard": 2
+        },
+        "categories": [
+          {
+            "category": "Mana",
+            "min": 6,
+            "max": 6
+          }
+        ]
+      }
+    }
+
   },
+
   "gameplay": {
     "Standard": {
       "mulligan": {
-        "info": "DECIDE AI MEU BOM KK",
+        "info": "translations.mulliganInfo",
         "startingHandSize": 5,
         "drawNewHand": true,
         "putSelectionAtBottom": false,
@@ -41,7 +60,7 @@
       "newTurn": {
         "drawOnStart": true,
         "sharedTurn": false,
-        "firstPlayerTokenName": "TOKEN AQUI FP",
+        "firstPlayerTokenName": "",
         "drawPerTurn": 1
       },
       "defaultNotes": "",
@@ -119,18 +138,18 @@
         "categoriesAlreadyOnBoard": ["Mana"],
         "autoPlayFromHand": {
           "Mana": "Mana",
-          "Personagem": "Battlefield",
-          "Suporte - Normal": "Stack",
-          "Suporte - Resposta": "Stack",
-          "Suporte - Equipamento": "Stack",
-          "Suporte - Campo": "FieldZone"
+          "Character": "Battlefield",
+          "Support - Normal": "Stack",
+          "Support - Response": "Stack",
+          "Support - Equipment": "Stack",
+          "Support - Field": "FieldZone"
         },
         "autoPlayFromStack": {
-          "Personagem": "Battlefield",
-          "Suporte - Normal": "Discard",
-          "Suporte - Resposta": "Discard",
-          "Suporte - Equipamento": "GROUP",
-          "Suporte - Campo": "FieldZone"
+          "Character": "Battlefield",
+          "Support - Normal": "Discard",
+          "Support - Response": "Discard",
+          "Support - Equipment": "GROUP",
+          "Support - Field": "FieldZone"
         },
         "sectionsDict": {
           "Battlefield": {
@@ -141,7 +160,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "CAMPO DE BATALHA",
+            "displayedTitle": "Battle Zone",
             "noQuickActions": false,
             "enterTapped": false,
             "isGroupForbidden": false,
@@ -157,7 +176,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "SUPORTE DE CAMPO",
+            "displayedTitle": "Field Zone",
             "noQuickActions": true,
             "enterTapped": false,
             "isGroupForbidden": false,
@@ -173,7 +192,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
-            "displayedTitle": "ZONA DE ENERGIA",
+            "displayedTitle": "Energy Zone",
             "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
@@ -184,5 +203,7 @@
         }
       }
     }
-  }
+  },
+
+  "translationsUrl": "https://raulgabrielalmeida.github.io/Frontiers-TCG/Translations.json"
 }
