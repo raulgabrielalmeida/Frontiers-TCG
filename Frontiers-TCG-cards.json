@@ -853,7 +853,7 @@
         "type": "Character",
         "cost": 4,
         "image": {
-          "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards/A020b.png",
+          "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A020b.png",
           "fr": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards/A020b.png"
         },
         "isHorizontal": false
@@ -1406,7 +1406,7 @@
         "type": "Character",
         "cost": 3,
         "image": {
-          "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards/A035b.png",
+          "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A035b.png",
           "fr": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards/A035b.png"
         },
         "isHorizontal": false
