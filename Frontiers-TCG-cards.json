@@ -483,6 +483,46 @@
     "pv": "150",
     "effect": "Yes"
   },
+  "A020a": {
+    "id": "A020a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ciel a Arquimaga do Relampago Dourado",
+        "type": "Personagem",
+        "cost": 4,
+        "image": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards/A020.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ciel a Arquimaga do Relampago Dourado",
+    "type": "Personagem",
+    "cost": 4,
+    "attribute": "light",
+    "class": "mago",
+    "pv": "150",
+    "effect": "Yes"
+  },
+  "A020b": {
+    "id": "A020b",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ciel a Arquimaga do Relampago Dourado",
+        "type": "Personagem",
+        "cost": 4,
+        "image": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards/A020.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ciel a Arquimaga do Relampago Dourado",
+    "type": "Personagem",
+    "cost": 4,
+    "attribute": "light",
+    "class": "mago",
+    "pv": "150",
+    "effect": "Yes"
+  },
   "A021": {
     "id": "A021",
     "isToken": false,
@@ -747,6 +787,46 @@
   },
   "A035": {
     "id": "A035",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lilith a Dama do Senhor da Noite",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards/A035.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lilith a Dama do Senhor da Noite",
+    "type": "Personagem",
+    "cost": 3,
+    "attribute": "dark",
+    "class": "noturno",
+    "pv": "120",
+    "effect": "Yes"
+  },
+  "A035a": {
+    "id": "A035a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lilith a Dama do Senhor da Noite",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards/A035.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lilith a Dama do Senhor da Noite",
+    "type": "Personagem",
+    "cost": 3,
+    "attribute": "dark",
+    "class": "noturno",
+    "pv": "120",
+    "effect": "Yes"
+  },
+  "A035b": {
+    "id": "A035b",
     "isToken": false,
     "face": {
       "front": {
