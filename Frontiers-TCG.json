@@ -16,7 +16,7 @@
   "customHelp": "translations.customHelp",
   "cardRotation": "45",
   "cards": {
-    "dataUrl": "https://raulgabrielalmeida.github.io/Frontiers-TCG/test/Frontiers-TCG-cards.json",
+    "dataUrl": "https://raulgabrielalmeida.github.io/Frontiers-TCG/Frontiers-TCG-cards.json",
     "cardBack": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/back.png"
   },
   "deckBuilding": {
