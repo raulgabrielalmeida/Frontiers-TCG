@@ -4083,7 +4083,8 @@
       "fr": "Sim"
     },
     "attribute": null,
-    "class": null
+    "class": null,
+    "Banlist": "Limited"
   },
   "A116": {
     "id": "A116",
@@ -4111,7 +4112,8 @@
       "fr": "Sim"
     },
     "attribute": null,
-    "class": null
+    "class": null,
+    "Banlist": "Limited"
   },
   "A117": {
     "id": "A117",
@@ -4251,7 +4253,8 @@
       "fr": "Sim"
     },
     "attribute": null,
-    "class": null
+    "class": null,
+    "Banlist": "Limited"
   },
   "A122": {
     "id": "A122",
