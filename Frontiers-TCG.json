@@ -20,6 +20,7 @@
     "cardBack": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/back.png"
   },
   "deckBuilding": {
+
     "mainFilters": ["name", "type", "cost"],
     "formats": [
       {
@@ -27,10 +28,38 @@
         "gameplay": "Standard",
         "deckRuleset": "Standard",
         "customCategories": []
+      },
+      {
+        "title": "Unlimited",
+        "gameplay": "Standard",
+        "deckRuleset": "Unlimited",
+        "customCategories": []
       }
     ],
     "deckRulesets": {
       "Standard": {
+        "general": {
+          "min": 36,
+          "max": 36,
+          "maxPerCard": 2
+        },
+        "categories": [
+          {
+            "category": "Mana",
+            "min": 6,
+            "max": 6
+          },
+          {
+            "Banlist": "Limited",
+            "max": 1
+          },
+          {
+            "Banlist": "Banned",
+            "max": 0
+          }
+        ]
+      },
+      "Unlimited": {
         "general": {
           "min": 36,
           "max": 36,
@@ -49,6 +78,7 @@
   },
 
   "gameplay": {
+
     "Standard": {
       "mulligan": {
         "info": "translations.mulliganInfo",
@@ -203,6 +233,7 @@
         }
       }
     }
+    
   },
 
   "translationsUrl": "https://raulgabrielalmeida.github.io/Frontiers-TCG/Translations.json"
