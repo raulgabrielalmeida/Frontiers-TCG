@@ -38,11 +38,7 @@
     ],
     "deckRulesets": {
       "Standard": {
-        "general": {
-          "min": 36,
-          "max": 36,
-          "maxPerCard": 2
-        },
+        
         "categories": [
           {
             "category": "Mana",
@@ -58,13 +54,10 @@
             "max": 0
           }
         ]
+        
       },
       "Unlimited": {
-        "general": {
-          "min": 36,
-          "max": 36,
-          "maxPerCard": 2
-        },
+        
         "categories": [
           {
             "category": "Mana",
@@ -72,6 +65,7 @@
             "max": 6
           }
         ]
+
       }
     }
 
