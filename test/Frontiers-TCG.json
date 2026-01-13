@@ -116,7 +116,7 @@
       "countersStartingValues": ["12"],
       "hideFacedDownCards": true,
       "sections": {
-        "customSections": ["Battlefield", "FieldZone", "Mana"],
+        "customSections": ["Battlefield", "FieldZone", "EnergyZone"],
         "layout": {
           "direction": "column",
           "isSymetricalForOpponents": false,
@@ -141,7 +141,7 @@
               "style": false,
               "content": [
                 {
-                  "section": "Mana",
+                  "section": "EnergyZone",
                   "style": {
                     "width": "50vh"
                   }
@@ -151,9 +151,9 @@
             }
           ]
         },
-        "categoriesAlreadyOnBoard": ["Mana"],
+        "categoriesAlreadyOnBoard": ["Energy"],
         "autoPlayFromHand": {
-          "Mana": "Mana",
+          "Energy": "EnergyZone",
           "Character": "Battlefield",
           "Support - Normal": "Stack",
           "Support - Response": "Stack",
@@ -193,15 +193,15 @@
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "Field Zone",
-            "noQuickActions": true,
+            "noQuickActions": false,
             "enterTapped": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false,
             "enterSpun": false
           },
-          "Mana": {
-            "title": "Mana",
+          "EnergyZone": {
+            "title": "EnergyZone",
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",

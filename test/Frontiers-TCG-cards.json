@@ -3,18 +3,18 @@
     "id": "A000a",
     "face": {
       "front": {
-        "name": "Mana",
-        "type": "Mana",
+        "name": "Energy",
+        "type": "Energy",
         "cost": 0,
         "image": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/energia/e1.png",
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Mana",
-      "fr": "Mana"
+      "en": "Energy",
+      "fr": "Energy"
     },
-    "type": "Mana",
+    "type": "Energy",
     "attribute": null,
     "class": null,
     "effect": null
@@ -23,18 +23,18 @@
     "id": "A000b",
     "face": {
       "front": {
-        "name": "Mana",
-        "type": "Mana",
+        "name": "Energy",
+        "type": "Energy",
         "cost": 0,
         "image": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/energia/e2.png",
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Mana",
-      "fr": "Mana"
+      "en": "Energy",
+      "fr": "Energy"
     },
-    "type": "Mana",
+    "type": "Energy",
     "attribute": null,
     "class": null,
     "effect": null
@@ -43,18 +43,18 @@
     "id": "A000c",
     "face": {
       "front": {
-        "name": "Mana",
-        "type": "Mana",
+        "name": "Energy",
+        "type": "Energy",
         "cost": 0,
         "image": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/energia/e3.png",
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Mana",
-      "fr": "Mana"
+      "en": "Energy",
+      "fr": "Energy"
     },
-    "type": "Mana",
+    "type": "Energy",
     "attribute": null,
     "class": null,
     "effect": null
@@ -63,18 +63,18 @@
     "id": "A000d",
     "face": {
       "front": {
-        "name": "Mana",
-        "type": "Mana",
+        "name": "Energy",
+        "type": "Energy",
         "cost": 0,
         "image": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/energia/e4.png",
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Mana",
-      "fr": "Mana"
+      "en": "Energy",
+      "fr": "Energy"
     },
-    "type": "Mana",
+    "type": "Energy",
     "attribute": null,
     "class": null,
     "effect": null
@@ -83,18 +83,18 @@
     "id": "A000e",
     "face": {
       "front": {
-        "name": "Mana",
-        "type": "Mana",
+        "name": "Energy",
+        "type": "Energy",
         "cost": 0,
         "image": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/energia/e5.png",
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Mana",
-      "fr": "Mana"
+      "en": "Energy",
+      "fr": "Energy"
     },
-    "type": "Mana",
+    "type": "Energy",
     "attribute": null,
     "class": null,
     "effect": null
@@ -103,18 +103,18 @@
     "id": "A000f",
     "face": {
       "front": {
-        "name": "Mana",
-        "type": "Mana",
+        "name": "Energy",
+        "type": "Energy",
         "cost": 0,
         "image": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/energia/e6.png",
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Mana",
-      "fr": "Mana"
+      "en": "Energy",
+      "fr": "Energy"
     },
-    "type": "Mana",
+    "type": "Energy",
     "attribute": null,
     "class": null,
     "effect": null
@@ -123,18 +123,18 @@
     "id": "A000g",
     "face": {
       "front": {
-        "name": "Mana",
-        "type": "Mana",
+        "name": "Energy",
+        "type": "Energy",
         "cost": 0,
         "image": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/energia/e7.png",
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Mana",
-      "fr": "Mana"
+      "en": "Energy",
+      "fr": "Energy"
     },
-    "type": "Mana",
+    "type": "Energy",
     "attribute": null,
     "class": null,
     "effect": null
