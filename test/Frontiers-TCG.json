@@ -5,7 +5,7 @@
     "backgrounds": [],
     "decksUrl": "https://raulgabrielalmeida.github.io/Frontiers-TCG/test/Frontiers-TCG-structural-decks.json"
   },
-  "customHelp": "",
+  "customHelp": "SEM TRADUÇÃO",
   "cardRotation": "45",
   "cards": {
     "dataUrl": "https://raulgabrielalmeida.github.io/Frontiers-TCG/test/Frontiers-TCG-cards.json",
@@ -38,12 +38,12 @@
             "max": 6
           },
           {
-            "Banlist": "Limited",
-            "max": 1
+            "category": "Limited",
+            "maxmaxPerCard": 1
           },
           {
-            "Banlist": "Banned",
-            "max": 0
+            "category": "Banned",
+            "maxmaxPerCard": 0
           }
         ]
         
@@ -79,7 +79,7 @@
         "firstPlayerTokenName": "",
         "drawPerTurn": 1
       },
-      "defaultNotes": "",
+      "defaultNotes": " Notas PADRAO TESTE",
       "tokens": [],
       "draggableTokens": [
         {
@@ -220,7 +220,5 @@
       }
     }
     
-  },
-
-  "translationsUrl": "https://raulgabrielalmeida.github.io/Frontiers-TCG/test/Translations.json"
+  }
 }
