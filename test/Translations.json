@@ -1,15 +1,15 @@
 {
-  "additionalLanguages": ["fr"],
+  "additionalLanguages": ["PTbr"],
   "en": {
     "Big stuffs": {
-      "translations.customHelp": "To learn more about the rules, cards, and how to play, visit our website:\nhttps://frontierstcg.notion.site/Frontiers-TCG-Official-Website-27dff10ca08b804198b8ff877f8a2de2",
-      "translations.mulliganInfo": "If your starting hand has no Character cards, you may redraw it up to 3 times.\nWhenever your opponent takes a mulligan and you do not, you draw 1 extra card"
+      "translations.customHelp": " HELP Ingles",
+      "translations.mulliganInfo": "MULLIGAN Ingles"
     },
     "Gameplay": {
       "f.inf": "Infinity"
     }
   },
-  "fr": {
+  "PTbr": {
     "Deck - Card types": {
       "Mana": "Energia",
       "Character": "Personagem",
@@ -37,8 +37,8 @@
       "Pile" : "Efeitos"
     },
     "Big stuffs": {
-      "translations.customHelp": "Para saber mais sobre as regras, as cartas e como jogar, visite nosso site:\nhttps://frontierstcg.notion.site/Frontiers-TCG-Site-Oficial-217ff10ca08b80308e88debfc22e1e5d",
-      "translations.mulliganInfo": "Se sua mão inicial não tiver nenhuma carta de Personagem, você pode refazê-la até 3 vezes.\nSempre que seu oponente fizer um mulligan e você não, você compra 1 carta extra."
+      "translations.customHelp": "HELP PT-br",
+      "translations.mulliganInfo": "MULLIGAN PT-br"
     }
   }
 }
