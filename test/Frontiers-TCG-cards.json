@@ -169,8 +169,8 @@
     },
     "hp": "120",
     "effect": {
-      "en": "None",
-      "fr": "None"
+      "en": "Yes",
+      "fr": "Sim"
     }
   },
   "A002": {
@@ -179,7 +179,7 @@
       "front": {
         "name": "Ginna a Assassina da Brigada Estelar",
         "type": "Character",
-        "cost": 3,
+        "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A002.png",
           "fr": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards/A002.png"
@@ -192,7 +192,7 @@
       "fr": "Ginna, a Assassina da Brigada Estelar"
     },
     "type": "Character",
-    "cost": 3,
+    "cost": 2,
     "attribute": {
       "en": "Water",
       "fr": "Água"
@@ -201,7 +201,7 @@
       "en": "Warrior",
       "fr": "Guerreiro"
     },
-    "hp": "90",
+    "hp": "70",
     "effect": {
       "en": "Yes",
       "fr": "Sim"
@@ -214,7 +214,7 @@
       "front": {
         "name": "Rina a Curandeira da Brigada Estelar",
         "type": "Character",
-        "cost": 3,
+        "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A003.png",
           "fr": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards/A003.png"
@@ -227,7 +227,7 @@
       "fr": "Rina, a Curandeira da Brigada Estelar"
     },
     "type": "Character",
-    "cost": 3,
+    "cost": 2,
     "attribute": {
       "en": "Water",
       "fr": "Água"
@@ -236,7 +236,7 @@
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "hp": "90",
+    "hp": "70",
     "effect": {
       "en": "Yes",
       "fr": "Sim"
@@ -809,6 +809,76 @@
       "fr": "Sim"
     }
   },
+  "A020a": {
+    "id": "A020a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ciel a Arquimaga do Relampago Dourado",
+        "type": "Character",
+        "cost": 4,
+        "image": {
+          "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards/A020a.png",
+          "fr": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards/A020a.png"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Ciel, Archmage of the Golden Lightning",
+      "fr": "Ciel a Arquimaga do Relâmpago Dourado"
+    },
+    "type": "Character",
+    "cost": 4,
+    "attribute": {
+      "en": "Light",
+      "fr": "Luz"
+    },
+    "class": {
+      "en": "Spellcaster",
+      "fr": "Mago"
+    },
+    "hp": "150",
+    "effect": {
+      "en": "Yes",
+      "fr": "Sim"
+    }
+  },
+  "A020b": {
+    "id": "A020b",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ciel a Arquimaga do Relampago Dourado",
+        "type": "Character",
+        "cost": 4,
+        "image": {
+          "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A020b.png",
+          "fr": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards/A020b.png"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Ciel, Archmage of the Golden Lightning",
+      "fr": "Ciel a Arquimaga do Relâmpago Dourado"
+    },
+    "type": "Character",
+    "cost": 4,
+    "attribute": {
+      "en": "Light",
+      "fr": "Luz"
+    },
+    "class": {
+      "en": "Spellcaster",
+      "fr": "Mago"
+    },
+    "hp": "150",
+    "effect": {
+      "en": "Yes",
+      "fr": "Sim"
+    }
+  },
   "A021": {
     "id": "A021",
     "isToken": false,
@@ -1292,6 +1362,76 @@
       "fr": "Sim"
     }
   },
+  "A035a": {
+    "id": "A035a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lilith a Dama do Senhor da Noite",
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards/A035a.png",
+          "fr": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards/A035a.png"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Lilith, Mistress of the Lord of the Night",
+      "fr": "Lilith, a Dama do Senhor da Noite"
+    },
+    "type": "Character",
+    "cost": 3,
+    "attribute": {
+      "en": "Dark",
+      "fr": "Trevas"
+    },
+    "class": {
+      "en": "Nocturnal",
+      "fr": "Noturno"
+    },
+    "hp": "120",
+    "effect": {
+      "en": "Yes",
+      "fr": "Sim"
+    }
+  },
+  "A035b": {
+    "id": "A035b",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lilith a Dama do Senhor da Noite",
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A035b.png",
+          "fr": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards/A035b.png"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Lilith, Mistress of the Lord of the Night",
+      "fr": "Lilith, a Dama do Senhor da Noite"
+    },
+    "type": "Character",
+    "cost": 3,
+    "attribute": {
+      "en": "Dark",
+      "fr": "Trevas"
+    },
+    "class": {
+      "en": "Nocturnal",
+      "fr": "Noturno"
+    },
+    "hp": "120",
+    "effect": {
+      "en": "Yes",
+      "fr": "Sim"
+    }
+  },
   "A036": {
     "id": "A036",
     "isToken": false,
@@ -1566,7 +1706,7 @@
       "en": "Warrior",
       "fr": "Guerreiro"
     },
-    "hp": "110",
+    "hp": "100",
     "effect": {
       "en": "Yes",
       "fr": "Sim"
@@ -1638,8 +1778,8 @@
     },
     "hp": "150",
     "effect": {
-      "en": "None",
-      "fr": "None"
+      "en": "Yes",
+      "fr": "Sim"
     }
   },
   "A047": {
@@ -3943,7 +4083,8 @@
       "fr": "Sim"
     },
     "attribute": null,
-    "class": null
+    "class": null,
+    "Banlist": "Limited"
   },
   "A116": {
     "id": "A116",
@@ -3971,7 +4112,8 @@
       "fr": "Sim"
     },
     "attribute": null,
-    "class": null
+    "class": null,
+    "Banlist": "Limited"
   },
   "A117": {
     "id": "A117",
@@ -4111,7 +4253,8 @@
       "fr": "Sim"
     },
     "attribute": null,
-    "class": null
+    "class": null,
+    "Banlist": "Limited"
   },
   "A122": {
     "id": "A122",

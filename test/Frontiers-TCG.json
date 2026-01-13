@@ -1,5 +1,5 @@
 {
-  "name": "[GAMETEST Frontiers TCG]",
+  "name": "Frontiers TCG",
   "menuBackgroundImage": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/Wallpaper.png",
   "defaultRessources": {
     "backgrounds": [
@@ -16,10 +16,11 @@
   "customHelp": "translations.customHelp",
   "cardRotation": "45",
   "cards": {
-    "dataUrl": "https://raulgabrielalmeida.github.io/Frontiers-TCG/test/Frontiers-TCG-cards.json",
+    "dataUrl": "https://raulgabrielalmeida.github.io/Frontiers-TCG/Frontiers-TCG-cards.json",
     "cardBack": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/back.png"
   },
   "deckBuilding": {
+
     "mainFilters": ["name", "type", "cost"],
     "formats": [
       {
@@ -27,15 +28,36 @@
         "gameplay": "Standard",
         "deckRuleset": "Standard",
         "customCategories": []
+      },
+      {
+        "title": "Unlimited",
+        "gameplay": "Standard",
+        "deckRuleset": "Unlimited",
+        "customCategories": []
       }
     ],
     "deckRulesets": {
       "Standard": {
-        "general": {
-          "min": 36,
-          "max": 36,
-          "maxPerCard": 2
-        },
+        
+        "categories": [
+          {
+            "category": "Mana",
+            "min": 6,
+            "max": 6
+          },
+          {
+            "Banlist": "Limited",
+            "max": 1
+          },
+          {
+            "Banlist": "Banned",
+            "max": 0
+          }
+        ]
+        
+      },
+      "Unlimited": {
+        
         "categories": [
           {
             "category": "Mana",
@@ -43,12 +65,14 @@
             "max": 6
           }
         ]
+
       }
     }
 
   },
 
   "gameplay": {
+
     "Standard": {
       "mulligan": {
         "info": "translations.mulliganInfo",
@@ -203,6 +227,7 @@
         }
       }
     }
+    
   },
 
   "translationsUrl": "https://raulgabrielalmeida.github.io/Frontiers-TCG/Translations.json"
