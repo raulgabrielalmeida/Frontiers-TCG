@@ -1,16 +1,22 @@
 {
-
-
-  "name": "Frontiers TCG [DEV TEST]",
-  "menuBackgroundImage": "https://cdn.shopify.com/s/files/1/0712/9409/1574/files/162556_1_orig_1600x.jpg?v=1745341558",
+  "name": "Frontiers TCG",
+  "menuBackgroundImage": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/Wallpaper.png",
   "defaultRessources": {
-    "backgrounds": [],
-    "decksUrl": "https://raulgabrielalmeida.github.io/Frontiers-TCG/test/Frontiers-TCG-structural-decks.json"
+    "backgrounds": [
+      "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/CielPM.png",
+      "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/Ammo-NiacPM.png",
+      "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/AstarothPM.png",
+      "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/CranellPM.png",
+      "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/DraculaPM.png",
+      "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/HeatherPM.png",
+      "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/PastelPM.png"
+    ],
+    "decksUrl": "https://raulgabrielalmeida.github.io/Frontiers-TCG/Frontiers-TCG-structural-decks.json"
   },
-  "customHelp": "SEM TRADUÇÃO",
+  "customHelp": "translations.customHelp",
   "cardRotation": "45",
   "cards": {
-    "dataUrl": "https://raulgabrielalmeida.github.io/Frontiers-TCG/test/Frontiers-TCG-cards.json",
+    "dataUrl": "https://raulgabrielalmeida.github.io/Frontiers-TCG/Frontiers-TCG-cards.json",
     "cardBack": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/back.png"
   },
   "deckBuilding": {
@@ -35,17 +41,17 @@
         
         "categories": [
           {
-            "category": "Energy",
+            "category": "Mana",
             "min": 6,
             "max": 6
           },
           {
-            "category": "Limited",
-            "maxmaxPerCard": 1
+            "Banlist": "Limited",
+            "max": 1
           },
           {
-            "category": "Banned",
-            "maxmaxPerCard": 0
+            "Banlist": "Banned",
+            "max": 0
           }
         ]
         
@@ -54,7 +60,7 @@
         
         "categories": [
           {
-            "category": "Energy",
+            "category": "Mana",
             "min": 6,
             "max": 6
           }
@@ -69,7 +75,7 @@
 
     "Standard": {
       "mulligan": {
-        "info": "",
+        "info": "translations.mulliganInfo",
         "startingHandSize": 5,
         "drawNewHand": true,
         "putSelectionAtBottom": false,
@@ -81,7 +87,7 @@
         "firstPlayerTokenName": "",
         "drawPerTurn": 1
       },
-      "defaultNotes": " Notas PADRAO TESTE",
+      "defaultNotes": "",
       "tokens": [],
       "draggableTokens": [
         {
@@ -118,7 +124,7 @@
       "countersStartingValues": ["12"],
       "hideFacedDownCards": true,
       "sections": {
-        "customSections": ["Battlefield", "FieldZone", "Energy"],
+        "customSections": ["Battlefield", "FieldZone", "Mana"],
         "layout": {
           "direction": "column",
           "isSymetricalForOpponents": false,
@@ -143,7 +149,7 @@
               "style": false,
               "content": [
                 {
-                  "section": "Energy",
+                  "section": "Mana",
                   "style": {
                     "width": "50vh"
                   }
@@ -153,9 +159,9 @@
             }
           ]
         },
-        "categoriesAlreadyOnBoard": ["Energy"],
+        "categoriesAlreadyOnBoard": ["Mana"],
         "autoPlayFromHand": {
-          "Energy": "Energy",
+          "Mana": "Mana",
           "Character": "Battlefield",
           "Support - Normal": "Stack",
           "Support - Response": "Stack",
@@ -195,15 +201,15 @@
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "Field Zone",
-            "noQuickActions": false,
+            "noQuickActions": true,
             "enterTapped": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false,
             "enterSpun": false
           },
-          "Energy": {
-            "title": "Energy",
+          "Mana": {
+            "title": "Mana",
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
@@ -222,5 +228,7 @@
       }
     }
     
-  }
+  },
+
+  "translationsUrl": "https://raulgabrielalmeida.github.io/Frontiers-TCG/Translations.json"
 }
