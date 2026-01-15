@@ -1,19 +1,21 @@
 {
-  "E": {
-    "id": "E",
+  "0001": {
+    "id": "0001",
+    "isToken": false,
     "face": {
       "front": {
-        "name": "e1",
+        "name": "Purple Energy",
         "type": "Mana",
         "cost": 0,
         "image": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/energia/e1.png",
         "isHorizontal": false
       }
     },
-    "category": "Energy",
-    "name": "Energy",
+    "category": "Character",
+    "type": "Energy",
+    "name": "Purple Energy",
     "cost": 0
-
+    
   },
 
 
