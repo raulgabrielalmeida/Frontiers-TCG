@@ -107,7 +107,7 @@
       "countersStartingValues": ["12"],
       "hideFacedDownCards": true,
       "sections": {
-        "customSections": ["Battlefield", "FieldZone", "Mana"],
+        "customSections": ["Battlefield", "FieldZone", "ManaZone"],
         "layout": {
           "direction": "column",
           "isSymetricalForOpponents": false,
@@ -132,7 +132,7 @@
               "style": false,
               "content": [
                 {
-                  "section": "Mana",
+                  "section": "ManaZone",
                   "style": {
                     "width": "50vh"
                   }
@@ -142,9 +142,10 @@
             }
           ]
         },
-        "categoriesAlreadyOnBoard": ["Mana" , "Máquina", "Energy"],
+        "categoriesAlreadyOnBoard": ["Mana"],
+
         "autoPlayFromHand": {
-          "Mana": "Mana",
+          "Mana": "ManaZone",
           "Character": "Battlefield",
           "Support - Normal": "Stack",
           "Support - Response": "Stack",
@@ -191,8 +192,8 @@
             "showHiddenCardInHistory": false,
             "enterSpun": false
           },
-          "Mana": {
-            "title": "Mana",
+          "ManaZone": {
+            "title": "ManaZone",
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
