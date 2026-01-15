@@ -1,19 +1,10 @@
 {
-  "name": "Frontiers TCG",
+  "name": "Frontiers TCG [GAME TEST]",
   "menuBackgroundImage": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/Wallpaper.png",
   "defaultRessources": {
-    "backgrounds": [
-      "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/CielPM.png",
-      "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/Ammo-NiacPM.png",
-      "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/AstarothPM.png",
-      "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/CranellPM.png",
-      "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/DraculaPM.png",
-      "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/HeatherPM.png",
-      "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/PastelPM.png"
-    ],
-    "decksUrl": "https://raulgabrielalmeida.github.io/Frontiers-TCG/Frontiers-TCG-structural-decks.json"
+    "backgrounds": []
   },
-  "customHelp": "translations.customHelp",
+  "customHelp": "CHelp base",
   "cardRotation": "45",
   "cards": {
     "dataUrl": "https://raulgabrielalmeida.github.io/Frontiers-TCG/Frontiers-TCG-cards.json",
@@ -75,7 +66,7 @@
 
     "Standard": {
       "mulligan": {
-        "info": "translations.mulliganInfo",
+        "info": "Info Teste",
         "startingHandSize": 5,
         "drawNewHand": true,
         "putSelectionAtBottom": false,
@@ -228,7 +219,5 @@
       }
     }
     
-  },
-
-  "translationsUrl": "https://raulgabrielalmeida.github.io/Frontiers-TCG/Translations.json"
+  }
 }
