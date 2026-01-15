@@ -32,17 +32,9 @@
 
         "categories": [
           {
-            "category": "Mana",
+            "category": "Energy",
             "min": 6,
             "max": 6
-          },
-          {
-            "Banlist": "Limited",
-            "max": 1
-          },
-          {
-            "Banlist": "Banned",
-            "max": 0
           }
         ]
         
@@ -51,7 +43,7 @@
         
         "categories": [
           {
-            "category": "Mana",
+            "category": "Energy",
             "min": 6,
             "max": 6
           }
@@ -150,7 +142,7 @@
             }
           ]
         },
-        "categoriesAlreadyOnBoard": ["Mana"],
+        "categoriesAlreadyOnBoard": ["Mana" , "Máquina", "Energy"],
         "autoPlayFromHand": {
           "Mana": "Mana",
           "Character": "Battlefield",

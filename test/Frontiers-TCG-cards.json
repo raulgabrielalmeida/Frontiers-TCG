@@ -25,7 +25,7 @@
     "face": {
       "front": {
         "name": "Tezla o Mecha-Cientista",
-        "type": "Personagem",
+        "type": "Character",
         "cost": 3,
         "image": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards/A135.png",
         "isHorizontal": false
