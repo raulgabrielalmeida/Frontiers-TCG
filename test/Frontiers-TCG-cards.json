@@ -11,10 +11,9 @@
         "isHorizontal": false
       }
     },
-    "category": "Mana",
-    "name": "Mana",
+    "name": "P Energy",
     "cost": 0,
-    "type": "Mana"
+    "type": "Energy"
     
   },
 
