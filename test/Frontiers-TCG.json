@@ -1,13 +1,13 @@
 {
   "name": "Frontiers TCG [GAME TEST]",
-  "menuBackgroundImage": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/Wallpaper.png",
+  "menuBackgroundImage": "https://cdn.shopify.com/s/files/1/0712/9409/1574/files/162556_1_orig_1600x.jpg?v=1745341558",
   "defaultRessources": {
     "backgrounds": []
   },
   "customHelp": "CHelp base",
   "cardRotation": "45",
   "cards": {
-    "dataUrl": "https://raulgabrielalmeida.github.io/Frontiers-TCG/Frontiers-TCG-cards.json",
+    "dataUrl": "https://raulgabrielalmeida.github.io/Frontiers-TCG/test/Frontiers-TCG-cards.json",
     "cardBack": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/back.png"
   },
   "deckBuilding": {
