@@ -144,8 +144,9 @@
         },
         "categoriesAlreadyOnBoard": ["Mana"],
         "autoPlayFromHand": {
+          "Mana": "Mana",
           "Character": "Mana",
-          "Mana": "Battlefield",
+          "x": "Battlefield",
           "Support - Normal": "Stack",
           "Support - Response": "Stack",
           "Support - Equipment": "Stack",

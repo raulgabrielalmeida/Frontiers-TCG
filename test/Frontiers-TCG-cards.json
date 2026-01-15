@@ -5,16 +5,16 @@
     "face": {
       "front": {
         "name": "Purple Energy",
-        "type": "Energy",
+        "type": "Mana",
         "cost": 0,
         "image": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/energia/e1.png",
         "isHorizontal": false
       }
     },
     "category": "Energy Card",
-    "type": "Energy",
     "name": "Purple Energy",
-    "cost": 0
+    "cost": 0,
+    "type": "Energy"
     
   },
 
