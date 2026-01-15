@@ -4,17 +4,17 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Purple Energy",
+        "name": "Mana",
         "type": "Mana",
         "cost": 0,
         "image": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/energia/e1.png",
         "isHorizontal": false
       }
     },
-    "category": "Energy Card",
-    "name": "Purple Energy",
+    "category": "Mana",
+    "name": "Mana",
     "cost": 0,
-    "type": "Energy"
+    "type": "Mana"
     
   },
 
