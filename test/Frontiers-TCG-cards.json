@@ -1,43 +1,19 @@
 {
-  "A000a": {
-    "id": "A000a",
+  "E": {
+    "id": "E",
     "face": {
       "front": {
-        "name": "Mana",
+        "name": "e1",
         "type": "Mana",
         "cost": 0,
         "image": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/energia/e1.png",
         "isHorizontal": false
       }
     },
-    "name": {
-      "en": "Mana",
-      "fr": "Mana"
-    },
-    "type": "Mana",
-    "attribute": null,
-    "class": null,
-    "effect": null
-  },
-  "A000b": {
-    "id": "A000b",
-    "face": {
-      "front": {
-        "name": "Mana",
-        "type": "Mana",
-        "cost": 0,
-        "image": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/energia/e2.png",
-        "isHorizontal": false
-      }
-    },
-    "name": {
-      "en": "Mana",
-      "fr": "Mana"
-    },
-    "type": "Mana",
-    "attribute": null,
-    "class": null,
-    "effect": null
+    "category": "Energy",
+    "name": "Energy",
+    "cost": 0
+
   },
 
 
@@ -47,33 +23,19 @@
     "face": {
       "front": {
         "name": "Tezla o Mecha-Cientista",
-        "type": "Character",
+        "type": "Personagem",
         "cost": 3,
-        "image": {
-          "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A135.png",
-          "fr": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards/A135.png"
-        },
+        "image": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards/A135.png",
         "isHorizontal": false
       }
     },
-    "name": {
-      "en": "Tezla, the Mecha-Scientist",
-      "fr": "Tezla o Mecha-Cientista"
-    },
-    "type": "Character",
+    "category": "Character",
+    "name": "Tezla o Mecha-Cientista",
     "cost": 3,
-    "attribute": {
-      "en": "Neutral",
-      "fr": "Neutro"
-    },
-    "class": {
-      "en": "Machine",
-      "fr": "Máquina"
-    },
-    "hp": "120",
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    }
+    "LP": "120",
+    "type": "Máquina",
+    "effect": true,
+    "attribute": "Neutro"
+
   }
 }

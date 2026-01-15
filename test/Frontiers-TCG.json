@@ -12,7 +12,7 @@
   },
   "deckBuilding": {
 
-    "mainFilters": ["name", "type", "cost"],
+    "mainFilters": ["name", "category", "cost"],
     "formats": [
       {
         "title": "Standard",
@@ -29,7 +29,7 @@
     ],
     "deckRulesets": {
       "Standard": {
-        
+
         "categories": [
           {
             "category": "Mana",
