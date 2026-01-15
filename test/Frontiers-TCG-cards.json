@@ -4,14 +4,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Mana",
+        "name": "Energy Card",
         "type": "Mana",
         "cost": 0,
         "image": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/energia/e1.png",
         "isHorizontal": false
       }
     },
-    "name": "P Energy",
+    "name": "Energy Card",
     "cost": 0,
     "type": "Mana"
     
