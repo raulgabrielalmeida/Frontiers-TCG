@@ -142,7 +142,19 @@
             }
           ]
         },
-        "categoriesAlreadyOnBoard": ["Energy"],
+        "categoriesAlreadyOnBoard": [],
+
+        "beforeGameStart": {
+          "initialBoardSetup": {
+            [
+              {
+                "createCardId": "0001",
+                "count": 6,
+                "destination": "Mana"
+              }
+            ]
+          },
+
         "autoPlayFromHand": {
           "Mana": "Mana",
           "Character": "Battlefield",
