@@ -5,7 +5,7 @@
     "face": {
       "front": {
         "name": "Energy Card",
-        "type": "Energy",
+        "type": "Mana",
         "cost": 0,
         "image": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/energia/e1.png",
         "isHorizontal": false
