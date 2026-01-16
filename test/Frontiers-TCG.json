@@ -145,11 +145,11 @@
         "categoriesAlreadyOnBoard": [],
 
         "beforeGameStart": {
-          "initialBoardSetup": {
+          "initialBoardSetup":
             [
               {
                 "createCardId": "0001",
-                "count": 6,
+                "count": 3,
                 "destination": "Mana"
               }
             ]
