@@ -210,6 +210,8 @@
   "cards": {
     "dataUrl": "https://raulgabrielalmeida.github.io/Frontiers-TCG/test/Frontiers-TCG-cards.json",
     "cardBack": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/back.png"
-  }
+  },
+
+    "translationsUrl": "https://raulgabrielalmeida.github.io/Frontiers-TCG/translations.json"
 
 }
