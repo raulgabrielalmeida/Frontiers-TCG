@@ -44,7 +44,7 @@
 
     "Standard": {
       "mulligan": {
-        "info": "Info sem tradução",
+        "info": " translations.mulliganInfo ",
         "startingHandSize": 5,
         "drawNewHand": true,
         "putSelectionAtBottom": false,
@@ -56,7 +56,7 @@
         "firstPlayerTokenName": "",
         "drawPerTurn": 1
       },
-      "defaultNotes": " NOTES sem tradução ",
+      "defaultNotes": " translations.customHelp ",
       "tokens": [],
       "draggableTokens": [
         {
@@ -90,8 +90,10 @@
           "image": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/tokens/weakned.png"
         }
       ],
+
       "countersStartingValues": ["12"],
       "hideFacedDownCards": true,
+      
       "sections": {
         "customSections": ["Battlefield", "FieldZone", "Mana"],
         "layout": {
@@ -128,7 +130,9 @@
             }
           ]
         },
+
         "categoriesAlreadyOnBoard": ["Mana"],
+
         "autoPlayFromHand": {
           "Mana": "Mana",
           "Character": "Battlefield",
@@ -201,10 +205,11 @@
   "defaultRessources": {
     "backgrounds": []
   },
-  "customHelp": "Help sem tradução",
+  "customHelp": " translations.customHelp ",
   "cardRotation": "45",
   "cards": {
     "dataUrl": "https://raulgabrielalmeida.github.io/Frontiers-TCG/test/Frontiers-TCG-cards.json",
     "cardBack": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/back.png"
   }
+
 }
