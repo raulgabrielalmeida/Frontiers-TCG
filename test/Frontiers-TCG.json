@@ -128,8 +128,9 @@
             }
           ]
         },
-        "categoriesAlreadyOnBoard": ["Mana"],
+        "categoriesAlreadyOnBoard": ["Energy"],
         "autoPlayFromHand": {
+          "Energy": "Mana",
           "Mana": "Mana",
           "Character": "Battlefield",
           "Support - Normal": "Stack",
