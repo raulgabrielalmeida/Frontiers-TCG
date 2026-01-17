@@ -43,7 +43,7 @@
   "gameplay": {
 
     "Standard": {
-      "mulligan": {
+      "mullig an": {
         "info": "Info sem tradução",
         "startingHandSize": 5,
         "drawNewHand": true,
@@ -128,9 +128,9 @@
             }
           ]
         },
-
+        "categoriesAlreadyOnBoard": ["Energy"],
         "autoPlayFromHand": {
-          "Mana": "Mana",
+          "Energy": "Mana",
           "Character": "Battlefield",
           "Support - Normal": "Stack",
           "Support - Response": "Stack",
