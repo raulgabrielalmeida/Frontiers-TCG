@@ -3,7 +3,7 @@
   "menuBackgroundImage": "https://cdn.shopify.com/s/files/1/0712/9409/1574/files/162556_1_orig_1600x.jpg?v=1745341558",
   "deckBuilding": {
     "mainFilters": ["name", "category", "cost"],
-    "costCurveIgnoredTypes": ["Energy"],
+    "costCurveIgnoredTypes": ["Mana"],
     "formats": [
       {
         "title": "Standard",
@@ -22,7 +22,7 @@
       "Standard": {
         "categories": [
           {
-            "category": "Energy",
+            "category": "Mana",
             "min": 6,
             "max": 6
           }
@@ -31,7 +31,7 @@
       "Unlimited": {
         "categories": [
           {
-            "category": "Energy",
+            "category": "Mana",
             "min": 6,
             "max": 6
           }
@@ -128,9 +128,9 @@
             }
           ]
         },
-        "categoriesAlreadyOnBoard": ["Character"],
+        "categoriesAlreadyOnBoard": ["Mana"],
         "autoPlayFromHand": {
-          "Energy": "Mana",
+          "Mana": "Mana",
           "Character": "Battlefield",
           "Support - Normal": "Stack",
           "Support - Response": "Stack",
