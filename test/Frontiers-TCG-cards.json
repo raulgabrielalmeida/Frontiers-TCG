@@ -18,12 +18,11 @@
     "name": {
       "en": "Mana",
       "fr": "Energia"
-    },
-    "cost": null,
-    "LP": null,
-    "type": null,
-    "effect": false,
-    "attribute": null
+    }
+    
+    
+    
+    
   },
   "A000b": {
     "id": "A000b",
@@ -44,12 +43,11 @@
     "name": {
       "en": "Mana",
       "fr": "Energia"
-    },
-    "cost": null,
-    "LP": null,
-    "type": null,
-    "effect": false,
-    "attribute": null
+    }
+    
+    
+    
+    
   },
   "A000c": {
     "id": "A000c",
@@ -70,12 +68,11 @@
     "name": {
       "en": "Mana",
       "fr": "Energia"
-    },
-    "cost": null,
-    "LP": null,
-    "type": null,
-    "effect": false,
-    "attribute": null
+    }
+    
+    
+    
+    
   },
   "A000d": {
     "id": "A000d",
@@ -96,12 +93,11 @@
     "name": {
       "en": "Mana",
       "fr": "Energia"
-    },
-    "cost": null,
-    "LP": null,
-    "type": null,
-    "effect": false,
-    "attribute": null
+    }
+    
+    
+    
+    
   },
   "A000e": {
     "id": "A000e",
@@ -122,12 +118,11 @@
     "name": {
       "en": "Mana",
       "fr": "Energia"
-    },
-    "cost": null,
-    "LP": null,
-    "type": null,
-    "effect": false,
-    "attribute": null
+    }
+    
+    
+    
+    
   },
   "A000f": {
     "id": "A000f",
@@ -148,12 +143,11 @@
     "name": {
       "en": "Mana",
       "fr": "Energia"
-    },
-    "cost": null,
-    "LP": null,
-    "type": null,
-    "effect": false,
-    "attribute": null
+    }
+    
+    
+    
+    
   },
   "A000g": {
     "id": "A000g",
@@ -174,12 +168,11 @@
     "name": {
       "en": "Mana",
       "fr": "Energia"
-    },
-    "cost": null,
-    "LP": null,
-    "type": null,
-    "effect": false,
-    "attribute": null
+    }
+    
+    
+    
+    
   },
   "A001": {
     "id": "A001",
@@ -415,10 +408,10 @@
       "fr": "Campo de Batalha da Brigada Estelar"
     },
     "cost": 3,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A008": {
     "id": "A008",
@@ -444,10 +437,10 @@
       "fr": "Táticas de Guerra da Brigada Estelar"
     },
     "cost": 1,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A009": {
     "id": "A009",
@@ -683,10 +676,10 @@
       "fr": "Chamas da Discordia dos Cavaleiros Infernais"
     },
     "cost": 3,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A016": {
     "id": "A016",
@@ -712,10 +705,10 @@
       "fr": "Ordem de Ataque dos Cavaleiros Infernais"
     },
     "cost": 2,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A017": {
     "id": "A017",
@@ -951,10 +944,10 @@
       "fr": "A Cabana na Floresta"
     },
     "cost": 3,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A022": {
     "id": "A022",
@@ -980,10 +973,10 @@
       "fr": "Sobrecarga do Relâmpago Dourado"
     },
     "cost": 1,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A023": {
     "id": "A023",
@@ -1009,10 +1002,10 @@
       "fr": "A Chegada do Relâmpago Dourado"
     },
     "cost": 1,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A024": {
     "id": "A024",
@@ -1038,10 +1031,10 @@
       "fr": "Círculo Mágico do Relâmpago Dourado"
     },
     "cost": 1,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A025": {
     "id": "A025",
@@ -1312,10 +1305,10 @@
       "fr": "Walkie Talkie"
     },
     "cost": 1,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A033": {
     "id": "A033",
@@ -1341,10 +1334,10 @@
       "fr": "Chamado das Damas do Abismo"
     },
     "cost": 2,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A034": {
     "id": "A034",
@@ -1580,10 +1573,10 @@
       "fr": "Castelo do Senhor da Noite"
     },
     "cost": 3,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A039": {
     "id": "A039",
@@ -1609,10 +1602,10 @@
       "fr": "Controle Mental da Mestra do Castelo"
     },
     "cost": 1,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A040": {
     "id": "A040",
@@ -1638,10 +1631,10 @@
       "fr": "O Poder do Senhor da Noite"
     },
     "cost": 3,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A041": {
     "id": "A041",
@@ -1667,10 +1660,10 @@
       "fr": "Chamado das Sombras"
     },
     "cost": 2,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A042": {
     "id": "A042",
@@ -1696,10 +1689,10 @@
       "fr": "Proteção do Senhor da Noite"
     },
     "cost": 1,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A043": {
     "id": "A043",
@@ -1900,10 +1893,10 @@
       "fr": "Granada de gás do Terror Tóxico"
     },
     "cost": 2,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A049": {
     "id": "A049",
@@ -1929,10 +1922,10 @@
       "fr": "Recuo Estratégico do Terror Tóxico"
     },
     "cost": 1,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A050": {
     "id": "A050",
@@ -1958,10 +1951,10 @@
       "fr": "Recombinção do Terror Tóxico"
     },
     "cost": 2,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A051": {
     "id": "A051",
@@ -3527,10 +3520,10 @@
       "fr": "Mudança de Território"
     },
     "cost": 1,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A094": {
     "id": "A094",
@@ -3556,10 +3549,10 @@
       "fr": "Faisca"
     },
     "cost": 1,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A095": {
     "id": "A095",
@@ -3585,10 +3578,10 @@
       "fr": "Disparo Mágico"
     },
     "cost": 1,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A096": {
     "id": "A096",
@@ -3614,10 +3607,10 @@
       "fr": "Impulso de Energia"
     },
     "cost": 1,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A097": {
     "id": "A097",
@@ -3643,10 +3636,10 @@
       "fr": "Visão do Destino"
     },
     "cost": 1,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A098": {
     "id": "A098",
@@ -3672,10 +3665,10 @@
       "fr": "Passo do Vento"
     },
     "cost": 1,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A099": {
     "id": "A099",
@@ -3701,10 +3694,10 @@
       "fr": "Chamado da Noite"
     },
     "cost": 1,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A100": {
     "id": "A100",
@@ -3730,10 +3723,10 @@
       "fr": "Núcleo do Vazio Perpétuo"
     },
     "cost": 1,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A101": {
     "id": "A101",
@@ -3759,10 +3752,10 @@
       "fr": "Núcleo da Alma Incandescente"
     },
     "cost": 1,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A102": {
     "id": "A102",
@@ -3788,10 +3781,10 @@
       "fr": "Núcleo da Brisa Primordial"
     },
     "cost": 1,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A103": {
     "id": "A103",
@@ -3817,10 +3810,10 @@
       "fr": "Núcleo da Chuva Ancestral"
     },
     "cost": 1,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A104": {
     "id": "A104",
@@ -3846,10 +3839,10 @@
       "fr": "Núcleo do Guardaião Terreno"
     },
     "cost": 1,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A105": {
     "id": "A105",
@@ -3875,10 +3868,10 @@
       "fr": "Núcleo da Luminância Eterna"
     },
     "cost": 1,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A106": {
     "id": "A106",
@@ -3904,10 +3897,10 @@
       "fr": "Ascensão do Escolhido"
     },
     "cost": 2,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A107": {
     "id": "A107",
@@ -3933,10 +3926,10 @@
       "fr": "Onda de Purificação"
     },
     "cost": 2,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A108": {
     "id": "A108",
@@ -3962,10 +3955,10 @@
       "fr": "Recarga Turbulenta"
     },
     "cost": 2,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A109": {
     "id": "A109",
@@ -3991,10 +3984,10 @@
       "fr": "Rebobinar"
     },
     "cost": 2,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A110": {
     "id": "A110",
@@ -4020,10 +4013,10 @@
       "fr": "Poção de Remoção de Status"
     },
     "cost": 2,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A111": {
     "id": "A111",
@@ -4049,10 +4042,10 @@
       "fr": "Poção de Cura"
     },
     "cost": 1,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A112": {
     "id": "A112",
@@ -4078,10 +4071,10 @@
       "fr": "Medalhão da Centelha Absoluta"
     },
     "cost": 3,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A113": {
     "id": "A113",
@@ -4107,10 +4100,10 @@
       "fr": "Tufão"
     },
     "cost": 1,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A114": {
     "id": "A114",
@@ -4136,10 +4129,10 @@
       "fr": "Poção de Cura Maior"
     },
     "cost": 2,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A115": {
     "id": "A115",
@@ -4165,10 +4158,10 @@
       "fr": "Buraco Negro"
     },
     "cost": 5,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A116": {
     "id": "A116",
@@ -4194,10 +4187,10 @@
       "fr": "Teletransporte de Emergência"
     },
     "cost": 2,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A117": {
     "id": "A117",
@@ -4223,10 +4216,10 @@
       "fr": "Reencarnação Flamejante"
     },
     "cost": 1,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A118": {
     "id": "A118",
@@ -4252,10 +4245,10 @@
       "fr": "Alterar probabilidades"
     },
     "cost": 2,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A119": {
     "id": "A119",
@@ -4281,10 +4274,10 @@
       "fr": "Acenda! Chamas do Milagre!"
     },
     "cost": 2,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A120": {
     "id": "A120",
@@ -4310,10 +4303,10 @@
       "fr": "Monólito do Guardião"
     },
     "cost": 2,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A121": {
     "id": "A121",
@@ -4339,10 +4332,10 @@
       "fr": "Bloqueio"
     },
     "cost": 1,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A122": {
     "id": "A122",
@@ -4368,10 +4361,10 @@
       "fr": "Escudo da Provocação"
     },
     "cost": 2,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A123": {
     "id": "A123",
@@ -4397,10 +4390,10 @@
       "fr": "Lâmina Esmeralda"
     },
     "cost": 2,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A124": {
     "id": "A124",
@@ -4426,10 +4419,10 @@
       "fr": "Expansão de Vigor"
     },
     "cost": 3,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A125": {
     "id": "A125",
@@ -4455,10 +4448,10 @@
       "fr": "Correntes de Poder"
     },
     "cost": 1,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A126": {
     "id": "A126",
@@ -4484,10 +4477,10 @@
       "fr": "Armadura de Fogo e Gelo"
     },
     "cost": 2,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A127": {
     "id": "A127",
@@ -4513,10 +4506,10 @@
       "fr": "Espaço"
     },
     "cost": 2,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A128": {
     "id": "A128",
@@ -4542,10 +4535,10 @@
       "fr": "Vulcão"
     },
     "cost": 2,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A129": {
     "id": "A129",
@@ -4571,10 +4564,10 @@
       "fr": "Caverna"
     },
     "cost": 2,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A130": {
     "id": "A130",
@@ -4600,10 +4593,10 @@
       "fr": "Oceano"
     },
     "cost": 2,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A131": {
     "id": "A131",
@@ -4629,10 +4622,10 @@
       "fr": "Montanha"
     },
     "cost": 2,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A132": {
     "id": "A132",
@@ -4658,10 +4651,10 @@
       "fr": "Céu"
     },
     "cost": 2,
-    "LP": null,
-    "type": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A133": {
     "id": "A133",
