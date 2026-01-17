@@ -128,7 +128,7 @@
             }
           ]
         },
-        "categoriesAlreadyOnBoard": ["Mana"],
+        "categoriesAlreadyOnBoard": ["Character"],
         "autoPlayFromHand": {
           "Mana": "Mana",
           "Character": "Battlefield",
@@ -185,7 +185,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
-            "displayedTitle": "Mana Zone",
+            "displayedTitle": "Energy Zone",
             "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
