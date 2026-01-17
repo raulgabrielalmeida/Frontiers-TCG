@@ -4,7 +4,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Mana",
+        "name": {
+          "en": "Mana",
+          "fr": "Energia"
+        },
         "type": "Mana",
         "cost": 0,
         "image": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/energia/e1.png",
@@ -14,7 +17,7 @@
     "category": "Mana",
     "name": {
       "en": "Mana",
-      "fr": "Mana"
+      "fr": "Energia"
     },
     "cost": null,
     "LP": null,
@@ -27,7 +30,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Mana",
+        "name": {
+          "en": "Mana",
+          "fr": "Energia"
+        },
         "type": "Mana",
         "cost": 0,
         "image": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/energia/e2.png",
@@ -37,7 +43,7 @@
     "category": "Mana",
     "name": {
       "en": "Mana",
-      "fr": "Mana"
+      "fr": "Energia"
     },
     "cost": null,
     "LP": null,
@@ -50,7 +56,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Mana",
+        "name": {
+          "en": "Mana",
+          "fr": "Energia"
+        },
         "type": "Mana",
         "cost": 0,
         "image": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/energia/e3.png",
@@ -60,7 +69,7 @@
     "category": "Mana",
     "name": {
       "en": "Mana",
-      "fr": "Mana"
+      "fr": "Energia"
     },
     "cost": null,
     "LP": null,
@@ -73,7 +82,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Mana",
+        "name": {
+          "en": "Mana",
+          "fr": "Energia"
+        },
         "type": "Mana",
         "cost": 0,
         "image": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/energia/e4.png",
@@ -83,7 +95,7 @@
     "category": "Mana",
     "name": {
       "en": "Mana",
-      "fr": "Mana"
+      "fr": "Energia"
     },
     "cost": null,
     "LP": null,
@@ -96,7 +108,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Mana",
+        "name": {
+          "en": "Mana",
+          "fr": "Energia"
+        },
         "type": "Mana",
         "cost": 0,
         "image": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/energia/e5.png",
@@ -106,7 +121,7 @@
     "category": "Mana",
     "name": {
       "en": "Mana",
-      "fr": "Mana"
+      "fr": "Energia"
     },
     "cost": null,
     "LP": null,
@@ -119,7 +134,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Mana",
+        "name": {
+          "en": "Mana",
+          "fr": "Energia"
+        },
         "type": "Mana",
         "cost": 0,
         "image": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/energia/e6.png",
@@ -129,7 +147,7 @@
     "category": "Mana",
     "name": {
       "en": "Mana",
-      "fr": "Mana"
+      "fr": "Energia"
     },
     "cost": null,
     "LP": null,
@@ -142,7 +160,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Mana",
+        "name": {
+          "en": "Mana",
+          "fr": "Energia"
+        },
         "type": "Mana",
         "cost": 0,
         "image": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/energia/e7.png",
@@ -152,7 +173,7 @@
     "category": "Mana",
     "name": {
       "en": "Mana",
-      "fr": "Mana"
+      "fr": "Energia"
     },
     "cost": null,
     "LP": null,
@@ -165,7 +186,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Cranell a Lider da Brigada Estelar",
+        "name": {
+          "en": "Cranell, Leader of the Stellar Brigade",
+          "fr": "Cranell, a Líder da Brigada Estelar"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -197,7 +221,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ginna a Assassina da Brigada Estelar",
+        "name": {
+          "en": "Ginna, Assassin of the Stellar Brigade",
+          "fr": "Ginna, a Assassina da Brigada Estelar"
+        },
         "type": "Character",
         "cost": 2,
         "image": {
@@ -229,7 +256,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Rina a Curandeira da Brigada Estelar",
+        "name": {
+          "en": "Rina, Healer of the Stellar Brigade",
+          "fr": "Rina, a Curandeira da Brigada Estelar"
+        },
         "type": "Character",
         "cost": 2,
         "image": {
@@ -261,7 +291,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Dielan o Mestre de Armas da Brigada Estelar",
+        "name": {
+          "en": "Dielan, Gunsmith of the Stellar Brigade",
+          "fr": "Dielan, o Mestre de Armas da Brigada Estelar"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -293,7 +326,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Leneh a Engenheira da Brigada Estelar",
+        "name": {
+          "en": "Leneh, Engineer of the Stellar Brigade",
+          "fr": "Leneh, a Engenheira da Brigada Estelar"
+        },
         "type": "Character",
         "cost": 2,
         "image": {
@@ -325,7 +361,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Drone da Brigada Estelar",
+        "name": {
+          "en": "Stellar Brigade Drone",
+          "fr": "Drone da Brigada Estelar"
+        },
         "type": "Character",
         "cost": 1,
         "image": {
@@ -357,7 +396,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Campo de Batalha da Brigada Estelar",
+        "name": {
+          "en": "Stellar Brigade Battlefield",
+          "fr": "Campo de Batalha da Brigada Estelar"
+        },
         "type": "Support - Field",
         "cost": 3,
         "image": {
@@ -383,7 +425,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Taticas de Guerra da Brigada Estelar",
+        "name": {
+          "en": "Stellar Brigade Tactics",
+          "fr": "Táticas de Guerra da Brigada Estelar"
+        },
         "type": "Support - Normal",
         "cost": 1,
         "image": {
@@ -409,7 +454,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Astaroth o Duque da Desolacao dos Cavaleiros Infernais",
+        "name": {
+          "en": "Astaroth, Duke of Desolation of the Inferno Knights",
+          "fr": "Astaroth, o Duque da Desolação dos Cavaleiros Infernais"
+        },
         "type": "Character",
         "cost": 5,
         "image": {
@@ -441,7 +489,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Zariel o Duque da Guerra dos Cavaleiros Infernais",
+        "name": {
+          "en": "Zariel, Duke of War of the Inferno Knights",
+          "fr": "Zariel, o Duque da Guerra dos Cavaleiros Infernais"
+        },
         "type": "Character",
         "cost": 4,
         "image": {
@@ -473,7 +524,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Belphegor a Duquesa da Preguica dos Cavaleiros Infernais",
+        "name": {
+          "en": "Belphegor, Duchess of Sloth of the Inferno Knightss",
+          "fr": "Belphegor, a Duquesa da Preguiça dos Cavaleiros Infernais"
+        },
         "type": "Character",
         "cost": 4,
         "image": {
@@ -505,7 +559,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Morgrim o Duque dos Segredos dos Cavaleiros Infernais",
+        "name": {
+          "en": "Morgrim, Duke of Secrets of the Inferno Knights",
+          "fr": "Morgrim, o Duque dos Segredos dos Cavaleiros Infernais"
+        },
         "type": "Character",
         "cost": 4,
         "image": {
@@ -537,7 +594,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Karon o Vassalo dos Cavaleiros Infernais",
+        "name": {
+          "en": "Karon, Vassal of the Inferno Knights",
+          "fr": "Karon, o Vassalo dos Cavaleiros Infernais"
+        },
         "type": "Character",
         "cost": 2,
         "image": {
@@ -569,7 +629,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Varud o Vassalo dos Cavaleiros Infernais",
+        "name": {
+          "en": "Varud, Vassal of the Inferno Knights",
+          "fr": "Varud, o Vassalo dos Cavaleiros Infernais"
+        },
         "type": "Character",
         "cost": 2,
         "image": {
@@ -601,7 +664,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Chamas da Discordia dos Cavaleiros Infernais",
+        "name": {
+          "en": "Flames of Discord of the Inferno Knights",
+          "fr": "Chamas da Discordia dos Cavaleiros Infernais"
+        },
         "type": "Support - Normal",
         "cost": 3,
         "image": {
@@ -627,7 +693,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ordem de Ataque dos Cavaleiros Infernais",
+        "name": {
+          "en": "Inferno Knight’s Attack Order",
+          "fr": "Ordem de Ataque dos Cavaleiros Infernais"
+        },
         "type": "Support - Normal",
         "cost": 2,
         "image": {
@@ -653,7 +722,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Thomas o Mago do Relampago Dourado",
+        "name": {
+          "en": "Thomas, Mage of the Golden Lightning",
+          "fr": "Thomas, o Mago do Relâmpago Dourado"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -685,7 +757,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Marie a Bruxa do Relampago Dourado",
+        "name": {
+          "en": "Marie, Witch of the Golden Lightning",
+          "fr": "Marie, a Bruxa do Relâmpago Dourado"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -717,7 +792,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ciel a Aprendiz do Relampago Dourado",
+        "name": {
+          "en": "Ciel, The Apprentice of the Golden Lightning",
+          "fr": "Ciel, a Aprendiz do Relâmpago Dourado"
+        },
         "type": "Character",
         "cost": 2,
         "image": {
@@ -749,7 +827,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ciel a Arquimaga do Relampago Dourado",
+        "name": {
+          "en": "Ciel, Archmage of the Golden Lightning",
+          "fr": "Ciel a Arquimaga do Relâmpago Dourado"
+        },
         "type": "Character",
         "cost": 4,
         "image": {
@@ -781,7 +862,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ciel a Arquimaga do Relampago Dourado",
+        "name": {
+          "en": "Ciel, Archmage of the Golden Lightning",
+          "fr": "Ciel a Arquimaga do Relâmpago Dourado"
+        },
         "type": "Character",
         "cost": 4,
         "image": {
@@ -813,7 +897,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ciel a Arquimaga do Relampago Dourado",
+        "name": {
+          "en": "Ciel, Archmage of the Golden Lightning",
+          "fr": "Ciel a Arquimaga do Relâmpago Dourado"
+        },
         "type": "Character",
         "cost": 4,
         "image": {
@@ -845,7 +932,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "A Cabana na Floresta",
+        "name": {
+          "en": "Cabin in the Woods",
+          "fr": "A Cabana na Floresta"
+        },
         "type": "Support - Field",
         "cost": 3,
         "image": {
@@ -871,7 +961,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Sobrecarga do Relampago Dourado",
+        "name": {
+          "en": "Golden Lightning Overcharge",
+          "fr": "Sobrecarga do Relâmpago Dourado"
+        },
         "type": "Support - Normal",
         "cost": 1,
         "image": {
@@ -897,7 +990,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "A Chegada do Relampago Dourado",
+        "name": {
+          "en": "The Arrival of the Golden Lightning",
+          "fr": "A Chegada do Relâmpago Dourado"
+        },
         "type": "Support - Normal",
         "cost": 1,
         "image": {
@@ -923,7 +1019,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Circulo Magico do Relampago Dourado",
+        "name": {
+          "en": "Magic Circle of the Golden Lightning",
+          "fr": "Círculo Mágico do Relâmpago Dourado"
+        },
         "type": "Support - Normal",
         "cost": 1,
         "image": {
@@ -949,7 +1048,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Heather a Grande Mestra das Damas do Abismo",
+        "name": {
+          "en": "Heather, the Grand Master of the Ladies of the Abyss",
+          "fr": "Heather, a Grande Mestra das Damas do Abismo"
+        },
         "type": "Character",
         "cost": 4,
         "image": {
@@ -981,7 +1083,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Willow a Guardia das Damas do Abismo",
+        "name": {
+          "en": "Willow, the Guardian of the Ladies of the Abyss",
+          "fr": "Willow, a Guardiã das Damas do Abismo"
+        },
         "type": "Character",
         "cost": 4,
         "image": {
@@ -1013,7 +1118,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Iris a Mecanica das Damas do Abismo",
+        "name": {
+          "en": "Iris, Mechanic of the Ladies of the Abyss",
+          "fr": "Iris, a Mecânica das Damas do Abismo"
+        },
         "type": "Character",
         "cost": 2,
         "image": {
@@ -1045,7 +1153,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Liriel a Medica das Damas do Abismo",
+        "name": {
+          "en": "Liriel, Doctor of the Ladies of the Abyss",
+          "fr": "Liriel a Médica das Damas do Abismo"
+        },
         "type": "Character",
         "cost": 2,
         "image": {
@@ -1077,7 +1188,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Melissa a Cacadora das Damas do Abismo",
+        "name": {
+          "en": "Melissa, Hunter of the Ladies of the Abyss",
+          "fr": "Melissa, a Caçadora das Damas do Abismo"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -1109,7 +1223,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Alyssa a Cacadora das Damas do Abismo",
+        "name": {
+          "en": "Alyssa, Hunter of the Ladies of the Abyss",
+          "fr": "Alyssa, a Caçadora das Damas do Abismo"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -1141,7 +1258,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Clover a Escavadora das Damas do Abismo",
+        "name": {
+          "en": "Clover, Digger of the Ladies of the Abyss",
+          "fr": "Clover, a Escavadora das Damas do Abismo"
+        },
         "type": "Character",
         "cost": 2,
         "image": {
@@ -1173,7 +1293,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Walkie Talkie",
+        "name": {
+          "en": "Walkie Talkie",
+          "fr": "Walkie Talkie"
+        },
         "type": "Support - Normal",
         "cost": 1,
         "image": {
@@ -1199,7 +1322,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Chamado das Damas do Abismo",
+        "name": {
+          "en": "Call of the Ladies of the Abyss",
+          "fr": "Chamado das Damas do Abismo"
+        },
         "type": "Support - Normal",
         "cost": 2,
         "image": {
@@ -1225,7 +1351,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Dracula o Supremo Senhor da Noite",
+        "name": {
+          "en": "Dracula, the Supreme Lord of the Night",
+          "fr": "Dracula, o Supremo Senhor da Noite"
+        },
         "type": "Character",
         "cost": 4,
         "image": {
@@ -1257,7 +1386,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Lilith a Dama do Senhor da Noite",
+        "name": {
+          "en": "Lilith, Mistress of the Lord of the Night",
+          "fr": "Lilith, a Dama do Senhor da Noite"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -1289,7 +1421,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Lilith a Dama do Senhor da Noite",
+        "name": {
+          "en": "Lilith, Mistress of the Lord of the Night",
+          "fr": "Lilith, a Dama do Senhor da Noite"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -1321,7 +1456,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Lilith a Dama do Senhor da Noite",
+        "name": {
+          "en": "Lilith, Mistress of the Lord of the Night",
+          "fr": "Lilith, a Dama do Senhor da Noite"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -1353,7 +1491,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Mumia o Senhor da Noite",
+        "name": {
+          "en": "Mummy, Lord of the Night",
+          "fr": "Múmia, o Senhor da Noite"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -1385,7 +1526,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Stein o Senhor da Noite",
+        "name": {
+          "en": "Stein, Lord of the Night",
+          "fr": "Stein, o Senhor da Noite"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -1417,7 +1561,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Castelo do Senhor da Noite",
+        "name": {
+          "en": "Castle of the Lord of the Night",
+          "fr": "Castelo do Senhor da Noite"
+        },
         "type": "Support - Field",
         "cost": 3,
         "image": {
@@ -1443,7 +1590,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Controle Mental da Mestra do Castelo",
+        "name": {
+          "en": "Master of the Castle’s Mind Control",
+          "fr": "Controle Mental da Mestra do Castelo"
+        },
         "type": "Support - Normal",
         "cost": 1,
         "image": {
@@ -1469,7 +1619,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "O Poder do Senhor da Noite",
+        "name": {
+          "en": "The Power of the Lord of the Night",
+          "fr": "O Poder do Senhor da Noite"
+        },
         "type": "Support - Normal",
         "cost": 3,
         "image": {
@@ -1495,7 +1648,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Chamado das Sombras",
+        "name": {
+          "en": "Call of Shadows",
+          "fr": "Chamado das Sombras"
+        },
         "type": "Support - Normal",
         "cost": 2,
         "image": {
@@ -1521,7 +1677,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Protecao do Senhor da Noite",
+        "name": {
+          "en": "Protection of the Lord of the Night",
+          "fr": "Proteção do Senhor da Noite"
+        },
         "type": "Support - Response",
         "cost": 1,
         "image": {
@@ -1547,7 +1706,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Bosch o Terror Toxico",
+        "name": {
+          "en": "Bosch, the Toxic Terror",
+          "fr": "Bosch, o Terror Tóxico"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -1579,7 +1741,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Haber o Terror Toxico",
+        "name": {
+          "en": "Haber, the Toxic Terror",
+          "fr": "Haber, o Terror Tóxico"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -1611,7 +1776,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Clara o Terror Toxico",
+        "name": {
+          "en": "Clara, the Toxic Terror",
+          "fr": "Clara, o Terror Tóxico"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -1643,7 +1811,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "AMMO-NIAC o Terror Toxico",
+        "name": {
+          "en": "AMMO-NIAC, the Toxic Terror",
+          "fr": "AMMO-NIAC, o Terror Tóxico"
+        },
         "type": "Character",
         "cost": 4,
         "image": {
@@ -1675,7 +1846,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "S-LIME o Terror Toxico",
+        "name": {
+          "en": "S-LIME, the Toxic Terror",
+          "fr": "S-LIME o Terror Tóxico"
+        },
         "type": "Character",
         "cost": 1,
         "image": {
@@ -1707,7 +1881,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Granada de gas do Terror Toxico",
+        "name": {
+          "en": "Toxic Terror Gas Grenade",
+          "fr": "Granada de gás do Terror Tóxico"
+        },
         "type": "Support - Normal",
         "cost": 2,
         "image": {
@@ -1733,7 +1910,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Recuo Estratégico do Terror Tóxico",
+        "name": {
+          "en": "Toxic Terror’s Strategic Retreat",
+          "fr": "Recuo Estratégico do Terror Tóxico"
+        },
         "type": "Support - Response",
         "cost": 1,
         "image": {
@@ -1759,7 +1939,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Recombincao do Terror Toxico",
+        "name": {
+          "en": "Toxic Terror’s Recombination",
+          "fr": "Recombinção do Terror Tóxico"
+        },
         "type": "Support - Normal",
         "cost": 2,
         "image": {
@@ -1785,7 +1968,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Shiro o Paladino da Neve",
+        "name": {
+          "en": "Shiro, the Snow Paladin",
+          "fr": "Shiro, o Paladino da Neve"
+        },
         "type": "Character",
         "cost": 5,
         "image": {
@@ -1817,7 +2003,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Estátua Defensora das Mars",
+        "name": {
+          "en": "Tidal Defender Statue",
+          "fr": "Estátua Defensora das Marés"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -1849,7 +2038,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Cryptofauna - Piranha",
+        "name": {
+          "en": "Cryptofauna - Piranha",
+          "fr": "Cryptofauna - Piranha"
+        },
         "type": "Character",
         "cost": 2,
         "image": {
@@ -1881,7 +2073,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Lyla Guerreira das Mares",
+        "name": {
+          "en": "Lyla, Warrior of the Tides",
+          "fr": "Lyla, Guerreira das Mares"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -1913,7 +2108,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Fahrkhael o Terror das Montanhas Geladas",
+        "name": {
+          "en": "Fahrkhael, the Terror of the Frozen Mountains",
+          "fr": "Fahrkhael, o Terror das Montanhas Geladas"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -1945,7 +2143,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Agua Viva",
+        "name": {
+          "en": "Jellyfish",
+          "fr": "Água Viva"
+        },
         "type": "Character",
         "cost": 1,
         "image": {
@@ -1977,7 +2178,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Siegfried o Dragao Rubro",
+        "name": {
+          "en": "Siegfried, the Crimson Dragon",
+          "fr": "Siegfried, o Dragao Rubro"
+        },
         "type": "Character",
         "cost": 5,
         "image": {
@@ -2009,7 +2213,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Estátua Defensora das Chamas",
+        "name": {
+          "en": "Flames Defender Statue",
+          "fr": "Estátua Defensora das Chamas"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -2041,7 +2248,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Red Vermillion o Bardo Errante",
+        "name": {
+          "en": "Red Vermillion, the Wandering Bard",
+          "fr": "Red Vermillion, o Bardo Errante"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -2073,7 +2283,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Luccia a Maga das Chamas Azuis",
+        "name": {
+          "en": "Luccia, the Mage of Blue Flames",
+          "fr": "Luccia, a Maga das Chamas Azuis"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -2105,7 +2318,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Wyvern Carmesim",
+        "name": {
+          "en": "Crimson Wyvern",
+          "fr": "Wyvern Carmesim"
+        },
         "type": "Character",
         "cost": 2,
         "image": {
@@ -2137,7 +2353,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Mithril a Lamina Sangrenta",
+        "name": {
+          "en": "Mithril, the Bloody Blade",
+          "fr": "Mithril, a Lâmina Sangrenta"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -2169,7 +2388,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Illuminum o Guerreiro da Luz",
+        "name": {
+          "en": "Illuminum, the Warrior of Light",
+          "fr": "Illuminum, o Guerreiro da Luz"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -2201,7 +2423,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Estátua Defensora Celeste",
+        "name": {
+          "en": "Celestial Defender Statue",
+          "fr": "Estátua Defensora Celeste"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -2233,7 +2458,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Noelle a Guardia Valquiria",
+        "name": {
+          "en": "Noelle, the Valkyrie Guardian",
+          "fr": "Noelle, a Guardiã Valquíria"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -2265,7 +2493,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Castielle a Guardia Valquiria",
+        "name": {
+          "en": "Castielle, the Valkyrie Guardian",
+          "fr": "Castielle, a Guardiã Valquíria"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -2297,7 +2528,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Tom o Aprendiz do Relampago",
+        "name": {
+          "en": "Tom, the Lightning Apprentice",
+          "fr": "Tom, o Aprendiz do Relâmpago"
+        },
         "type": "Character",
         "cost": 2,
         "image": {
@@ -2329,7 +2563,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Lily a Fada Curandeira",
+        "name": {
+          "en": "Lily, the Healing Fairy",
+          "fr": "Lily, a Fada Curandeira"
+        },
         "type": "Character",
         "cost": 1,
         "image": {
@@ -2361,7 +2598,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Sky Guardian - O Sentinela Estelar",
+        "name": {
+          "en": "Sky Guardian – Sentinel of the Stars",
+          "fr": "Sky Guardian - O Sentinela Estelar"
+        },
         "type": "Character",
         "cost": 5,
         "image": {
@@ -2393,7 +2633,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Sky Guardian - O Sentinela Estelar",
+        "name": {
+          "en": "Sky Guardian – Sentinel of the Stars",
+          "fr": "Sky Guardian - O Sentinela Estelar"
+        },
         "type": "Character",
         "cost": 5,
         "image": {
@@ -2425,7 +2668,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Granolla, A viajante intergalactica",
+        "name": {
+          "en": "Granolla, the Intergalactic Traveler",
+          "fr": "Granolla, A viajante intergaláctica"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -2457,7 +2703,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ascalon o Lendario Drago Branco",
+        "name": {
+          "en": "Ascalon, the Legendary White Dragon",
+          "fr": "Ascalon, o Lendário Dragão Branco"
+        },
         "type": "Character",
         "cost": 4,
         "image": {
@@ -2489,7 +2738,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Dub Avancado",
+        "name": {
+          "en": "Advanced Dub",
+          "fr": "Dub Avançado"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -2521,7 +2773,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "kaguya a Assassina das Sombras",
+        "name": {
+          "en": "Kaguya, the Shadow Assassin",
+          "fr": "kaguya, a Assassina das Sombras"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -2553,7 +2808,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "ignis a Lamina Escarlate",
+        "name": {
+          "en": "Ignis, the Scarlet Blade",
+          "fr": "Ignis, a Lâmina Escarlate"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -2585,7 +2843,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Noccio o Protetor da Floresta",
+        "name": {
+          "en": "Noccio, the Protector of the Forest",
+          "fr": "Noccio, o Protetor da Floresta"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -2617,7 +2878,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Estátua Defensora das Cavernas",
+        "name": {
+          "en": "Cave Defender Statue",
+          "fr": "Estátua Defensora das Cavernas"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -2649,7 +2913,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Kaede a Monge Errante",
+        "name": {
+          "en": "Kaede, the Wandering Monk",
+          "fr": "Kaede, a Monge Errante"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -2681,7 +2948,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Arbusto Amaldicoado",
+        "name": {
+          "en": "Cursed Shrub",
+          "fr": "Arbusto Amaldiçoado"
+        },
         "type": "Character",
         "cost": 2,
         "image": {
@@ -2713,7 +2983,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Guerreiro Druida",
+        "name": {
+          "en": "Druid Warrior",
+          "fr": "Guerreiro Druida"
+        },
         "type": "Character",
         "cost": 2,
         "image": {
@@ -2745,7 +3018,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Dub-Canho!",
+        "name": {
+          "en": "Dub-Cannon!",
+          "fr": "Dub-Canhão!"
+        },
         "type": "Character",
         "cost": 2,
         "image": {
@@ -2777,7 +3053,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Artemis a Deusa da Lua",
+        "name": {
+          "en": "Artemis, the Goddess of the Moon",
+          "fr": "Artemis, a Deusa da Lua"
+        },
         "type": "Character",
         "cost": 4,
         "image": {
@@ -2809,7 +3088,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Artemis a Deusa da Lua",
+        "name": {
+          "en": "Artemis, the Goddess of the Moon",
+          "fr": "Artemis, a Deusa da Lua"
+        },
         "type": "Character",
         "cost": 4,
         "image": {
@@ -2841,7 +3123,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Estátua Defensora do Vazio",
+        "name": {
+          "en": "Void Defender Statue",
+          "fr": "Estátua Defensora do Vazio"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -2873,7 +3158,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Axel o Grande Pistoleiro",
+        "name": {
+          "en": "Axel, the Great Marksman",
+          "fr": "Axel, o Grande Pistoleiro"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -2905,7 +3193,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Green o Mago da Destruicao Final",
+        "name": {
+          "en": "Green, the Mage of Final Destruction",
+          "fr": "Green, o Mago da Destruição Final"
+        },
         "type": "Character",
         "cost": 4,
         "image": {
@@ -2937,7 +3228,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Touya o Espadachim Desertor",
+        "name": {
+          "en": "Touya, the Renegade Swordsman",
+          "fr": "Touya, o Espadachim Desertor"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -2969,7 +3263,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Neo Horizon - MK I",
+        "name": {
+          "en": "Neo Horizon - MK I",
+          "fr": "Neo Horizon - MK I"
+        },
         "type": "Character",
         "cost": 2,
         "image": {
@@ -3001,7 +3298,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Storm Eagle",
+        "name": {
+          "en": "Storm Eagle",
+          "fr": "Storm Eagle"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -3033,7 +3333,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Estátua Defensora das Colinas",
+        "name": {
+          "en": "Hill Defender Statue",
+          "fr": "Estátua Defensora das Colinas"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -3065,7 +3368,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Kakaiju a Grande Kaiju",
+        "name": {
+          "en": "Kakaiju, the Great Kaiju",
+          "fr": "Kakaiju, a Grande Kaiju"
+        },
         "type": "Character",
         "cost": 5,
         "image": {
@@ -3097,7 +3403,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Aiko a Pugilista Lendaria",
+        "name": {
+          "en": "Aiko, the Legendary Pugilist",
+          "fr": "Aiko, a Pugilista Lendária"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -3129,7 +3438,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Windblade",
+        "name": {
+          "en": "Windblade",
+          "fr": "Windblade"
+        },
         "type": "Character",
         "cost": 2,
         "image": {
@@ -3161,7 +3473,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Pastel o Gato do Destino",
+        "name": {
+          "en": "Pastel, the Cat of Destiny",
+          "fr": "Pastel, o Gato do Destino"
+        },
         "type": "Character",
         "cost": 2,
         "image": {
@@ -3193,7 +3508,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Mudanca de Territroio",
+        "name": {
+          "en": "Territory Change",
+          "fr": "Mudança de Território"
+        },
         "type": "Support - Normal",
         "cost": 1,
         "image": {
@@ -3219,7 +3537,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Faisca",
+        "name": {
+          "en": "Spark",
+          "fr": "Faisca"
+        },
         "type": "Support - Normal",
         "cost": 1,
         "image": {
@@ -3245,7 +3566,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Disparo Magico",
+        "name": {
+          "en": "Magic Shot",
+          "fr": "Disparo Mágico"
+        },
         "type": "Support - Normal",
         "cost": 1,
         "image": {
@@ -3271,7 +3595,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Impulso de Energia",
+        "name": {
+          "en": "Energy Surge",
+          "fr": "Impulso de Energia"
+        },
         "type": "Support - Normal",
         "cost": 1,
         "image": {
@@ -3297,7 +3624,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Viso do Destino",
+        "name": {
+          "en": "Destiny’s Vision",
+          "fr": "Visão do Destino"
+        },
         "type": "Support - Normal",
         "cost": 1,
         "image": {
@@ -3323,7 +3653,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Passo do Vento",
+        "name": {
+          "en": "Step of the Wind",
+          "fr": "Passo do Vento"
+        },
         "type": "Support - Normal",
         "cost": 1,
         "image": {
@@ -3349,7 +3682,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Chamado da Noite",
+        "name": {
+          "en": "Call of the Night",
+          "fr": "Chamado da Noite"
+        },
         "type": "Support - Normal",
         "cost": 1,
         "image": {
@@ -3375,7 +3711,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Nucleo do Vazio Perpetuo",
+        "name": {
+          "en": "Core of the Everlasting Void",
+          "fr": "Núcleo do Vazio Perpétuo"
+        },
         "type": "Support - Normal",
         "cost": 1,
         "image": {
@@ -3401,7 +3740,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Nucleo da Alma Incandescente",
+        "name": {
+          "en": "Core of the Blazing Soul",
+          "fr": "Núcleo da Alma Incandescente"
+        },
         "type": "Support - Normal",
         "cost": 1,
         "image": {
@@ -3427,7 +3769,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Nucleo da Brisa Primordial",
+        "name": {
+          "en": "Core of the Primordial Breeze",
+          "fr": "Núcleo da Brisa Primordial"
+        },
         "type": "Support - Normal",
         "cost": 1,
         "image": {
@@ -3453,7 +3798,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Nucleo da Chuva Ancestral",
+        "name": {
+          "en": "Core of the Ancestral Rain",
+          "fr": "Núcleo da Chuva Ancestral"
+        },
         "type": "Support - Response",
         "cost": 1,
         "image": {
@@ -3479,7 +3827,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Nucleo do Guardaiao Terreno",
+        "name": {
+          "en": "Core of the Earthbound Guardian",
+          "fr": "Núcleo do Guardaião Terreno"
+        },
         "type": "Support - Response",
         "cost": 1,
         "image": {
@@ -3505,7 +3856,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Nucleo da Luminancia Eterna",
+        "name": {
+          "en": "Core of Eternal Luminescence",
+          "fr": "Núcleo da Luminância Eterna"
+        },
         "type": "Support - Normal",
         "cost": 1,
         "image": {
@@ -3531,7 +3885,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ascenso do Escolhido",
+        "name": {
+          "en": "Rise of the Chosen One",
+          "fr": "Ascensão do Escolhido"
+        },
         "type": "Support - Normal",
         "cost": 2,
         "image": {
@@ -3557,7 +3914,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Onda de Purificacao",
+        "name": {
+          "en": "Purification Wave",
+          "fr": "Onda de Purificação"
+        },
         "type": "Support - Normal",
         "cost": 2,
         "image": {
@@ -3583,7 +3943,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Recarga Turbulenta",
+        "name": {
+          "en": "Turbulent Recharge",
+          "fr": "Recarga Turbulenta"
+        },
         "type": "Support - Normal",
         "cost": 2,
         "image": {
@@ -3609,7 +3972,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Rebobinar",
+        "name": {
+          "en": "Rewind",
+          "fr": "Rebobinar"
+        },
         "type": "Support - Normal",
         "cost": 2,
         "image": {
@@ -3635,7 +4001,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Pocao de Remocao de Status",
+        "name": {
+          "en": "Status Removal Potion",
+          "fr": "Poção de Remoção de Status"
+        },
         "type": "Support - Equipment",
         "cost": 2,
         "image": {
@@ -3661,7 +4030,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Pocao de Cura",
+        "name": {
+          "en": "Healing Potion",
+          "fr": "Poção de Cura"
+        },
         "type": "Support - Normal",
         "cost": 1,
         "image": {
@@ -3687,7 +4059,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Medalhao da Centelha Absoluta",
+        "name": {
+          "en": "Absolute Spark Medallion",
+          "fr": "Medalhão da Centelha Absoluta"
+        },
         "type": "Support - Normal",
         "cost": 3,
         "image": {
@@ -3713,7 +4088,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Tufao",
+        "name": {
+          "en": "Typhoon",
+          "fr": "Tufão"
+        },
         "type": "Support - Normal",
         "cost": 1,
         "image": {
@@ -3739,7 +4117,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Pocao de Cura Maior",
+        "name": {
+          "en": "Greater Healing Potion",
+          "fr": "Poção de Cura Maior"
+        },
         "type": "Support - Normal",
         "cost": 2,
         "image": {
@@ -3765,7 +4146,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Buraco Negro",
+        "name": {
+          "en": "Black Hole",
+          "fr": "Buraco Negro"
+        },
         "type": "Support - Normal",
         "cost": 5,
         "image": {
@@ -3791,7 +4175,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Teletransporte de Emergencia",
+        "name": {
+          "en": "Emergence Transport",
+          "fr": "Teletransporte de Emergência"
+        },
         "type": "Support - Response",
         "cost": 2,
         "image": {
@@ -3817,7 +4204,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Reencarnacao Flamejante",
+        "name": {
+          "en": "Flaming Reincarnation",
+          "fr": "Reencarnação Flamejante"
+        },
         "type": "Support - Response",
         "cost": 1,
         "image": {
@@ -3843,7 +4233,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Alterar probabilidades",
+        "name": {
+          "en": "Probability Alteration",
+          "fr": "Alterar probabilidades"
+        },
         "type": "Support - Response",
         "cost": 2,
         "image": {
@@ -3869,7 +4262,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Acenda! Chamas do Milagre!",
+        "name": {
+          "en": "Ignite! Flames of Miracle!",
+          "fr": "Acenda! Chamas do Milagre!"
+        },
         "type": "Support - Response",
         "cost": 2,
         "image": {
@@ -3895,7 +4291,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Monolito do Guardiao",
+        "name": {
+          "en": "Monolith of the Guardians",
+          "fr": "Monólito do Guardião"
+        },
         "type": "Support - Field",
         "cost": 2,
         "image": {
@@ -3921,7 +4320,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Bloqueio",
+        "name": {
+          "en": "Block",
+          "fr": "Bloqueio"
+        },
         "type": "Support - Response",
         "cost": 1,
         "image": {
@@ -3947,7 +4349,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Escudo da Provocacao",
+        "name": {
+          "en": "Shield of Provocation",
+          "fr": "Escudo da Provocação"
+        },
         "type": "Support - Equipment",
         "cost": 2,
         "image": {
@@ -3973,7 +4378,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Lamina Esmeralda",
+        "name": {
+          "en": "Emerald Blade",
+          "fr": "Lâmina Esmeralda"
+        },
         "type": "Support - Equipment",
         "cost": 2,
         "image": {
@@ -3999,7 +4407,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Expansao de Vigor",
+        "name": {
+          "en": "Vitality Expansion",
+          "fr": "Expansão de Vigor"
+        },
         "type": "Support - Equipment",
         "cost": 3,
         "image": {
@@ -4025,7 +4436,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Correntes de Poder",
+        "name": {
+          "en": "Chains of Power",
+          "fr": "Correntes de Poder"
+        },
         "type": "Support - Equipment",
         "cost": 1,
         "image": {
@@ -4051,7 +4465,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Armadura de Fogo e Gelo",
+        "name": {
+          "en": "Fire and Ice Armor",
+          "fr": "Armadura de Fogo e Gelo"
+        },
         "type": "Support - Equipment",
         "cost": 2,
         "image": {
@@ -4077,7 +4494,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Espaco",
+        "name": {
+          "en": "Space",
+          "fr": "Espaço"
+        },
         "type": "Support - Field",
         "cost": 2,
         "image": {
@@ -4103,7 +4523,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Vulcao",
+        "name": {
+          "en": "Volcano",
+          "fr": "Vulcão"
+        },
         "type": "Support - Field",
         "cost": 2,
         "image": {
@@ -4129,7 +4552,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Caverna",
+        "name": {
+          "en": "Cave",
+          "fr": "Caverna"
+        },
         "type": "Support - Field",
         "cost": 2,
         "image": {
@@ -4155,7 +4581,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Oceano",
+        "name": {
+          "en": "Ocean",
+          "fr": "Oceano"
+        },
         "type": "Support - Field",
         "cost": 2,
         "image": {
@@ -4181,7 +4610,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Montanha",
+        "name": {
+          "en": "Mountain",
+          "fr": "Montanha"
+        },
         "type": "Support - Field",
         "cost": 2,
         "image": {
@@ -4207,7 +4639,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ceu",
+        "name": {
+          "en": "Sky",
+          "fr": "Céu"
+        },
         "type": "Support - Field",
         "cost": 2,
         "image": {
@@ -4233,7 +4668,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Eldertree a arvore Guardia da Floresta",
+        "name": {
+          "en": "Eldertree, the Guardian Tree of the Forest",
+          "fr": "Eldertree, a árvore Guardiã da Floresta"
+        },
         "type": "Character",
         "cost": 1,
         "image": {
@@ -4265,7 +4703,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Eldertree o Drago Anciao",
+        "name": {
+          "en": "Eldertree, the Ancient Dragon",
+          "fr": "Eldertree, o Dragão Ancião"
+        },
         "type": "Character",
         "cost": 4,
         "image": {
@@ -4297,7 +4738,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Tezla o Mecha-Cientista",
+        "name": {
+          "en": "Tezla, the Mecha-Scientist",
+          "fr": "Tezla o Mecha-Cientista"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
