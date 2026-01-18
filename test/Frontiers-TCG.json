@@ -133,22 +133,20 @@
 
         "categoriesAlreadyOnBoard": ["Mana"],
 
-        "autoPlayFromHand": {
+       "autoPlayFromHand": {
           "Mana": "Mana",
           "Character": "Battlefield",
           "Normal": "Stack",
-          "Response": "Battlefield",
+          "Response": "Stack",
           "Equipment": "Stack",
           "Field": "FieldZone"
         },
         "autoPlayFromStack": {
-          "Character": "Discard",
-          "Normal": "Battlefield",
-          "Response": "Battlefield",
+          "Character": "Battlefield",
+          "Normal": "Discard",
+          "Response": "Discard",
           "Equipment": "GROUP",
-          "Field": "FieldZone",
-          "Support": "Discard"
-
+          "Field": "FieldZone"
         },
         "sectionsDict": {
           "Battlefield": {

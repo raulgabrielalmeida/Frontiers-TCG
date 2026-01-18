@@ -426,7 +426,7 @@
           "en": "Stellar Brigade Tactics",
           "fr": "Táticas de Guerra da Brigada Estelar"
         },
-        "type": "Support",
+        "type": "Normal",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A008.png",
@@ -683,7 +683,7 @@
           "en": "Flames of Discord of the Inferno Knights",
           "fr": "Chamas da Discordia dos Cavaleiros Infernais"
         },
-        "type": "Support",
+        "type": "Normal",
         "cost": 3,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A015.png",
@@ -712,7 +712,7 @@
           "en": "Inferno Knight’s Attack Order",
           "fr": "Ordem de Ataque dos Cavaleiros Infernais"
         },
-        "type": "Support",
+        "type": "Normal",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A016.png",
@@ -998,7 +998,7 @@
           "en": "Golden Lightning Overcharge",
           "fr": "Sobrecarga do Relâmpago Dourado"
         },
-        "type": "Support",
+        "type": "Normal",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A022.png",
@@ -1027,7 +1027,7 @@
           "en": "The Arrival of the Golden Lightning",
           "fr": "A Chegada do Relâmpago Dourado"
         },
-        "type": "Support",
+        "type": "Normal",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A023.png",
@@ -1056,7 +1056,7 @@
           "en": "Magic Circle of the Golden Lightning",
           "fr": "Círculo Mágico do Relâmpago Dourado"
         },
-        "type": "Support",
+        "type": "Normal",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A024.png",
@@ -1351,7 +1351,7 @@
           "en": "Walkie Talkie",
           "fr": "Walkie Talkie"
         },
-        "type": "Support",
+        "type": "Normal",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A032.png",
@@ -1380,7 +1380,7 @@
           "en": "Call of the Ladies of the Abyss",
           "fr": "Chamado das Damas do Abismo"
         },
-        "type": "Support",
+        "type": "Normal",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A033.png",
@@ -1666,7 +1666,7 @@
           "en": "Master of the Castle’s Mind Control",
           "fr": "Controle Mental da Mestra do Castelo"
         },
-        "type": "Support",
+        "type": "Normal",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A039.png",
@@ -1695,7 +1695,7 @@
           "en": "The Power of the Lord of the Night",
           "fr": "O Poder do Senhor da Noite"
         },
-        "type": "Support",
+        "type": "Normal",
         "cost": 3,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A040.png",
@@ -1724,7 +1724,7 @@
           "en": "Call of Shadows",
           "fr": "Chamado das Sombras"
         },
-        "type": "Support",
+        "type": "Normal",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A041.png",
@@ -1972,7 +1972,7 @@
           "en": "Toxic Terror Gas Grenade",
           "fr": "Granada de gás do Terror Tóxico"
         },
-        "type": "Support",
+        "type": "Normal",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A048.png",
@@ -2030,7 +2030,7 @@
           "en": "Toxic Terror’s Recombination",
           "fr": "Recombinção do Terror Tóxico"
         },
-        "type": "Support",
+        "type": "Normal",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A050.png",
@@ -3731,7 +3731,7 @@
           "en": "Territory Change",
           "fr": "Mudança de Território"
         },
-        "type": "Support",
+        "type": "Normal",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A093.png",
@@ -3760,7 +3760,7 @@
           "en": "Spark",
           "fr": "Faisca"
         },
-        "type": "Support",
+        "type": "Normal",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A094.png",
@@ -3789,7 +3789,7 @@
           "en": "Magic Shot",
           "fr": "Disparo Mágico"
         },
-        "type": "Support",
+        "type": "Normal",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A095.png",
@@ -3818,7 +3818,7 @@
           "en": "Energy Surge",
           "fr": "Impulso de Energia"
         },
-        "type": "Support",
+        "type": "Normal",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A096.png",
@@ -3847,7 +3847,7 @@
           "en": "Destiny’s Vision",
           "fr": "Visão do Destino"
         },
-        "type": "Support",
+        "type": "Normal",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A097.png",
@@ -3876,7 +3876,7 @@
           "en": "Step of the Wind",
           "fr": "Passo do Vento"
         },
-        "type": "Support",
+        "type": "Normal",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A098.png",
@@ -3905,7 +3905,7 @@
           "en": "Call of the Night",
           "fr": "Chamado da Noite"
         },
-        "type": "Support",
+        "type": "Normal",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A099.png",
@@ -3934,7 +3934,7 @@
           "en": "Core of the Everlasting Void",
           "fr": "Núcleo do Vazio Perpétuo"
         },
-        "type": "Support",
+        "type": "Normal",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A100.png",
@@ -3963,7 +3963,7 @@
           "en": "Core of the Blazing Soul",
           "fr": "Núcleo da Alma Incandescente"
         },
-        "type": "Support",
+        "type": "Normal",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A101.png",
@@ -3992,7 +3992,7 @@
           "en": "Core of the Primordial Breeze",
           "fr": "Núcleo da Brisa Primordial"
         },
-        "type": "Support",
+        "type": "Normal",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A102.png",
@@ -4079,7 +4079,7 @@
           "en": "Core of Eternal Luminescence",
           "fr": "Núcleo da Luminância Eterna"
         },
-        "type": "Support",
+        "type": "Normal",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A105.png",
@@ -4108,7 +4108,7 @@
           "en": "Rise of the Chosen One",
           "fr": "Ascensão do Escolhido"
         },
-        "type": "Support",
+        "type": "Normal",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A106.png",
@@ -4137,7 +4137,7 @@
           "en": "Purification Wave",
           "fr": "Onda de Purificação"
         },
-        "type": "Support",
+        "type": "Normal",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A107.png",
@@ -4166,7 +4166,7 @@
           "en": "Turbulent Recharge",
           "fr": "Recarga Turbulenta"
         },
-        "type": "Support",
+        "type": "Normal",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A108.png",
@@ -4195,7 +4195,7 @@
           "en": "Rewind",
           "fr": "Rebobinar"
         },
-        "type": "Support",
+        "type": "Normal",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A109.png",
@@ -4253,7 +4253,7 @@
           "en": "Healing Potion",
           "fr": "Poção de Cura"
         },
-        "type": "Support",
+        "type": "Normal",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A111.png",
@@ -4282,7 +4282,7 @@
           "en": "Absolute Spark Medallion",
           "fr": "Medalhão da Centelha Absoluta"
         },
-        "type": "Support",
+        "type": "Normal",
         "cost": 3,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A112.png",
@@ -4311,7 +4311,7 @@
           "en": "Typhoon",
           "fr": "Tufão"
         },
-        "type": "Support",
+        "type": "Normal",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A113.png",
@@ -4340,7 +4340,7 @@
           "en": "Greater Healing Potion",
           "fr": "Poção de Cura Maior"
         },
-        "type": "Support",
+        "type": "Normal",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A114.png",
@@ -4369,7 +4369,7 @@
           "en": "Black Hole",
           "fr": "Buraco Negro"
         },
-        "type": "Support",
+        "type": "Normal",
         "cost": 5,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A115.png",
