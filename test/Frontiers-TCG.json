@@ -146,7 +146,8 @@
           "Normal": "Discard",
           "Response": "Discard",
           "Equipment": "GROUP",
-          "Field": "FieldZone"
+          "Field": "FieldZone",
+          "Support": "Discard"
         },
         "sectionsDict": {
           "Battlefield": {
