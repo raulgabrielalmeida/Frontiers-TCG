@@ -19,11 +19,8 @@
       "en": "Mana",
       "fr": "Mana"
     },
-    "cost": 0,
-    "LP": null,
-    "type_card": null,
-    "effect": false,
-    "attribute": null
+    "cost": 0
+    
   },
   "A000b": {
     "id": "A000b",
@@ -45,11 +42,8 @@
       "en": "Mana",
       "fr": "Mana"
     },
-    "cost": 0,
-    "LP": null,
-    "type_card": null,
-    "effect": false,
-    "attribute": null
+    "cost": 0
+    
   },
   "A000c": {
     "id": "A000c",
@@ -71,11 +65,8 @@
       "en": "Mana",
       "fr": "Mana"
     },
-    "cost": 0,
-    "LP": null,
-    "type_card": null,
-    "effect": false,
-    "attribute": null
+    "cost": 0
+    
   },
   "A000d": {
     "id": "A000d",
@@ -97,11 +88,8 @@
       "en": "Mana",
       "fr": "Mana"
     },
-    "cost": 0,
-    "LP": null,
-    "type_card": null,
-    "effect": false,
-    "attribute": null
+    "cost": 0
+    
   },
   "A000e": {
     "id": "A000e",
@@ -123,11 +111,8 @@
       "en": "Mana",
       "fr": "Mana"
     },
-    "cost": 0,
-    "LP": null,
-    "type_card": null,
-    "effect": false,
-    "attribute": null
+    "cost": 0
+    
   },
   "A000f": {
     "id": "A000f",
@@ -149,11 +134,8 @@
       "en": "Mana",
       "fr": "Mana"
     },
-    "cost": 0,
-    "LP": null,
-    "type_card": null,
-    "effect": false,
-    "attribute": null
+    "cost": 0
+    
   },
   "A000g": {
     "id": "A000g",
@@ -175,11 +157,8 @@
       "en": "Mana",
       "fr": "Mana"
     },
-    "cost": 0,
-    "LP": null,
-    "type_card": null,
-    "effect": false,
-    "attribute": null
+    "cost": 0
+    
   },
   "A001": {
     "id": "A001",
@@ -400,7 +379,7 @@
           "en": "Stellar Brigade Battlefield",
           "fr": "Campo de Batalha da Brigada Estelar"
         },
-        "type": "Support - Field",
+        "type": "Field",
         "cost": 3,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A007.png",
@@ -409,16 +388,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Field",
+    "type": "Field",
     "name": {
       "en": "Stellar Brigade Battlefield",
       "fr": "Campo de Batalha da Brigada Estelar"
     },
     "cost": 3,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A008": {
     "id": "A008",
@@ -429,7 +408,7 @@
           "en": "Stellar Brigade Tactics",
           "fr": "Táticas de Guerra da Brigada Estelar"
         },
-        "type": "Support - Normal",
+        "type": "Support",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A008.png",
@@ -438,16 +417,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Normal",
+    "type": "Support",
     "name": {
       "en": "Stellar Brigade Tactics",
       "fr": "Táticas de Guerra da Brigada Estelar"
     },
     "cost": 1,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A009": {
     "id": "A009",
@@ -668,7 +647,7 @@
           "en": "Flames of Discord of the Inferno Knights",
           "fr": "Chamas da Discordia dos Cavaleiros Infernais"
         },
-        "type": "Support - Normal",
+        "type": "Support",
         "cost": 3,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A015.png",
@@ -677,16 +656,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Normal",
+    "type": "Support",
     "name": {
       "en": "Flames of Discord of the Inferno Knights",
       "fr": "Chamas da Discordia dos Cavaleiros Infernais"
     },
     "cost": 3,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A016": {
     "id": "A016",
@@ -697,7 +676,7 @@
           "en": "Inferno Knight’s Attack Order",
           "fr": "Ordem de Ataque dos Cavaleiros Infernais"
         },
-        "type": "Support - Normal",
+        "type": "Support",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A016.png",
@@ -706,16 +685,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Normal",
+    "type": "Support",
     "name": {
       "en": "Inferno Knight’s Attack Order",
       "fr": "Ordem de Ataque dos Cavaleiros Infernais"
     },
     "cost": 2,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A017": {
     "id": "A017",
@@ -936,7 +915,7 @@
           "en": "Cabin in the Woods",
           "fr": "A Cabana na Floresta"
         },
-        "type": "Support - Field",
+        "type": "Field",
         "cost": 3,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A021.png",
@@ -945,16 +924,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Field",
+    "type": "Field",
     "name": {
       "en": "Cabin in the Woods",
       "fr": "A Cabana na Floresta"
     },
     "cost": 3,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A022": {
     "id": "A022",
@@ -965,7 +944,7 @@
           "en": "Golden Lightning Overcharge",
           "fr": "Sobrecarga do Relâmpago Dourado"
         },
-        "type": "Support - Normal",
+        "type": "Support",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A022.png",
@@ -974,16 +953,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Normal",
+    "type": "Support",
     "name": {
       "en": "Golden Lightning Overcharge",
       "fr": "Sobrecarga do Relâmpago Dourado"
     },
     "cost": 1,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A023": {
     "id": "A023",
@@ -994,7 +973,7 @@
           "en": "The Arrival of the Golden Lightning",
           "fr": "A Chegada do Relâmpago Dourado"
         },
-        "type": "Support - Normal",
+        "type": "Support",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A023.png",
@@ -1003,16 +982,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Normal",
+    "type": "Support",
     "name": {
       "en": "The Arrival of the Golden Lightning",
       "fr": "A Chegada do Relâmpago Dourado"
     },
     "cost": 1,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A024": {
     "id": "A024",
@@ -1023,7 +1002,7 @@
           "en": "Magic Circle of the Golden Lightning",
           "fr": "Círculo Mágico do Relâmpago Dourado"
         },
-        "type": "Support - Normal",
+        "type": "Support",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A024.png",
@@ -1032,16 +1011,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Normal",
+    "type": "Support",
     "name": {
       "en": "Magic Circle of the Golden Lightning",
       "fr": "Círculo Mágico do Relâmpago Dourado"
     },
     "cost": 1,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A025": {
     "id": "A025",
@@ -1297,7 +1276,7 @@
           "en": "Walkie Talkie",
           "fr": "Walkie Talkie"
         },
-        "type": "Support - Normal",
+        "type": "Support",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A032.png",
@@ -1306,16 +1285,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Normal",
+    "type": "Support",
     "name": {
       "en": "Walkie Talkie",
       "fr": "Walkie Talkie"
     },
     "cost": 1,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A033": {
     "id": "A033",
@@ -1326,7 +1305,7 @@
           "en": "Call of the Ladies of the Abyss",
           "fr": "Chamado das Damas do Abismo"
         },
-        "type": "Support - Normal",
+        "type": "Support",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A033.png",
@@ -1335,16 +1314,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Normal",
+    "type": "Support",
     "name": {
       "en": "Call of the Ladies of the Abyss",
       "fr": "Chamado das Damas do Abismo"
     },
     "cost": 2,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A034": {
     "id": "A034",
@@ -1565,7 +1544,7 @@
           "en": "Castle of the Lord of the Night",
           "fr": "Castelo do Senhor da Noite"
         },
-        "type": "Support - Field",
+        "type": "Field",
         "cost": 3,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A038.png",
@@ -1574,16 +1553,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Field",
+    "type": "Field",
     "name": {
       "en": "Castle of the Lord of the Night",
       "fr": "Castelo do Senhor da Noite"
     },
     "cost": 3,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A039": {
     "id": "A039",
@@ -1594,7 +1573,7 @@
           "en": "Master of the Castle’s Mind Control",
           "fr": "Controle Mental da Mestra do Castelo"
         },
-        "type": "Support - Normal",
+        "type": "Support",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A039.png",
@@ -1603,16 +1582,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Normal",
+    "type": "Support",
     "name": {
       "en": "Master of the Castle’s Mind Control",
       "fr": "Controle Mental da Mestra do Castelo"
     },
     "cost": 1,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A040": {
     "id": "A040",
@@ -1623,7 +1602,7 @@
           "en": "The Power of the Lord of the Night",
           "fr": "O Poder do Senhor da Noite"
         },
-        "type": "Support - Normal",
+        "type": "Support",
         "cost": 3,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A040.png",
@@ -1632,16 +1611,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Normal",
+    "type": "Support",
     "name": {
       "en": "The Power of the Lord of the Night",
       "fr": "O Poder do Senhor da Noite"
     },
     "cost": 3,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A041": {
     "id": "A041",
@@ -1652,7 +1631,7 @@
           "en": "Call of Shadows",
           "fr": "Chamado das Sombras"
         },
-        "type": "Support - Normal",
+        "type": "Support",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A041.png",
@@ -1661,16 +1640,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Normal",
+    "type": "Support",
     "name": {
       "en": "Call of Shadows",
       "fr": "Chamado das Sombras"
     },
     "cost": 2,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A042": {
     "id": "A042",
@@ -1681,7 +1660,7 @@
           "en": "Protection of the Lord of the Night",
           "fr": "Proteção do Senhor da Noite"
         },
-        "type": "Support - Response",
+        "type": "Response",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A042.png",
@@ -1690,16 +1669,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Response",
+    "type": "Response",
     "name": {
       "en": "Protection of the Lord of the Night",
       "fr": "Proteção do Senhor da Noite"
     },
     "cost": 1,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A043": {
     "id": "A043",
@@ -1885,7 +1864,7 @@
           "en": "Toxic Terror Gas Grenade",
           "fr": "Granada de gás do Terror Tóxico"
         },
-        "type": "Support - Normal",
+        "type": "Support",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A048.png",
@@ -1894,16 +1873,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Normal",
+    "type": "Support",
     "name": {
       "en": "Toxic Terror Gas Grenade",
       "fr": "Granada de gás do Terror Tóxico"
     },
     "cost": 2,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A049": {
     "id": "A049",
@@ -1914,7 +1893,7 @@
           "en": "Toxic Terror’s Strategic Retreat",
           "fr": "Recuo Estratégico do Terror Tóxico"
         },
-        "type": "Support - Response",
+        "type": "Response",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A049.png",
@@ -1923,16 +1902,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Response",
+    "type": "Response",
     "name": {
       "en": "Toxic Terror’s Strategic Retreat",
       "fr": "Recuo Estratégico do Terror Tóxico"
     },
     "cost": 1,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A050": {
     "id": "A050",
@@ -1943,7 +1922,7 @@
           "en": "Toxic Terror’s Recombination",
           "fr": "Recombinção do Terror Tóxico"
         },
-        "type": "Support - Normal",
+        "type": "Support",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A050.png",
@@ -1952,16 +1931,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Normal",
+    "type": "Support",
     "name": {
       "en": "Toxic Terror’s Recombination",
       "fr": "Recombinção do Terror Tóxico"
     },
     "cost": 2,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A051": {
     "id": "A051",
@@ -3512,7 +3491,7 @@
           "en": "Territory Change",
           "fr": "Mudança de Território"
         },
-        "type": "Support - Normal",
+        "type": "Support",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A093.png",
@@ -3521,16 +3500,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Normal",
+    "type": "Support",
     "name": {
       "en": "Territory Change",
       "fr": "Mudança de Território"
     },
     "cost": 1,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A094": {
     "id": "A094",
@@ -3541,7 +3520,7 @@
           "en": "Spark",
           "fr": "Faisca"
         },
-        "type": "Support - Normal",
+        "type": "Support",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A094.png",
@@ -3550,16 +3529,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Normal",
+    "type": "Support",
     "name": {
       "en": "Spark",
       "fr": "Faisca"
     },
     "cost": 1,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A095": {
     "id": "A095",
@@ -3570,7 +3549,7 @@
           "en": "Magic Shot",
           "fr": "Disparo Mágico"
         },
-        "type": "Support - Normal",
+        "type": "Support",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A095.png",
@@ -3579,16 +3558,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Normal",
+    "type": "Support",
     "name": {
       "en": "Magic Shot",
       "fr": "Disparo Mágico"
     },
     "cost": 1,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A096": {
     "id": "A096",
@@ -3599,7 +3578,7 @@
           "en": "Energy Surge",
           "fr": "Impulso de Energia"
         },
-        "type": "Support - Normal",
+        "type": "Support",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A096.png",
@@ -3608,16 +3587,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Normal",
+    "type": "Support",
     "name": {
       "en": "Energy Surge",
       "fr": "Impulso de Energia"
     },
     "cost": 1,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A097": {
     "id": "A097",
@@ -3628,7 +3607,7 @@
           "en": "Destiny’s Vision",
           "fr": "Visão do Destino"
         },
-        "type": "Support - Normal",
+        "type": "Support",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A097.png",
@@ -3637,16 +3616,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Normal",
+    "type": "Support",
     "name": {
       "en": "Destiny’s Vision",
       "fr": "Visão do Destino"
     },
     "cost": 1,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A098": {
     "id": "A098",
@@ -3657,7 +3636,7 @@
           "en": "Step of the Wind",
           "fr": "Passo do Vento"
         },
-        "type": "Support - Normal",
+        "type": "Support",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A098.png",
@@ -3666,16 +3645,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Normal",
+    "type": "Support",
     "name": {
       "en": "Step of the Wind",
       "fr": "Passo do Vento"
     },
     "cost": 1,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A099": {
     "id": "A099",
@@ -3686,7 +3665,7 @@
           "en": "Call of the Night",
           "fr": "Chamado da Noite"
         },
-        "type": "Support - Normal",
+        "type": "Support",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A099.png",
@@ -3695,16 +3674,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Normal",
+    "type": "Support",
     "name": {
       "en": "Call of the Night",
       "fr": "Chamado da Noite"
     },
     "cost": 1,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A100": {
     "id": "A100",
@@ -3715,7 +3694,7 @@
           "en": "Core of the Everlasting Void",
           "fr": "Núcleo do Vazio Perpétuo"
         },
-        "type": "Support - Normal",
+        "type": "Support",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A100.png",
@@ -3724,16 +3703,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Normal",
+    "type": "Support",
     "name": {
       "en": "Core of the Everlasting Void",
       "fr": "Núcleo do Vazio Perpétuo"
     },
     "cost": 1,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A101": {
     "id": "A101",
@@ -3744,7 +3723,7 @@
           "en": "Core of the Blazing Soul",
           "fr": "Núcleo da Alma Incandescente"
         },
-        "type": "Support - Normal",
+        "type": "Support",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A101.png",
@@ -3753,16 +3732,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Normal",
+    "type": "Support",
     "name": {
       "en": "Core of the Blazing Soul",
       "fr": "Núcleo da Alma Incandescente"
     },
     "cost": 1,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A102": {
     "id": "A102",
@@ -3773,7 +3752,7 @@
           "en": "Core of the Primordial Breeze",
           "fr": "Núcleo da Brisa Primordial"
         },
-        "type": "Support - Normal",
+        "type": "Support",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A102.png",
@@ -3782,16 +3761,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Normal",
+    "type": "Support",
     "name": {
       "en": "Core of the Primordial Breeze",
       "fr": "Núcleo da Brisa Primordial"
     },
     "cost": 1,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A103": {
     "id": "A103",
@@ -3802,7 +3781,7 @@
           "en": "Core of the Ancestral Rain",
           "fr": "Núcleo da Chuva Ancestral"
         },
-        "type": "Support - Response",
+        "type": "Response",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A103.png",
@@ -3811,16 +3790,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Response",
+    "type": "Response",
     "name": {
       "en": "Core of the Ancestral Rain",
       "fr": "Núcleo da Chuva Ancestral"
     },
     "cost": 1,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A104": {
     "id": "A104",
@@ -3831,7 +3810,7 @@
           "en": "Core of the Earthbound Guardian",
           "fr": "Núcleo do Guardaião Terreno"
         },
-        "type": "Support - Response",
+        "type": "Response",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A104.png",
@@ -3840,16 +3819,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Response",
+    "type": "Response",
     "name": {
       "en": "Core of the Earthbound Guardian",
       "fr": "Núcleo do Guardaião Terreno"
     },
     "cost": 1,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A105": {
     "id": "A105",
@@ -3860,7 +3839,7 @@
           "en": "Core of Eternal Luminescence",
           "fr": "Núcleo da Luminância Eterna"
         },
-        "type": "Support - Normal",
+        "type": "Support",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A105.png",
@@ -3869,16 +3848,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Normal",
+    "type": "Support",
     "name": {
       "en": "Core of Eternal Luminescence",
       "fr": "Núcleo da Luminância Eterna"
     },
     "cost": 1,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A106": {
     "id": "A106",
@@ -3889,7 +3868,7 @@
           "en": "Rise of the Chosen One",
           "fr": "Ascensão do Escolhido"
         },
-        "type": "Support - Normal",
+        "type": "Support",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A106.png",
@@ -3898,16 +3877,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Normal",
+    "type": "Support",
     "name": {
       "en": "Rise of the Chosen One",
       "fr": "Ascensão do Escolhido"
     },
     "cost": 2,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A107": {
     "id": "A107",
@@ -3918,7 +3897,7 @@
           "en": "Purification Wave",
           "fr": "Onda de Purificação"
         },
-        "type": "Support - Normal",
+        "type": "Support",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A107.png",
@@ -3927,16 +3906,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Normal",
+    "type": "Support",
     "name": {
       "en": "Purification Wave",
       "fr": "Onda de Purificação"
     },
     "cost": 2,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A108": {
     "id": "A108",
@@ -3947,7 +3926,7 @@
           "en": "Turbulent Recharge",
           "fr": "Recarga Turbulenta"
         },
-        "type": "Support - Normal",
+        "type": "Support",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A108.png",
@@ -3956,16 +3935,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Normal",
+    "type": "Support",
     "name": {
       "en": "Turbulent Recharge",
       "fr": "Recarga Turbulenta"
     },
     "cost": 2,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A109": {
     "id": "A109",
@@ -3976,7 +3955,7 @@
           "en": "Rewind",
           "fr": "Rebobinar"
         },
-        "type": "Support - Normal",
+        "type": "Support",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A109.png",
@@ -3985,16 +3964,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Normal",
+    "type": "Support",
     "name": {
       "en": "Rewind",
       "fr": "Rebobinar"
     },
     "cost": 2,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A110": {
     "id": "A110",
@@ -4005,7 +3984,7 @@
           "en": "Status Removal Potion",
           "fr": "Poção de Remoção de Status"
         },
-        "type": "Support - Equipment",
+        "type": "Equipment",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A110.png",
@@ -4014,16 +3993,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Equipment",
+    "type": "Equipment",
     "name": {
       "en": "Status Removal Potion",
       "fr": "Poção de Remoção de Status"
     },
     "cost": 2,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A111": {
     "id": "A111",
@@ -4034,7 +4013,7 @@
           "en": "Healing Potion",
           "fr": "Poção de Cura"
         },
-        "type": "Support - Normal",
+        "type": "Support",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A111.png",
@@ -4043,16 +4022,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Normal",
+    "type": "Support",
     "name": {
       "en": "Healing Potion",
       "fr": "Poção de Cura"
     },
     "cost": 1,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A112": {
     "id": "A112",
@@ -4063,7 +4042,7 @@
           "en": "Absolute Spark Medallion",
           "fr": "Medalhão da Centelha Absoluta"
         },
-        "type": "Support - Normal",
+        "type": "Support",
         "cost": 3,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A112.png",
@@ -4072,16 +4051,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Normal",
+    "type": "Support",
     "name": {
       "en": "Absolute Spark Medallion",
       "fr": "Medalhão da Centelha Absoluta"
     },
     "cost": 3,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A113": {
     "id": "A113",
@@ -4092,7 +4071,7 @@
           "en": "Typhoon",
           "fr": "Tufão"
         },
-        "type": "Support - Normal",
+        "type": "Support",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A113.png",
@@ -4101,16 +4080,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Normal",
+    "type": "Support",
     "name": {
       "en": "Typhoon",
       "fr": "Tufão"
     },
     "cost": 1,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A114": {
     "id": "A114",
@@ -4121,7 +4100,7 @@
           "en": "Greater Healing Potion",
           "fr": "Poção de Cura Maior"
         },
-        "type": "Support - Normal",
+        "type": "Support",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A114.png",
@@ -4130,16 +4109,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Normal",
+    "type": "Support",
     "name": {
       "en": "Greater Healing Potion",
       "fr": "Poção de Cura Maior"
     },
     "cost": 2,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A115": {
     "id": "A115",
@@ -4150,7 +4129,7 @@
           "en": "Black Hole",
           "fr": "Buraco Negro"
         },
-        "type": "Support - Normal",
+        "type": "Support",
         "cost": 5,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A115.png",
@@ -4159,16 +4138,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Normal",
+    "type": "Support",
     "name": {
       "en": "Black Hole",
       "fr": "Buraco Negro"
     },
     "cost": 5,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A116": {
     "id": "A116",
@@ -4179,7 +4158,7 @@
           "en": "Emergence Transport",
           "fr": "Teletransporte de Emergência"
         },
-        "type": "Support - Response",
+        "type": "Response",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A116.png",
@@ -4188,16 +4167,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Response",
+    "type": "Response",
     "name": {
       "en": "Emergence Transport",
       "fr": "Teletransporte de Emergência"
     },
     "cost": 2,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A117": {
     "id": "A117",
@@ -4208,7 +4187,7 @@
           "en": "Flaming Reincarnation",
           "fr": "Reencarnação Flamejante"
         },
-        "type": "Support - Response",
+        "type": "Response",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A117.png",
@@ -4217,16 +4196,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Response",
+    "type": "Response",
     "name": {
       "en": "Flaming Reincarnation",
       "fr": "Reencarnação Flamejante"
     },
     "cost": 1,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A118": {
     "id": "A118",
@@ -4237,7 +4216,7 @@
           "en": "Probability Alteration",
           "fr": "Alterar probabilidades"
         },
-        "type": "Support - Response",
+        "type": "Response",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A118.png",
@@ -4246,16 +4225,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Response",
+    "type": "Response",
     "name": {
       "en": "Probability Alteration",
       "fr": "Alterar probabilidades"
     },
     "cost": 2,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A119": {
     "id": "A119",
@@ -4266,7 +4245,7 @@
           "en": "Ignite! Flames of Miracle!",
           "fr": "Acenda! Chamas do Milagre!"
         },
-        "type": "Support - Response",
+        "type": "Response",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A119.png",
@@ -4275,16 +4254,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Response",
+    "type": "Response",
     "name": {
       "en": "Ignite! Flames of Miracle!",
       "fr": "Acenda! Chamas do Milagre!"
     },
     "cost": 2,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A120": {
     "id": "A120",
@@ -4295,7 +4274,7 @@
           "en": "Monolith of the Guardians",
           "fr": "Monólito do Guardião"
         },
-        "type": "Support - Field",
+        "type": "Field",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A120.png",
@@ -4304,16 +4283,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Field",
+    "type": "Field",
     "name": {
       "en": "Monolith of the Guardians",
       "fr": "Monólito do Guardião"
     },
     "cost": 2,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A121": {
     "id": "A121",
@@ -4324,7 +4303,7 @@
           "en": "Block",
           "fr": "Bloqueio"
         },
-        "type": "Support - Response",
+        "type": "Response",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A121.png",
@@ -4333,16 +4312,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Response",
+    "type": "Response",
     "name": {
       "en": "Block",
       "fr": "Bloqueio"
     },
     "cost": 1,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A122": {
     "id": "A122",
@@ -4353,7 +4332,7 @@
           "en": "Shield of Provocation",
           "fr": "Escudo da Provocação"
         },
-        "type": "Support - Equipment",
+        "type": "Equipment",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A122.png",
@@ -4362,16 +4341,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Equipment",
+    "type": "Equipment",
     "name": {
       "en": "Shield of Provocation",
       "fr": "Escudo da Provocação"
     },
     "cost": 2,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A123": {
     "id": "A123",
@@ -4382,7 +4361,7 @@
           "en": "Emerald Blade",
           "fr": "Lâmina Esmeralda"
         },
-        "type": "Support - Equipment",
+        "type": "Equipment",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A123.png",
@@ -4391,16 +4370,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Equipment",
+    "type": "Equipment",
     "name": {
       "en": "Emerald Blade",
       "fr": "Lâmina Esmeralda"
     },
     "cost": 2,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A124": {
     "id": "A124",
@@ -4411,7 +4390,7 @@
           "en": "Vitality Expansion",
           "fr": "Expansão de Vigor"
         },
-        "type": "Support - Equipment",
+        "type": "Equipment",
         "cost": 3,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A124.png",
@@ -4420,16 +4399,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Equipment",
+    "type": "Equipment",
     "name": {
       "en": "Vitality Expansion",
       "fr": "Expansão de Vigor"
     },
     "cost": 3,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A125": {
     "id": "A125",
@@ -4440,7 +4419,7 @@
           "en": "Chains of Power",
           "fr": "Correntes de Poder"
         },
-        "type": "Support - Equipment",
+        "type": "Equipment",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A125.png",
@@ -4449,16 +4428,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Equipment",
+    "type": "Equipment",
     "name": {
       "en": "Chains of Power",
       "fr": "Correntes de Poder"
     },
     "cost": 1,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A126": {
     "id": "A126",
@@ -4469,7 +4448,7 @@
           "en": "Fire and Ice Armor",
           "fr": "Armadura de Fogo e Gelo"
         },
-        "type": "Support - Equipment",
+        "type": "Equipment",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A126.png",
@@ -4478,16 +4457,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Equipment",
+    "type": "Equipment",
     "name": {
       "en": "Fire and Ice Armor",
       "fr": "Armadura de Fogo e Gelo"
     },
     "cost": 2,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A127": {
     "id": "A127",
@@ -4498,7 +4477,7 @@
           "en": "Space",
           "fr": "Espaço"
         },
-        "type": "Support - Field",
+        "type": "Field",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A127.png",
@@ -4507,16 +4486,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Field",
+    "type": "Field",
     "name": {
       "en": "Space",
       "fr": "Espaço"
     },
     "cost": 2,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A128": {
     "id": "A128",
@@ -4527,7 +4506,7 @@
           "en": "Volcano",
           "fr": "Vulcão"
         },
-        "type": "Support - Field",
+        "type": "Field",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A128.png",
@@ -4536,16 +4515,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Field",
+    "type": "Field",
     "name": {
       "en": "Volcano",
       "fr": "Vulcão"
     },
     "cost": 2,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A129": {
     "id": "A129",
@@ -4556,7 +4535,7 @@
           "en": "Cave",
           "fr": "Caverna"
         },
-        "type": "Support - Field",
+        "type": "Field",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A129.png",
@@ -4565,16 +4544,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Field",
+    "type": "Field",
     "name": {
       "en": "Cave",
       "fr": "Caverna"
     },
     "cost": 2,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A130": {
     "id": "A130",
@@ -4585,7 +4564,7 @@
           "en": "Ocean",
           "fr": "Oceano"
         },
-        "type": "Support - Field",
+        "type": "Field",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A130.png",
@@ -4594,16 +4573,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Field",
+    "type": "Field",
     "name": {
       "en": "Ocean",
       "fr": "Oceano"
     },
     "cost": 2,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A131": {
     "id": "A131",
@@ -4614,7 +4593,7 @@
           "en": "Mountain",
           "fr": "Montanha"
         },
-        "type": "Support - Field",
+        "type": "Field",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A131.png",
@@ -4623,16 +4602,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Field",
+    "type": "Field",
     "name": {
       "en": "Mountain",
       "fr": "Montanha"
     },
     "cost": 2,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A132": {
     "id": "A132",
@@ -4643,7 +4622,7 @@
           "en": "Sky",
           "fr": "Céu"
         },
-        "type": "Support - Field",
+        "type": "Field",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A132.png",
@@ -4652,16 +4631,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Support - Field",
+    "type": "Field",
     "name": {
       "en": "Sky",
       "fr": "Céu"
     },
     "cost": 2,
-    "LP": null,
-    "type_card": null,
-    "effect": true,
-    "attribute": null
+    
+    
+    "effect": true
+    
   },
   "A133": {
     "id": "A133",
