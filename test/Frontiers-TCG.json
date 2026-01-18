@@ -3,19 +3,19 @@
   "menuBackgroundImage": "https://cdn.shopify.com/s/files/1/0712/9409/1574/files/162556_1_orig_1600x.jpg?v=1745341558",
   "deckBuilding": {
     "mainFilters": ["name", "type", "cost"],
-    "costCurveIgnoredTypes": ["Mana"],
     "formats": [
       {
         "title": "Standard",
         "gameplay": "Standard",
-        "deckRuleset": "Standard"
+        "deckRuleset": "Standard",
+        "customCategories": []
         
       },
       {
         "title": "Unlimited",
         "gameplay": "Standard",
-        "deckRuleset": "Unlimited"
-        
+        "deckRuleset": "Unlimited",
+        "customCategories": []
       }
     ],
     "deckRulesets": {
@@ -56,7 +56,7 @@
         "firstPlayerTokenName": "",
         "drawPerTurn": 1
       },
-      "defaultNotes": " translations.customHelp ",
+      "defaultNotes": " translations.defaultNotes ",
       "tokens": [],
       "draggableTokens": [
         {
@@ -142,6 +142,7 @@
           "Field": "FieldZone"
         },
         "autoPlayFromStack": {
+          "Character": "Battlefield",
           "Normal": "Discard",
           "Response": "Discard",
           "Equipment": "GROUP",
@@ -203,7 +204,8 @@
   },
   
   "defaultRessources": {
-    "backgrounds": []
+    "backgrounds": [],
+    "decksUrl":""
   },
   "customHelp": " translations.customHelp ",
   "cardRotation": "45",
