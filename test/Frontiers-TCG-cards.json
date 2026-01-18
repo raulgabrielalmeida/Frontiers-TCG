@@ -5,8 +5,8 @@
     "face": {
       "front": {
         "name": {
-          "en": "Energy",
-          "fr": "Energia"
+          "en": "Mana",
+          "fr": "Mana"
         },
         "type": "Mana",
         "cost": 0,
@@ -16,9 +16,10 @@
     },
     "category": "Mana",
     "name": {
-      "en": "Energy",
-      "fr": "Energia"
+      "en": "Mana",
+      "fr": "Mana"
     },
-    "type":"Mana"
+    "cost": 0,
+    "type": "Mana"
   }
 }
