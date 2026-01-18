@@ -2,7 +2,7 @@
   "name": "Frontiers TCG GAME TEST",
   "menuBackgroundImage": "https://cdn.shopify.com/s/files/1/0712/9409/1574/files/162556_1_orig_1600x.jpg?v=1745341558",
   "deckBuilding": {
-    "mainFilters": ["name", "type_card", "cost"],
+    "mainFilters": ["name", "type", "cost"],
     "costCurveIgnoredTypes": ["Mana"],
     "formats": [
       {
@@ -136,16 +136,16 @@
         "autoPlayFromHand": {
           "Mana": "Mana",
           "Character": "Battlefield",
-          "Support - Normal": "Stack",
-          "Support - Response": "Stack",
-          "Support - Equipment": "Stack",
-          "Support - Field": "FieldZone"
+          "Normal": "Stack",
+          "Response": "Stack",
+          "Equipment": "Stack",
+          "Field": "FieldZone"
         },
         "autoPlayFromStack": {
-          "Support - Normal": "Discard",
-          "Support - Response": "Discard",
-          "Support - Equipment": "GROUP",
-          "Support - Field": "FieldZone"
+          "Normal": "Discard",
+          "Response": "Discard",
+          "Equipment": "GROUP",
+          "Field": "FieldZone"
         },
         "sectionsDict": {
           "Battlefield": {
