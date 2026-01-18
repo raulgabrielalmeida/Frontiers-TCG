@@ -4,21 +4,17 @@
 
     "Deck - Card types": {
       "Mana": "Energy",
-      "Character": "Character",
-      "Field": "Field",
-      "Normal": "Normal",
-      "Response": "Response",
-      "Equipment": "Equipment"
+      "Character": "Crctr"
     },
     "Deck - Others": {
-      "type": " [insert] ",
+      "type": "Category",
       "name": "Name",
       "cost": "Cost",
       "LP": "LP",
       "type_card": "Type",
       "effect": "Effect",
       "attribute": "Attribute",
-      
+
       "Sideboard": "Reserva"
     },
 
@@ -40,7 +36,7 @@
       "Equipment": "Equipamento"
     },
     "Deck - Others": {
-      "type": " [insert] ",
+      "type": "Categoria",
       "name": "Nome",
       "cost": "Rank",
       "LP": "PV",
@@ -51,7 +47,8 @@
       "Sideboard": "Reserva"
     },
     "Gameplay": {
-      "Standard": "Padrão"
+      "Standard": "Padrão",
+      "Unlimited": "Ilimitado"
     },
     "Sections": {
       "Battlefield": "Campo de Batalha",

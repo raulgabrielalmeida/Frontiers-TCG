@@ -2,7 +2,7 @@
   "name": "Frontiers TCG GAME TEST",
   "menuBackgroundImage": "https://cdn.shopify.com/s/files/1/0712/9409/1574/files/162556_1_orig_1600x.jpg?v=1745341558",
   "deckBuilding": {
-    "mainFilters": ["name", "category", "cost"],
+    "mainFilters": ["name", "type_card", "cost"],
     "costCurveIgnoredTypes": ["Mana"],
     "formats": [
       {
