@@ -189,7 +189,7 @@
       "en": "Warrior",
       "fr": "Guerreiro"
     },
-    "effect": true,
+    "effect": "Ignition",
     "attribute": {
       "en": "Water",
       "fr": "Água"
@@ -224,7 +224,7 @@
       "en": "Warrior",
       "fr": "Guerreiro"
     },
-    "effect": true,
+    "effect": "Continuous",
     "attribute": {
       "en": "Water",
       "fr": "Água"
@@ -259,7 +259,7 @@
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "effect": true,
+    "effect": "Ignition",
     "attribute": {
       "en": "Water",
       "fr": "Água"
@@ -294,7 +294,7 @@
       "en": "Warrior",
       "fr": "Guerreiro"
     },
-    "effect": true,
+    "effect": "Ignition",
     "attribute": {
       "en": "Water",
       "fr": "Água"
@@ -329,7 +329,7 @@
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "effect": true,
+    "effect": "Ignition",
     "attribute": {
       "en": "Water",
       "fr": "Água"
@@ -364,7 +364,7 @@
       "en": "Machine",
       "fr": "Máquina"
     },
-    "effect": true,
+    "effect": "Continuous",
     "attribute": {
       "en": "Water",
       "fr": "Água"
@@ -492,7 +492,7 @@
       "en": "Nocturnal",
       "fr": "Noturno"
     },
-    "effect": true,
+    "effect": "Ignition",
     "attribute": {
       "en": "Fire",
       "fr": "Fogo"
@@ -527,7 +527,7 @@
       "en": "Nocturnal",
       "fr": "Noturno"
     },
-    "effect": true,
+    "effect": "Ignition",
     "attribute": {
       "en": "Fire",
       "fr": "Fogo"
@@ -562,7 +562,7 @@
       "en": "Nocturnal",
       "fr": "Noturno"
     },
-    "effect": true,
+    "effect": "Ignition",
     "attribute": {
       "en": "Fire",
       "fr": "Fogo"
@@ -597,7 +597,7 @@
       "en": "Nocturnal",
       "fr": "Noturno"
     },
-    "effect": true,
+    "effect": "Conditional",
     "attribute": {
       "en": "Fire",
       "fr": "Fogo"
@@ -632,7 +632,7 @@
       "en": "Nocturnal",
       "fr": "Noturno"
     },
-    "effect": true,
+    "effect": "Continuous",
     "attribute": {
       "en": "Fire",
       "fr": "Fogo"
@@ -760,7 +760,7 @@
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "effect": true,
+    "effect": "Continuous",
     "attribute": {
       "en": "Light",
       "fr": "Luz"
@@ -795,7 +795,7 @@
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "effect": true,
+    "effect": "Ignition",
     "attribute": {
       "en": "Light",
       "fr": "Luz"
@@ -830,7 +830,7 @@
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "effect": true,
+    "effect": "Ignition",
     "attribute": {
       "en": "Light",
       "fr": "Luz"
@@ -865,7 +865,7 @@
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "effect": true,
+    "effect": "Ignition",
     "attribute": {
       "en": "Light",
       "fr": "Luz"
@@ -900,7 +900,7 @@
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "effect": true,
+    "effect": "Ignition",
     "attribute": {
       "en": "Light",
       "fr": "Luz"
@@ -1051,7 +1051,7 @@
       "en": "Machine",
       "fr": "Máquina"
     },
-    "effect": true,
+    "effect": "Continuous",
     "attribute": {
       "en": "Earth",
       "fr": "Terra"
@@ -1086,7 +1086,7 @@
       "en": "Machine",
       "fr": "Máquina"
     },
-    "effect": true,
+    "effect": "Continuous",
     "attribute": {
       "en": "Earth",
       "fr": "Terra"
@@ -1121,7 +1121,7 @@
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "effect": true,
+    "effect": "Ignition",
     "attribute": {
       "en": "Earth",
       "fr": "Terra"
@@ -1156,7 +1156,7 @@
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "effect": true,
+    "effect": "Ignition",
     "attribute": {
       "en": "Earth",
       "fr": "Terra"
@@ -1191,7 +1191,7 @@
       "en": "Warrior",
       "fr": "Guerreiro"
     },
-    "effect": true,
+    "effect": "Conditional",
     "attribute": {
       "en": "Earth",
       "fr": "Terra"
@@ -1226,7 +1226,7 @@
       "en": "Warrior",
       "fr": "Guerreiro"
     },
-    "effect": true,
+    "effect": "Conditional",
     "attribute": {
       "en": "Earth",
       "fr": "Terra"
@@ -1261,7 +1261,7 @@
       "en": "Warrior",
       "fr": "Guerreiro"
     },
-    "effect": true,
+    "effect": "Ignition",
     "attribute": {
       "en": "Earth",
       "fr": "Terra"
@@ -1389,7 +1389,7 @@
       "en": "Nocturnal",
       "fr": "Noturno"
     },
-    "effect": true,
+    "effect": "Ignition",
     "attribute": {
       "en": "Dark",
       "fr": "Trevas"
@@ -1424,7 +1424,7 @@
       "en": "Nocturnal",
       "fr": "Noturno"
     },
-    "effect": true,
+    "effect": "Ignition",
     "attribute": {
       "en": "Dark",
       "fr": "Trevas"
@@ -1459,7 +1459,7 @@
       "en": "Nocturnal",
       "fr": "Noturno"
     },
-    "effect": true,
+    "effect": "Ignition",
     "attribute": {
       "en": "Dark",
       "fr": "Trevas"
@@ -1494,7 +1494,7 @@
       "en": "Nocturnal",
       "fr": "Noturno"
     },
-    "effect": true,
+    "effect": "Ignition",
     "attribute": {
       "en": "Dark",
       "fr": "Trevas"
@@ -1529,7 +1529,7 @@
       "en": "Nocturnal",
       "fr": "Noturno"
     },
-    "effect": true,
+    "effect": "Continuous",
     "attribute": {
       "en": "Dark",
       "fr": "Trevas"
@@ -1709,7 +1709,7 @@
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "effect": true,
+    "effect": "Ignition",
     "attribute": {
       "en": "Wind",
       "fr": "Vento"
@@ -1744,7 +1744,7 @@
       "en": "Warrior",
       "fr": "Guerreiro"
     },
-    "effect": true,
+    "effect": "Conditional",
     "attribute": {
       "en": "Wind",
       "fr": "Vento"
@@ -1779,7 +1779,7 @@
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "effect": true,
+    "effect": "Continuous",
     "attribute": {
       "en": "Wind",
       "fr": "Vento"
@@ -1814,7 +1814,7 @@
       "en": "Warrior",
       "fr": "Guerreiro"
     },
-    "effect": true,
+    "effect": "Continuous",
     "attribute": {
       "en": "Wind",
       "fr": "Vento"
@@ -1849,7 +1849,7 @@
       "en": "Beast",
       "fr": "Besta"
     },
-    "effect": true,
+    "effect": "Conditional",
     "attribute": {
       "en": "Wind",
       "fr": "Vento"
@@ -1971,7 +1971,7 @@
       "en": "guerreio",
       "fr": "guerreio"
     },
-    "effect": true,
+    "effect": "Conditional",
     "attribute": {
       "en": "Water",
       "fr": "Água"
@@ -2006,7 +2006,7 @@
       "en": "Construct",
       "fr": "Construct"
     },
-    "effect": true,
+    "effect": "Continuous",
     "attribute": {
       "en": "Water",
       "fr": "Água"
@@ -2111,7 +2111,7 @@
       "en": "Beast",
       "fr": "Besta"
     },
-    "effect": true,
+    "effect": "Ignition",
     "attribute": {
       "en": "Water",
       "fr": "Água"
@@ -2146,7 +2146,7 @@
       "en": "Nature",
       "fr": "Natureza"
     },
-    "effect": true,
+    "effect": "Ignition",
     "attribute": {
       "en": "Water",
       "fr": "Água"
@@ -2216,7 +2216,7 @@
       "en": "Construct",
       "fr": "Construct"
     },
-    "effect": true,
+    "effect": "Continuous",
     "attribute": {
       "en": "Fire",
       "fr": "Fogo"
@@ -2251,7 +2251,7 @@
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "effect": true,
+    "effect": "Conditional",
     "attribute": {
       "en": "Fire",
       "fr": "Fogo"
@@ -2286,7 +2286,7 @@
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "effect": true,
+    "effect": "Continuous",
     "attribute": {
       "en": "Fire",
       "fr": "Fogo"
@@ -2321,7 +2321,7 @@
       "en": "Dragon",
       "fr": "Dragão"
     },
-    "effect": true,
+    "effect": "Conditional",
     "attribute": {
       "en": "Fire",
       "fr": "Fogo"
@@ -2356,7 +2356,7 @@
       "en": "Nocturnal",
       "fr": "Noturno"
     },
-    "effect": true,
+    "effect": "Continuous",
     "attribute": {
       "en": "Fire",
       "fr": "Fogo"
@@ -2391,7 +2391,7 @@
       "en": "Celestial",
       "fr": "Celestial"
     },
-    "effect": true,
+    "effect": "Continuous",
     "attribute": {
       "en": "Light",
       "fr": "Luz"
@@ -2426,7 +2426,7 @@
       "en": "Construct",
       "fr": "Construct"
     },
-    "effect": true,
+    "effect": "Continuous",
     "attribute": {
       "en": "Light",
       "fr": "Luz"
@@ -2461,7 +2461,7 @@
       "en": "Celestial",
       "fr": "Celestial"
     },
-    "effect": true,
+    "effect": "Conditional",
     "attribute": {
       "en": "Light",
       "fr": "Luz"
@@ -2496,7 +2496,7 @@
       "en": "Celestial",
       "fr": "Celestial"
     },
-    "effect": true,
+    "effect": "Conditional",
     "attribute": {
       "en": "Light",
       "fr": "Luz"
@@ -2531,7 +2531,7 @@
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "effect": true,
+    "effect": "Ignition",
     "attribute": {
       "en": "Light",
       "fr": "Luz"
@@ -2566,7 +2566,7 @@
       "en": "fada",
       "fr": "fada"
     },
-    "effect": true,
+    "effect": "Continuous",
     "attribute": {
       "en": "Light",
       "fr": "Luz"
@@ -2601,7 +2601,7 @@
       "en": "Machine",
       "fr": "Máquina"
     },
-    "effect": true,
+    "effect": "Continuous",
     "attribute": {
       "en": "Neutral",
       "fr": "Neutro"
@@ -2636,7 +2636,7 @@
       "en": "Machine",
       "fr": "Máquina"
     },
-    "effect": true,
+    "effect": "Continuous",
     "attribute": {
       "en": "Neutral",
       "fr": "Neutro"
@@ -2671,7 +2671,7 @@
       "en": "Machine",
       "fr": "Máquina"
     },
-    "effect": true,
+    "effect": "Conditional",
     "attribute": {
       "en": "Neutral",
       "fr": "Neutro"
@@ -2706,7 +2706,7 @@
       "en": "Dragon",
       "fr": "Dragão"
     },
-    "effect": true,
+    "effect": "Continuous",
     "attribute": {
       "en": "Neutral",
       "fr": "Neutro"
@@ -2741,7 +2741,7 @@
       "en": "Machine",
       "fr": "Máquina"
     },
-    "effect": true,
+    "effect": "Continuous",
     "attribute": {
       "en": "Neutral",
       "fr": "Neutro"
@@ -2811,7 +2811,7 @@
       "en": "Warrior",
       "fr": "Guerreiro"
     },
-    "effect": true,
+    "effect": "Ignition",
     "attribute": {
       "en": "Neutral",
       "fr": "Neutro"
@@ -2846,7 +2846,7 @@
       "en": "Nature",
       "fr": "Natureza"
     },
-    "effect": true,
+    "effect": "Ignition",
     "attribute": {
       "en": "Earth",
       "fr": "Terra"
@@ -2881,7 +2881,7 @@
       "en": "Construct",
       "fr": "Construct"
     },
-    "effect": true,
+    "effect": "Continuous",
     "attribute": {
       "en": "Earth",
       "fr": "Terra"
@@ -2951,7 +2951,7 @@
       "en": "Nature",
       "fr": "Natureza"
     },
-    "effect": true,
+    "effect": "Ignition",
     "attribute": {
       "en": "Earth",
       "fr": "Terra"
@@ -3021,7 +3021,7 @@
       "en": "Machine",
       "fr": "Máquina"
     },
-    "effect": true,
+    "effect": "Ignition",
     "attribute": {
       "en": "Earth",
       "fr": "Terra"
@@ -3056,7 +3056,7 @@
       "en": "Celestial",
       "fr": "Celestial"
     },
-    "effect": true,
+    "effect": "Ignition",
     "attribute": {
       "en": "Dark",
       "fr": "Trevas"
@@ -3091,7 +3091,7 @@
       "en": "Celestial",
       "fr": "Celestial"
     },
-    "effect": true,
+    "effect": "Ignition",
     "attribute": {
       "en": "Dark",
       "fr": "Trevas"
@@ -3126,7 +3126,7 @@
       "en": "constructo",
       "fr": "Construto"
     },
-    "effect": true,
+    "effect": "Continuous",
     "attribute": {
       "en": "Dark",
       "fr": "Trevas"
@@ -3161,7 +3161,7 @@
       "en": "Machine",
       "fr": "Máquina"
     },
-    "effect": true,
+    "effect": "Ignition",
     "attribute": {
       "en": "Dark",
       "fr": "Trevas"
@@ -3196,7 +3196,7 @@
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "effect": true,
+    "effect": "Continuous",
     "attribute": {
       "en": "Dark",
       "fr": "Trevas"
@@ -3231,7 +3231,7 @@
       "en": "Warrior",
       "fr": "Guerreiro"
     },
-    "effect": true,
+    "effect": "Ignition",
     "attribute": {
       "en": "Dark",
       "fr": "Trevas"
@@ -3336,7 +3336,7 @@
       "en": "Construct",
       "fr": "Construct"
     },
-    "effect": true,
+    "effect": "Continuous",
     "attribute": {
       "en": "Wind",
       "fr": "Vento"
@@ -3371,7 +3371,7 @@
       "en": "Dragon",
       "fr": "Dragão"
     },
-    "effect": true,
+    "effect": "Conditional",
     "attribute": {
       "en": "Wind",
       "fr": "Vento"
@@ -3441,7 +3441,7 @@
       "en": "Dragon",
       "fr": "Dragão"
     },
-    "effect": true,
+    "effect": "Conditional",
     "attribute": {
       "en": "Wind",
       "fr": "Vento"
@@ -3476,7 +3476,7 @@
       "en": "Beast",
       "fr": "Besta"
     },
-    "effect": true,
+    "effect": "Ignition",
     "attribute": {
       "en": "Wind",
       "fr": "Vento"
@@ -4671,7 +4671,7 @@
       "en": "Nature",
       "fr": "Natureza"
     },
-    "effect": true,
+    "effect": "Conditional",
     "attribute": {
       "en": "Earth",
       "fr": "Terra"
@@ -4706,7 +4706,7 @@
       "en": "Nature",
       "fr": "Natureza"
     },
-    "effect": true,
+    "effect": "Conditional",
     "attribute": {
       "en": "Earth",
       "fr": "Terra"
@@ -4741,7 +4741,7 @@
       "en": "Machine",
       "fr": "Máquina"
     },
-    "effect": true,
+    "effect": "Continuous",
     "attribute": {
       "en": "Neutral",
       "fr": "Neutro"
