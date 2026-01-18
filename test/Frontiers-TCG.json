@@ -137,16 +137,18 @@
           "Mana": "Mana",
           "Character": "Battlefield",
           "Normal": "Stack",
-          "Response": "Stack",
+          "Response": "Battlefield",
           "Equipment": "Stack",
           "Field": "FieldZone"
         },
         "autoPlayFromStack": {
-          "Character": "Battlefield",
-          "Normal": "Discard",
-          "Response": "Discard",
+          "Character": "Discard",
+          "Normal": "Battlefield",
+          "Response": "Battlefield",
           "Equipment": "GROUP",
-          "Field": "FieldZone"
+          "Field": "FieldZone",
+          "Support": "Discard"
+
         },
         "sectionsDict": {
           "Battlefield": {
