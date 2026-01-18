@@ -5,8 +5,8 @@
     "face": {
       "front": {
         "name": {
-          "en": "Mana",
-          "fr": "Mana"
+          "en": "Energy",
+          "fr": "Energia"
         },
         "type": "Mana",
         "cost": 0,
@@ -16,8 +16,8 @@
     },
     "type": "Mana",
     "name": {
-      "en": "Mana",
-      "fr": "Mana"
+      "en": "Energy",
+      "fr": "Energia"
     },
     "cost": 0
     
@@ -28,8 +28,8 @@
     "face": {
       "front": {
         "name": {
-          "en": "Mana",
-          "fr": "Mana"
+          "en": "Energy",
+          "fr": "Energia"
         },
         "type": "Mana",
         "cost": 0,
@@ -39,8 +39,8 @@
     },
     "type": "Mana",
     "name": {
-      "en": "Mana",
-      "fr": "Mana"
+      "en": "Energy",
+      "fr": "Energia"
     },
     "cost": 0
     
@@ -51,8 +51,8 @@
     "face": {
       "front": {
         "name": {
-          "en": "Mana",
-          "fr": "Mana"
+          "en": "Energy",
+          "fr": "Energia"
         },
         "type": "Mana",
         "cost": 0,
@@ -62,8 +62,8 @@
     },
     "type": "Mana",
     "name": {
-      "en": "Mana",
-      "fr": "Mana"
+      "en": "Energy",
+      "fr": "Energia"
     },
     "cost": 0
     
@@ -74,8 +74,8 @@
     "face": {
       "front": {
         "name": {
-          "en": "Mana",
-          "fr": "Mana"
+          "en": "Energy",
+          "fr": "Energia"
         },
         "type": "Mana",
         "cost": 0,
@@ -85,8 +85,8 @@
     },
     "type": "Mana",
     "name": {
-      "en": "Mana",
-      "fr": "Mana"
+      "en": "Energy",
+      "fr": "Energia"
     },
     "cost": 0
     
@@ -97,8 +97,8 @@
     "face": {
       "front": {
         "name": {
-          "en": "Mana",
-          "fr": "Mana"
+          "en": "Energy",
+          "fr": "Energia"
         },
         "type": "Mana",
         "cost": 0,
@@ -108,8 +108,8 @@
     },
     "type": "Mana",
     "name": {
-      "en": "Mana",
-      "fr": "Mana"
+      "en": "Energy",
+      "fr": "Energia"
     },
     "cost": 0
     
@@ -120,8 +120,8 @@
     "face": {
       "front": {
         "name": {
-          "en": "Mana",
-          "fr": "Mana"
+          "en": "Energy",
+          "fr": "Energia"
         },
         "type": "Mana",
         "cost": 0,
@@ -131,8 +131,8 @@
     },
     "type": "Mana",
     "name": {
-      "en": "Mana",
-      "fr": "Mana"
+      "en": "Energy",
+      "fr": "Energia"
     },
     "cost": 0
     
@@ -143,8 +143,8 @@
     "face": {
       "front": {
         "name": {
-          "en": "Mana",
-          "fr": "Mana"
+          "en": "Energy",
+          "fr": "Energia"
         },
         "type": "Mana",
         "cost": 0,
@@ -154,8 +154,8 @@
     },
     "type": "Mana",
     "name": {
-      "en": "Mana",
-      "fr": "Mana"
+      "en": "Energy",
+      "fr": "Energia"
     },
     "cost": 0
     

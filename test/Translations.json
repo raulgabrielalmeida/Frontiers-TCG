@@ -3,8 +3,7 @@
   "en": {
 
     "Deck - Card types": {
-      "Mana": "Energy",
-      "Character": "Crctr"
+      "Mana": "Energy"
     },
     "Deck - Others": {
       "type": "Category",
