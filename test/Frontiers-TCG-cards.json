@@ -189,7 +189,10 @@
       "en": "Warrior",
       "fr": "Guerreiro"
     },
-    "effect": "Ignition",
+    "effect": {
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
     "attribute": {
       "en": "Water",
       "fr": "Água"
@@ -224,7 +227,10 @@
       "en": "Warrior",
       "fr": "Guerreiro"
     },
-    "effect": "Continuous",
+    "effect": {
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
     "attribute": {
       "en": "Water",
       "fr": "Água"
@@ -259,7 +265,10 @@
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "effect": "Ignition",
+    "effect": {
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
     "attribute": {
       "en": "Water",
       "fr": "Água"
@@ -294,7 +303,10 @@
       "en": "Warrior",
       "fr": "Guerreiro"
     },
-    "effect": "Ignition",
+    "effect": {
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
     "attribute": {
       "en": "Water",
       "fr": "Água"
@@ -329,7 +341,10 @@
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "effect": "Ignition",
+    "effect": {
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
     "attribute": {
       "en": "Water",
       "fr": "Água"
@@ -364,7 +379,10 @@
       "en": "Machine",
       "fr": "Máquina"
     },
-    "effect": "Continuous",
+    "effect": {
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
     "attribute": {
       "en": "Water",
       "fr": "Água"
@@ -388,16 +406,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Field",
+    "type": "Support",
     "name": {
       "en": "Stellar Brigade Battlefield",
       "fr": "Campo de Batalha da Brigada Estelar"
     },
     "cost": 3,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Field",
+      "fr": "Campo"
+    }
   },
   "A008": {
     "id": "A008",
@@ -423,10 +441,10 @@
       "fr": "Táticas de Guerra da Brigada Estelar"
     },
     "cost": 1,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A009": {
     "id": "A009",
@@ -457,7 +475,10 @@
       "en": "Nocturnal",
       "fr": "Noturno"
     },
-    "effect": false,
+    "effect": {
+      "en": "No effect",
+      "fr": "Sem efeito"
+    },
     "attribute": {
       "en": "Fire",
       "fr": "Fogo"
@@ -492,7 +513,10 @@
       "en": "Nocturnal",
       "fr": "Noturno"
     },
-    "effect": "Ignition",
+    "effect": {
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
     "attribute": {
       "en": "Fire",
       "fr": "Fogo"
@@ -527,7 +551,10 @@
       "en": "Nocturnal",
       "fr": "Noturno"
     },
-    "effect": "Ignition",
+    "effect": {
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
     "attribute": {
       "en": "Fire",
       "fr": "Fogo"
@@ -562,7 +589,10 @@
       "en": "Nocturnal",
       "fr": "Noturno"
     },
-    "effect": "Ignition",
+    "effect": {
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
     "attribute": {
       "en": "Fire",
       "fr": "Fogo"
@@ -597,7 +627,10 @@
       "en": "Nocturnal",
       "fr": "Noturno"
     },
-    "effect": "Conditional",
+    "effect": {
+      "en": "Conditional",
+      "fr": "Condicional"
+    },
     "attribute": {
       "en": "Fire",
       "fr": "Fogo"
@@ -632,7 +665,10 @@
       "en": "Nocturnal",
       "fr": "Noturno"
     },
-    "effect": "Continuous",
+    "effect": {
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
     "attribute": {
       "en": "Fire",
       "fr": "Fogo"
@@ -662,10 +698,10 @@
       "fr": "Chamas da Discordia dos Cavaleiros Infernais"
     },
     "cost": 3,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A016": {
     "id": "A016",
@@ -691,10 +727,10 @@
       "fr": "Ordem de Ataque dos Cavaleiros Infernais"
     },
     "cost": 2,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A017": {
     "id": "A017",
@@ -725,7 +761,10 @@
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "effect": false,
+    "effect": {
+      "en": "No effect",
+      "fr": "Sem efeito"
+    },
     "attribute": {
       "en": "Light",
       "fr": "Luz"
@@ -760,7 +799,10 @@
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "effect": "Continuous",
+    "effect": {
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
     "attribute": {
       "en": "Light",
       "fr": "Luz"
@@ -795,7 +837,10 @@
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "effect": "Ignition",
+    "effect": {
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
     "attribute": {
       "en": "Light",
       "fr": "Luz"
@@ -830,7 +875,10 @@
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "effect": "Ignition",
+    "effect": {
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
     "attribute": {
       "en": "Light",
       "fr": "Luz"
@@ -865,7 +913,10 @@
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "effect": "Ignition",
+    "effect": {
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
     "attribute": {
       "en": "Light",
       "fr": "Luz"
@@ -900,7 +951,10 @@
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "effect": "Ignition",
+    "effect": {
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
     "attribute": {
       "en": "Light",
       "fr": "Luz"
@@ -924,16 +978,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Field",
+    "type": "Support",
     "name": {
       "en": "Cabin in the Woods",
       "fr": "A Cabana na Floresta"
     },
     "cost": 3,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Field",
+      "fr": "Campo"
+    }
   },
   "A022": {
     "id": "A022",
@@ -959,10 +1013,10 @@
       "fr": "Sobrecarga do Relâmpago Dourado"
     },
     "cost": 1,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A023": {
     "id": "A023",
@@ -988,10 +1042,10 @@
       "fr": "A Chegada do Relâmpago Dourado"
     },
     "cost": 1,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A024": {
     "id": "A024",
@@ -1017,10 +1071,10 @@
       "fr": "Círculo Mágico do Relâmpago Dourado"
     },
     "cost": 1,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A025": {
     "id": "A025",
@@ -1051,7 +1105,10 @@
       "en": "Machine",
       "fr": "Máquina"
     },
-    "effect": "Continuous",
+    "effect": {
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
     "attribute": {
       "en": "Earth",
       "fr": "Terra"
@@ -1086,7 +1143,10 @@
       "en": "Machine",
       "fr": "Máquina"
     },
-    "effect": "Continuous",
+    "effect": {
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
     "attribute": {
       "en": "Earth",
       "fr": "Terra"
@@ -1121,7 +1181,10 @@
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "effect": "Ignition",
+    "effect": {
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
     "attribute": {
       "en": "Earth",
       "fr": "Terra"
@@ -1156,7 +1219,10 @@
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "effect": "Ignition",
+    "effect": {
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
     "attribute": {
       "en": "Earth",
       "fr": "Terra"
@@ -1191,7 +1257,10 @@
       "en": "Warrior",
       "fr": "Guerreiro"
     },
-    "effect": "Conditional",
+    "effect": {
+      "en": "Conditional",
+      "fr": "Condicional"
+    },
     "attribute": {
       "en": "Earth",
       "fr": "Terra"
@@ -1226,7 +1295,10 @@
       "en": "Warrior",
       "fr": "Guerreiro"
     },
-    "effect": "Conditional",
+    "effect": {
+      "en": "Conditional",
+      "fr": "Condicional"
+    },
     "attribute": {
       "en": "Earth",
       "fr": "Terra"
@@ -1261,7 +1333,10 @@
       "en": "Warrior",
       "fr": "Guerreiro"
     },
-    "effect": "Ignition",
+    "effect": {
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
     "attribute": {
       "en": "Earth",
       "fr": "Terra"
@@ -1291,10 +1366,10 @@
       "fr": "Walkie Talkie"
     },
     "cost": 1,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A033": {
     "id": "A033",
@@ -1320,10 +1395,10 @@
       "fr": "Chamado das Damas do Abismo"
     },
     "cost": 2,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A034": {
     "id": "A034",
@@ -1354,7 +1429,10 @@
       "en": "Nocturnal",
       "fr": "Noturno"
     },
-    "effect": false,
+    "effect": {
+      "en": "No effect",
+      "fr": "Sem efeito"
+    },
     "attribute": {
       "en": "Dark",
       "fr": "Trevas"
@@ -1389,7 +1467,10 @@
       "en": "Nocturnal",
       "fr": "Noturno"
     },
-    "effect": "Ignition",
+    "effect": {
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
     "attribute": {
       "en": "Dark",
       "fr": "Trevas"
@@ -1424,7 +1505,10 @@
       "en": "Nocturnal",
       "fr": "Noturno"
     },
-    "effect": "Ignition",
+    "effect": {
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
     "attribute": {
       "en": "Dark",
       "fr": "Trevas"
@@ -1459,7 +1543,10 @@
       "en": "Nocturnal",
       "fr": "Noturno"
     },
-    "effect": "Ignition",
+    "effect": {
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
     "attribute": {
       "en": "Dark",
       "fr": "Trevas"
@@ -1494,7 +1581,10 @@
       "en": "Nocturnal",
       "fr": "Noturno"
     },
-    "effect": "Ignition",
+    "effect": {
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
     "attribute": {
       "en": "Dark",
       "fr": "Trevas"
@@ -1529,7 +1619,10 @@
       "en": "Nocturnal",
       "fr": "Noturno"
     },
-    "effect": "Continuous",
+    "effect": {
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
     "attribute": {
       "en": "Dark",
       "fr": "Trevas"
@@ -1553,16 +1646,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Field",
+    "type": "Support",
     "name": {
       "en": "Castle of the Lord of the Night",
       "fr": "Castelo do Senhor da Noite"
     },
     "cost": 3,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Field",
+      "fr": "Campo"
+    }
   },
   "A039": {
     "id": "A039",
@@ -1588,10 +1681,10 @@
       "fr": "Controle Mental da Mestra do Castelo"
     },
     "cost": 1,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A040": {
     "id": "A040",
@@ -1617,10 +1710,10 @@
       "fr": "O Poder do Senhor da Noite"
     },
     "cost": 3,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A041": {
     "id": "A041",
@@ -1646,10 +1739,10 @@
       "fr": "Chamado das Sombras"
     },
     "cost": 2,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A042": {
     "id": "A042",
@@ -1669,16 +1762,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Response",
+    "type": "Support",
     "name": {
       "en": "Protection of the Lord of the Night",
       "fr": "Proteção do Senhor da Noite"
     },
     "cost": 1,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Response",
+      "fr": "Resposta"
+    }
   },
   "A043": {
     "id": "A043",
@@ -1709,7 +1802,10 @@
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "effect": "Ignition",
+    "effect": {
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
     "attribute": {
       "en": "Wind",
       "fr": "Vento"
@@ -1744,7 +1840,10 @@
       "en": "Warrior",
       "fr": "Guerreiro"
     },
-    "effect": "Conditional",
+    "effect": {
+      "en": "Conditional",
+      "fr": "Condicional"
+    },
     "attribute": {
       "en": "Wind",
       "fr": "Vento"
@@ -1779,7 +1878,10 @@
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "effect": "Continuous",
+    "effect": {
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
     "attribute": {
       "en": "Wind",
       "fr": "Vento"
@@ -1814,7 +1916,10 @@
       "en": "Warrior",
       "fr": "Guerreiro"
     },
-    "effect": "Continuous",
+    "effect": {
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
     "attribute": {
       "en": "Wind",
       "fr": "Vento"
@@ -1849,7 +1954,10 @@
       "en": "Beast",
       "fr": "Besta"
     },
-    "effect": "Conditional",
+    "effect": {
+      "en": "Conditional",
+      "fr": "Condicional"
+    },
     "attribute": {
       "en": "Wind",
       "fr": "Vento"
@@ -1879,10 +1987,10 @@
       "fr": "Granada de gás do Terror Tóxico"
     },
     "cost": 2,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A049": {
     "id": "A049",
@@ -1902,16 +2010,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Response",
+    "type": "Support",
     "name": {
       "en": "Toxic Terror’s Strategic Retreat",
       "fr": "Recuo Estratégico do Terror Tóxico"
     },
     "cost": 1,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Response",
+      "fr": "Resposta"
+    }
   },
   "A050": {
     "id": "A050",
@@ -1937,10 +2045,10 @@
       "fr": "Recombinção do Terror Tóxico"
     },
     "cost": 2,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A051": {
     "id": "A051",
@@ -1971,7 +2079,10 @@
       "en": "guerreio",
       "fr": "guerreio"
     },
-    "effect": "Conditional",
+    "effect": {
+      "en": "Conditional",
+      "fr": "Condicional"
+    },
     "attribute": {
       "en": "Water",
       "fr": "Água"
@@ -2006,7 +2117,10 @@
       "en": "Construct",
       "fr": "Construct"
     },
-    "effect": "Continuous",
+    "effect": {
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
     "attribute": {
       "en": "Water",
       "fr": "Água"
@@ -2041,7 +2155,10 @@
       "en": "Machine",
       "fr": "Máquina"
     },
-    "effect": false,
+    "effect": {
+      "en": "No effect",
+      "fr": "Sem efeito"
+    },
     "attribute": {
       "en": "Water",
       "fr": "Água"
@@ -2076,7 +2193,10 @@
       "en": "Nature",
       "fr": "Natureza"
     },
-    "effect": false,
+    "effect": {
+      "en": "No effect",
+      "fr": "Sem efeito"
+    },
     "attribute": {
       "en": "Water",
       "fr": "Água"
@@ -2111,7 +2231,10 @@
       "en": "Beast",
       "fr": "Besta"
     },
-    "effect": "Ignition",
+    "effect": {
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
     "attribute": {
       "en": "Water",
       "fr": "Água"
@@ -2146,7 +2269,10 @@
       "en": "Nature",
       "fr": "Natureza"
     },
-    "effect": "Ignition",
+    "effect": {
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
     "attribute": {
       "en": "Water",
       "fr": "Água"
@@ -2181,7 +2307,10 @@
       "en": "Dragon",
       "fr": "Dragão"
     },
-    "effect": false,
+    "effect": {
+      "en": "No effect",
+      "fr": "Sem efeito"
+    },
     "attribute": {
       "en": "Fire",
       "fr": "Fogo"
@@ -2216,7 +2345,10 @@
       "en": "Construct",
       "fr": "Construct"
     },
-    "effect": "Continuous",
+    "effect": {
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
     "attribute": {
       "en": "Fire",
       "fr": "Fogo"
@@ -2251,7 +2383,10 @@
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "effect": "Conditional",
+    "effect": {
+      "en": "Conditional",
+      "fr": "Condicional"
+    },
     "attribute": {
       "en": "Fire",
       "fr": "Fogo"
@@ -2286,7 +2421,10 @@
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "effect": "Continuous",
+    "effect": {
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
     "attribute": {
       "en": "Fire",
       "fr": "Fogo"
@@ -2321,7 +2459,10 @@
       "en": "Dragon",
       "fr": "Dragão"
     },
-    "effect": "Conditional",
+    "effect": {
+      "en": "Conditional",
+      "fr": "Condicional"
+    },
     "attribute": {
       "en": "Fire",
       "fr": "Fogo"
@@ -2356,7 +2497,10 @@
       "en": "Nocturnal",
       "fr": "Noturno"
     },
-    "effect": "Continuous",
+    "effect": {
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
     "attribute": {
       "en": "Fire",
       "fr": "Fogo"
@@ -2391,7 +2535,10 @@
       "en": "Celestial",
       "fr": "Celestial"
     },
-    "effect": "Continuous",
+    "effect": {
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
     "attribute": {
       "en": "Light",
       "fr": "Luz"
@@ -2426,7 +2573,10 @@
       "en": "Construct",
       "fr": "Construct"
     },
-    "effect": "Continuous",
+    "effect": {
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
     "attribute": {
       "en": "Light",
       "fr": "Luz"
@@ -2461,7 +2611,10 @@
       "en": "Celestial",
       "fr": "Celestial"
     },
-    "effect": "Conditional",
+    "effect": {
+      "en": "Conditional",
+      "fr": "Condicional"
+    },
     "attribute": {
       "en": "Light",
       "fr": "Luz"
@@ -2496,7 +2649,10 @@
       "en": "Celestial",
       "fr": "Celestial"
     },
-    "effect": "Conditional",
+    "effect": {
+      "en": "Conditional",
+      "fr": "Condicional"
+    },
     "attribute": {
       "en": "Light",
       "fr": "Luz"
@@ -2531,7 +2687,10 @@
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "effect": "Ignition",
+    "effect": {
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
     "attribute": {
       "en": "Light",
       "fr": "Luz"
@@ -2566,7 +2725,10 @@
       "en": "fada",
       "fr": "fada"
     },
-    "effect": "Continuous",
+    "effect": {
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
     "attribute": {
       "en": "Light",
       "fr": "Luz"
@@ -2601,7 +2763,10 @@
       "en": "Machine",
       "fr": "Máquina"
     },
-    "effect": "Continuous",
+    "effect": {
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
     "attribute": {
       "en": "Neutral",
       "fr": "Neutro"
@@ -2636,7 +2801,10 @@
       "en": "Machine",
       "fr": "Máquina"
     },
-    "effect": "Continuous",
+    "effect": {
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
     "attribute": {
       "en": "Neutral",
       "fr": "Neutro"
@@ -2671,7 +2839,10 @@
       "en": "Machine",
       "fr": "Máquina"
     },
-    "effect": "Conditional",
+    "effect": {
+      "en": "Conditional",
+      "fr": "Condicional"
+    },
     "attribute": {
       "en": "Neutral",
       "fr": "Neutro"
@@ -2706,7 +2877,10 @@
       "en": "Dragon",
       "fr": "Dragão"
     },
-    "effect": "Continuous",
+    "effect": {
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
     "attribute": {
       "en": "Neutral",
       "fr": "Neutro"
@@ -2741,7 +2915,10 @@
       "en": "Machine",
       "fr": "Máquina"
     },
-    "effect": "Continuous",
+    "effect": {
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
     "attribute": {
       "en": "Neutral",
       "fr": "Neutro"
@@ -2776,7 +2953,10 @@
       "en": "Warrior",
       "fr": "Guerreiro"
     },
-    "effect": false,
+    "effect": {
+      "en": "No effect",
+      "fr": "Sem efeito"
+    },
     "attribute": {
       "en": "Neutral",
       "fr": "Neutro"
@@ -2811,7 +2991,10 @@
       "en": "Warrior",
       "fr": "Guerreiro"
     },
-    "effect": "Ignition",
+    "effect": {
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
     "attribute": {
       "en": "Neutral",
       "fr": "Neutro"
@@ -2846,7 +3029,10 @@
       "en": "Nature",
       "fr": "Natureza"
     },
-    "effect": "Ignition",
+    "effect": {
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
     "attribute": {
       "en": "Earth",
       "fr": "Terra"
@@ -2881,7 +3067,10 @@
       "en": "Construct",
       "fr": "Construct"
     },
-    "effect": "Continuous",
+    "effect": {
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
     "attribute": {
       "en": "Earth",
       "fr": "Terra"
@@ -2916,7 +3105,10 @@
       "en": "Warrior",
       "fr": "Guerreiro"
     },
-    "effect": false,
+    "effect": {
+      "en": "No effect",
+      "fr": "Sem efeito"
+    },
     "attribute": {
       "en": "Earth",
       "fr": "Terra"
@@ -2951,7 +3143,10 @@
       "en": "Nature",
       "fr": "Natureza"
     },
-    "effect": "Ignition",
+    "effect": {
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
     "attribute": {
       "en": "Earth",
       "fr": "Terra"
@@ -2986,7 +3181,10 @@
       "en": "Nature",
       "fr": "Natureza"
     },
-    "effect": false,
+    "effect": {
+      "en": "No effect",
+      "fr": "Sem efeito"
+    },
     "attribute": {
       "en": "Earth",
       "fr": "Terra"
@@ -3021,7 +3219,10 @@
       "en": "Machine",
       "fr": "Máquina"
     },
-    "effect": "Ignition",
+    "effect": {
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
     "attribute": {
       "en": "Earth",
       "fr": "Terra"
@@ -3056,7 +3257,10 @@
       "en": "Celestial",
       "fr": "Celestial"
     },
-    "effect": "Ignition",
+    "effect": {
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
     "attribute": {
       "en": "Dark",
       "fr": "Trevas"
@@ -3091,7 +3295,10 @@
       "en": "Celestial",
       "fr": "Celestial"
     },
-    "effect": "Ignition",
+    "effect": {
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
     "attribute": {
       "en": "Dark",
       "fr": "Trevas"
@@ -3126,7 +3333,10 @@
       "en": "constructo",
       "fr": "Construto"
     },
-    "effect": "Continuous",
+    "effect": {
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
     "attribute": {
       "en": "Dark",
       "fr": "Trevas"
@@ -3161,7 +3371,10 @@
       "en": "Machine",
       "fr": "Máquina"
     },
-    "effect": "Ignition",
+    "effect": {
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
     "attribute": {
       "en": "Dark",
       "fr": "Trevas"
@@ -3196,7 +3409,10 @@
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "effect": "Continuous",
+    "effect": {
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
     "attribute": {
       "en": "Dark",
       "fr": "Trevas"
@@ -3231,7 +3447,10 @@
       "en": "Warrior",
       "fr": "Guerreiro"
     },
-    "effect": "Ignition",
+    "effect": {
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
     "attribute": {
       "en": "Dark",
       "fr": "Trevas"
@@ -3266,7 +3485,10 @@
       "en": "Machine",
       "fr": "Máquina"
     },
-    "effect": false,
+    "effect": {
+      "en": "No effect",
+      "fr": "Sem efeito"
+    },
     "attribute": {
       "en": "Dark",
       "fr": "Trevas"
@@ -3301,7 +3523,10 @@
       "en": "Machine",
       "fr": "Máquina"
     },
-    "effect": false,
+    "effect": {
+      "en": "No effect",
+      "fr": "Sem efeito"
+    },
     "attribute": {
       "en": "Wind",
       "fr": "Vento"
@@ -3336,7 +3561,10 @@
       "en": "Construct",
       "fr": "Construct"
     },
-    "effect": "Continuous",
+    "effect": {
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
     "attribute": {
       "en": "Wind",
       "fr": "Vento"
@@ -3371,7 +3599,10 @@
       "en": "Dragon",
       "fr": "Dragão"
     },
-    "effect": "Conditional",
+    "effect": {
+      "en": "Conditional",
+      "fr": "Condicional"
+    },
     "attribute": {
       "en": "Wind",
       "fr": "Vento"
@@ -3406,7 +3637,10 @@
       "en": "Warrior",
       "fr": "Guerreiro"
     },
-    "effect": false,
+    "effect": {
+      "en": "No effect",
+      "fr": "Sem efeito"
+    },
     "attribute": {
       "en": "Wind",
       "fr": "Vento"
@@ -3441,7 +3675,10 @@
       "en": "Dragon",
       "fr": "Dragão"
     },
-    "effect": "Conditional",
+    "effect": {
+      "en": "Conditional",
+      "fr": "Condicional"
+    },
     "attribute": {
       "en": "Wind",
       "fr": "Vento"
@@ -3476,7 +3713,10 @@
       "en": "Beast",
       "fr": "Besta"
     },
-    "effect": "Ignition",
+    "effect": {
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
     "attribute": {
       "en": "Wind",
       "fr": "Vento"
@@ -3506,10 +3746,10 @@
       "fr": "Mudança de Território"
     },
     "cost": 1,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A094": {
     "id": "A094",
@@ -3535,10 +3775,10 @@
       "fr": "Faisca"
     },
     "cost": 1,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A095": {
     "id": "A095",
@@ -3564,10 +3804,10 @@
       "fr": "Disparo Mágico"
     },
     "cost": 1,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A096": {
     "id": "A096",
@@ -3593,10 +3833,10 @@
       "fr": "Impulso de Energia"
     },
     "cost": 1,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A097": {
     "id": "A097",
@@ -3622,10 +3862,10 @@
       "fr": "Visão do Destino"
     },
     "cost": 1,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A098": {
     "id": "A098",
@@ -3651,10 +3891,10 @@
       "fr": "Passo do Vento"
     },
     "cost": 1,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A099": {
     "id": "A099",
@@ -3680,10 +3920,10 @@
       "fr": "Chamado da Noite"
     },
     "cost": 1,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A100": {
     "id": "A100",
@@ -3709,10 +3949,10 @@
       "fr": "Núcleo do Vazio Perpétuo"
     },
     "cost": 1,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A101": {
     "id": "A101",
@@ -3738,10 +3978,10 @@
       "fr": "Núcleo da Alma Incandescente"
     },
     "cost": 1,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A102": {
     "id": "A102",
@@ -3767,10 +4007,10 @@
       "fr": "Núcleo da Brisa Primordial"
     },
     "cost": 1,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A103": {
     "id": "A103",
@@ -3790,16 +4030,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Response",
+    "type": "Support",
     "name": {
       "en": "Core of the Ancestral Rain",
       "fr": "Núcleo da Chuva Ancestral"
     },
     "cost": 1,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Response",
+      "fr": "Resposta"
+    }
   },
   "A104": {
     "id": "A104",
@@ -3819,16 +4059,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Response",
+    "type": "Support",
     "name": {
       "en": "Core of the Earthbound Guardian",
       "fr": "Núcleo do Guardaião Terreno"
     },
     "cost": 1,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Response",
+      "fr": "Resposta"
+    }
   },
   "A105": {
     "id": "A105",
@@ -3854,10 +4094,10 @@
       "fr": "Núcleo da Luminância Eterna"
     },
     "cost": 1,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A106": {
     "id": "A106",
@@ -3883,10 +4123,10 @@
       "fr": "Ascensão do Escolhido"
     },
     "cost": 2,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A107": {
     "id": "A107",
@@ -3912,10 +4152,10 @@
       "fr": "Onda de Purificação"
     },
     "cost": 2,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A108": {
     "id": "A108",
@@ -3941,10 +4181,10 @@
       "fr": "Recarga Turbulenta"
     },
     "cost": 2,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A109": {
     "id": "A109",
@@ -3970,10 +4210,10 @@
       "fr": "Rebobinar"
     },
     "cost": 2,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A110": {
     "id": "A110",
@@ -3993,16 +4233,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Equipment",
+    "type": "Support",
     "name": {
       "en": "Status Removal Potion",
       "fr": "Poção de Remoção de Status"
     },
     "cost": 2,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Equipment",
+      "fr": "Equipamento"
+    }
   },
   "A111": {
     "id": "A111",
@@ -4028,10 +4268,10 @@
       "fr": "Poção de Cura"
     },
     "cost": 1,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A112": {
     "id": "A112",
@@ -4057,10 +4297,10 @@
       "fr": "Medalhão da Centelha Absoluta"
     },
     "cost": 3,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A113": {
     "id": "A113",
@@ -4086,10 +4326,10 @@
       "fr": "Tufão"
     },
     "cost": 1,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A114": {
     "id": "A114",
@@ -4115,10 +4355,10 @@
       "fr": "Poção de Cura Maior"
     },
     "cost": 2,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A115": {
     "id": "A115",
@@ -4144,10 +4384,10 @@
       "fr": "Buraco Negro"
     },
     "cost": 5,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A116": {
     "id": "A116",
@@ -4167,16 +4407,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Response",
+    "type": "Support",
     "name": {
       "en": "Emergence Transport",
       "fr": "Teletransporte de Emergência"
     },
     "cost": 2,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Response",
+      "fr": "Resposta"
+    }
   },
   "A117": {
     "id": "A117",
@@ -4196,16 +4436,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Response",
+    "type": "Support",
     "name": {
       "en": "Flaming Reincarnation",
       "fr": "Reencarnação Flamejante"
     },
     "cost": 1,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Response",
+      "fr": "Resposta"
+    }
   },
   "A118": {
     "id": "A118",
@@ -4225,16 +4465,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Response",
+    "type": "Support",
     "name": {
       "en": "Probability Alteration",
       "fr": "Alterar probabilidades"
     },
     "cost": 2,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Response",
+      "fr": "Resposta"
+    }
   },
   "A119": {
     "id": "A119",
@@ -4254,16 +4494,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Response",
+    "type": "Support",
     "name": {
       "en": "Ignite! Flames of Miracle!",
       "fr": "Acenda! Chamas do Milagre!"
     },
     "cost": 2,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Response",
+      "fr": "Resposta"
+    }
   },
   "A120": {
     "id": "A120",
@@ -4283,16 +4523,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Field",
+    "type": "Support",
     "name": {
       "en": "Monolith of the Guardians",
       "fr": "Monólito do Guardião"
     },
     "cost": 2,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Field",
+      "fr": "Campo"
+    }
   },
   "A121": {
     "id": "A121",
@@ -4312,16 +4552,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Response",
+    "type": "Support",
     "name": {
       "en": "Block",
       "fr": "Bloqueio"
     },
     "cost": 1,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Response",
+      "fr": "Resposta"
+    }
   },
   "A122": {
     "id": "A122",
@@ -4341,16 +4581,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Equipment",
+    "type": "Support",
     "name": {
       "en": "Shield of Provocation",
       "fr": "Escudo da Provocação"
     },
     "cost": 2,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Equipment",
+      "fr": "Equipamento"
+    }
   },
   "A123": {
     "id": "A123",
@@ -4370,16 +4610,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Equipment",
+    "type": "Support",
     "name": {
       "en": "Emerald Blade",
       "fr": "Lâmina Esmeralda"
     },
     "cost": 2,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Equipment",
+      "fr": "Equipamento"
+    }
   },
   "A124": {
     "id": "A124",
@@ -4399,16 +4639,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Equipment",
+    "type": "Support",
     "name": {
       "en": "Vitality Expansion",
       "fr": "Expansão de Vigor"
     },
     "cost": 3,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Equipment",
+      "fr": "Equipamento"
+    }
   },
   "A125": {
     "id": "A125",
@@ -4428,16 +4668,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Equipment",
+    "type": "Support",
     "name": {
       "en": "Chains of Power",
       "fr": "Correntes de Poder"
     },
     "cost": 1,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Equipment",
+      "fr": "Equipamento"
+    }
   },
   "A126": {
     "id": "A126",
@@ -4457,16 +4697,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Equipment",
+    "type": "Support",
     "name": {
       "en": "Fire and Ice Armor",
       "fr": "Armadura de Fogo e Gelo"
     },
     "cost": 2,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Equipment",
+      "fr": "Equipamento"
+    }
   },
   "A127": {
     "id": "A127",
@@ -4486,16 +4726,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Field",
+    "type": "Support",
     "name": {
       "en": "Space",
       "fr": "Espaço"
     },
     "cost": 2,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Field",
+      "fr": "Campo"
+    }
   },
   "A128": {
     "id": "A128",
@@ -4515,16 +4755,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Field",
+    "type": "Support",
     "name": {
       "en": "Volcano",
       "fr": "Vulcão"
     },
     "cost": 2,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Field",
+      "fr": "Campo"
+    }
   },
   "A129": {
     "id": "A129",
@@ -4544,16 +4784,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Field",
+    "type": "Support",
     "name": {
       "en": "Cave",
       "fr": "Caverna"
     },
     "cost": 2,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Field",
+      "fr": "Campo"
+    }
   },
   "A130": {
     "id": "A130",
@@ -4573,16 +4813,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Field",
+    "type": "Support",
     "name": {
       "en": "Ocean",
       "fr": "Oceano"
     },
     "cost": 2,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Field",
+      "fr": "Campo"
+    }
   },
   "A131": {
     "id": "A131",
@@ -4602,16 +4842,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Field",
+    "type": "Support",
     "name": {
       "en": "Mountain",
       "fr": "Montanha"
     },
     "cost": 2,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Field",
+      "fr": "Campo"
+    }
   },
   "A132": {
     "id": "A132",
@@ -4631,16 +4871,16 @@
         "isHorizontal": false
       }
     },
-    "type": "Field",
+    "type": "Support",
     "name": {
       "en": "Sky",
       "fr": "Céu"
     },
     "cost": 2,
-    
-    
-    "effect": true
-    
+    "support_type": {
+      "en": "Field",
+      "fr": "Campo"
+    }
   },
   "A133": {
     "id": "A133",
@@ -4671,7 +4911,10 @@
       "en": "Nature",
       "fr": "Natureza"
     },
-    "effect": "Conditional",
+    "effect": {
+      "en": "Conditional",
+      "fr": "Condicional"
+    },
     "attribute": {
       "en": "Earth",
       "fr": "Terra"
@@ -4706,7 +4949,10 @@
       "en": "Nature",
       "fr": "Natureza"
     },
-    "effect": "Conditional",
+    "effect": {
+      "en": "Conditional",
+      "fr": "Condicional"
+    },
     "attribute": {
       "en": "Earth",
       "fr": "Terra"
@@ -4741,7 +4987,10 @@
       "en": "Machine",
       "fr": "Máquina"
     },
-    "effect": "Continuous",
+    "effect": {
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
     "attribute": {
       "en": "Neutral",
       "fr": "Neutro"

@@ -10,9 +10,10 @@
       "name": "Name",
       "cost": "Cost",
       "LP": "LP",
-      "type_card": "Type",
-      "effect": "Effect",
-      "attribute": "Attribute",
+      "type_card": "Character Type",
+      "effect": "Character Effect",
+      "attribute": "Character Attribute",
+      "support_type":"Support Type",
 
       "Sideboard": "Reserva"
     },
@@ -29,19 +30,18 @@
     "Deck - Card types": {
       "Mana": "Energia",
       "Character": "Personagem",
-      "Field": "Campo",
-      "Normal": "Normal",
-      "Response": "Resposta",
-      "Equipment": "Equipamento"
+      "Support": "Suporte"
     },
     "Deck - Others": {
       "type": "Categoria",
       "name": "Nome",
       "cost": "Rank",
       "LP": "PV",
-      "type_card": "Tipo",
-      "effect": "Efeito",
-      "attribute": "Atributo",
+      "type_card": "Tipo de Personagem",
+      "effect": "Efeito de Personagem",
+      "support_type":"Tipo de Suporte",
+
+      "attribute": "Atributo de Personagem",
 
       "Sideboard": "Reserva"
     },
