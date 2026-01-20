@@ -1,6 +1,23 @@
 {
   "additionalLanguages": ["fr"],
   "en": {
+
+    "Deck - Card types": {
+      "Mana": "Energy"
+    },
+    "Deck - Others": {
+      "type": "Category",
+      "name": "Name",
+      "cost": "Cost",
+      "LP": "LP",
+      "type_card": "Character Type",
+      "effect": "Character Effect",
+      "attribute": "Character Attribute",
+      "support_type":"Support Type",
+
+      "Sideboard": "Sideboard"
+    },
+
     "Big stuffs": {
       "translations.customHelp": "To learn more about the rules, cards, and how to play, visit our website:\nhttps://frontierstcg.notion.site/Frontiers-TCG-Official-Website-27dff10ca08b804198b8ff877f8a2de2",
       "translations.mulliganInfo": "If your starting hand has no Character cards, you may redraw it up to 3 times.\nWhenever your opponent takes a mulligan and you do not, you draw 1 extra card"
@@ -13,22 +30,24 @@
     "Deck - Card types": {
       "Mana": "Energia",
       "Character": "Personagem",
-      "Support - Field": "Suporte - Campo",
-      "Support - Normal": "Suporte - Normal",
-      "Support - Response": "Suporte - Resposta",
-      "Support - Equipment": "Suporte - Equipamento"
+      "Support": "Suporte"
     },
     "Deck - Others": {
-      "type": "Tipo",
+      "type": "Categoria",
+      "name": "Nome",
       "cost": "Rank",
-      "attribute": "Atributo",
-      "class": "Classe",
-      "hp": "PV",
-      "effect": "Efeito",
+      "LP": "PV",
+      "type_card": "Tipo de Personagem",
+      "effect": "Efeito de Personagem",
+      "support_type":"Tipo de Suporte",
+
+      "attribute": "Atributo de Personagem",
+
       "Sideboard": "Reserva"
     },
     "Gameplay": {
-      "Standard": "Padrão"
+      "Standard": "Padrão",
+      "Unlimited": "Ilimitado"
     },
     "Sections": {
       "Battlefield": "Campo de Batalha",

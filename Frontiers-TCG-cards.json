@@ -1,149 +1,174 @@
 {
   "A000a": {
     "id": "A000a",
+    "isToken": false,
     "face": {
       "front": {
-        "name": "Mana",
+        "name": {
+          "en": "Energy",
+          "fr": "Energia"
+        },
         "type": "Mana",
         "cost": 0,
         "image": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/energia/e1.png",
         "isHorizontal": false
       }
     },
-    "name": {
-      "en": "Mana",
-      "fr": "Mana"
-    },
     "type": "Mana",
-    "attribute": null,
-    "class": null,
-    "effect": null
+    "name": {
+      "en": "Energy",
+      "fr": "Energia"
+    },
+    "cost": 0
+    
   },
   "A000b": {
     "id": "A000b",
+    "isToken": false,
     "face": {
       "front": {
-        "name": "Mana",
+        "name": {
+          "en": "Energy",
+          "fr": "Energia"
+        },
         "type": "Mana",
         "cost": 0,
         "image": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/energia/e2.png",
         "isHorizontal": false
       }
     },
-    "name": {
-      "en": "Mana",
-      "fr": "Mana"
-    },
     "type": "Mana",
-    "attribute": null,
-    "class": null,
-    "effect": null
+    "name": {
+      "en": "Energy",
+      "fr": "Energia"
+    },
+    "cost": 0
+    
   },
   "A000c": {
     "id": "A000c",
+    "isToken": false,
     "face": {
       "front": {
-        "name": "Mana",
+        "name": {
+          "en": "Energy",
+          "fr": "Energia"
+        },
         "type": "Mana",
         "cost": 0,
         "image": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/energia/e3.png",
         "isHorizontal": false
       }
     },
-    "name": {
-      "en": "Mana",
-      "fr": "Mana"
-    },
     "type": "Mana",
-    "attribute": null,
-    "class": null,
-    "effect": null
+    "name": {
+      "en": "Energy",
+      "fr": "Energia"
+    },
+    "cost": 0
+    
   },
   "A000d": {
     "id": "A000d",
+    "isToken": false,
     "face": {
       "front": {
-        "name": "Mana",
+        "name": {
+          "en": "Energy",
+          "fr": "Energia"
+        },
         "type": "Mana",
         "cost": 0,
         "image": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/energia/e4.png",
         "isHorizontal": false
       }
     },
-    "name": {
-      "en": "Mana",
-      "fr": "Mana"
-    },
     "type": "Mana",
-    "attribute": null,
-    "class": null,
-    "effect": null
+    "name": {
+      "en": "Energy",
+      "fr": "Energia"
+    },
+    "cost": 0
+    
   },
   "A000e": {
     "id": "A000e",
+    "isToken": false,
     "face": {
       "front": {
-        "name": "Mana",
+        "name": {
+          "en": "Energy",
+          "fr": "Energia"
+        },
         "type": "Mana",
         "cost": 0,
         "image": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/energia/e5.png",
         "isHorizontal": false
       }
     },
-    "name": {
-      "en": "Mana",
-      "fr": "Mana"
-    },
     "type": "Mana",
-    "attribute": null,
-    "class": null,
-    "effect": null
+    "name": {
+      "en": "Energy",
+      "fr": "Energia"
+    },
+    "cost": 0
+    
   },
   "A000f": {
     "id": "A000f",
+    "isToken": false,
     "face": {
       "front": {
-        "name": "Mana",
+        "name": {
+          "en": "Energy",
+          "fr": "Energia"
+        },
         "type": "Mana",
         "cost": 0,
         "image": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/energia/e6.png",
         "isHorizontal": false
       }
     },
-    "name": {
-      "en": "Mana",
-      "fr": "Mana"
-    },
     "type": "Mana",
-    "attribute": null,
-    "class": null,
-    "effect": null
+    "name": {
+      "en": "Energy",
+      "fr": "Energia"
+    },
+    "cost": 0
+    
   },
   "A000g": {
     "id": "A000g",
+    "isToken": false,
     "face": {
       "front": {
-        "name": "Mana",
+        "name": {
+          "en": "Energy",
+          "fr": "Energia"
+        },
         "type": "Mana",
         "cost": 0,
         "image": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/energia/e7.png",
         "isHorizontal": false
       }
     },
-    "name": {
-      "en": "Mana",
-      "fr": "Mana"
-    },
     "type": "Mana",
-    "attribute": null,
-    "class": null,
-    "effect": null
+    "name": {
+      "en": "Energy",
+      "fr": "Energia"
+    },
+    "cost": 0
+    
   },
   "A001": {
     "id": "A001",
+    "isToken": false,
     "face": {
       "front": {
-        "name": "Cranell a Lider da Brigada Estelar",
+        "name": {
+          "en": "Cranell, Leader of the Stellar Brigade",
+          "fr": "Cranell, a Líder da Brigada Estelar"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -153,31 +178,35 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Cranell, Leader of the Stellar Brigade",
       "fr": "Cranell, a Líder da Brigada Estelar"
     },
-    "type": "Character",
     "cost": 3,
-    "attribute": {
-      "en": "Water",
-      "fr": "Água"
-    },
-    "class": {
+    "LP": "120",
+    "type_card": {
       "en": "Warrior",
       "fr": "Guerreiro"
     },
-    "hp": "120",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
+    "attribute": {
+      "en": "Water",
+      "fr": "Água"
     }
   },
   "A002": {
     "id": "A002",
+    "isToken": false,
     "face": {
       "front": {
-        "name": "Ginna a Assassina da Brigada Estelar",
+        "name": {
+          "en": "Ginna, Assassin of the Stellar Brigade",
+          "fr": "Ginna, a Assassina da Brigada Estelar"
+        },
         "type": "Character",
         "cost": 2,
         "image": {
@@ -187,24 +216,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Ginna, Assassin of the Stellar Brigade",
       "fr": "Ginna, a Assassina da Brigada Estelar"
     },
-    "type": "Character",
     "cost": 2,
-    "attribute": {
-      "en": "Water",
-      "fr": "Água"
-    },
-    "class": {
+    "LP": "70",
+    "type_card": {
       "en": "Warrior",
       "fr": "Guerreiro"
     },
-    "hp": "70",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
+    "attribute": {
+      "en": "Water",
+      "fr": "Água"
     }
   },
   "A003": {
@@ -212,7 +241,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Rina a Curandeira da Brigada Estelar",
+        "name": {
+          "en": "Rina, Healer of the Stellar Brigade",
+          "fr": "Rina, a Curandeira da Brigada Estelar"
+        },
         "type": "Character",
         "cost": 2,
         "image": {
@@ -222,24 +254,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Rina, Healer of the Stellar Brigade",
       "fr": "Rina, a Curandeira da Brigada Estelar"
     },
-    "type": "Character",
     "cost": 2,
-    "attribute": {
-      "en": "Water",
-      "fr": "Água"
-    },
-    "class": {
+    "LP": "70",
+    "type_card": {
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "hp": "70",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
+    "attribute": {
+      "en": "Water",
+      "fr": "Água"
     }
   },
   "A004": {
@@ -247,7 +279,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Dielan o Mestre de Armas da Brigada Estelar",
+        "name": {
+          "en": "Dielan, Gunsmith of the Stellar Brigade",
+          "fr": "Dielan, o Mestre de Armas da Brigada Estelar"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -257,24 +292,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Dielan, Gunsmith of the Stellar Brigade",
       "fr": "Dielan, o Mestre de Armas da Brigada Estelar"
     },
-    "type": "Character",
     "cost": 3,
-    "attribute": {
-      "en": "Water",
-      "fr": "Água"
-    },
-    "class": {
+    "LP": "120",
+    "type_card": {
       "en": "Warrior",
       "fr": "Guerreiro"
     },
-    "hp": "120",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
+    "attribute": {
+      "en": "Water",
+      "fr": "Água"
     }
   },
   "A005": {
@@ -282,7 +317,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Leneh a Engenheira da Brigada Estelar",
+        "name": {
+          "en": "Leneh, Engineer of the Stellar Brigade",
+          "fr": "Leneh, a Engenheira da Brigada Estelar"
+        },
         "type": "Character",
         "cost": 2,
         "image": {
@@ -292,24 +330,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Leneh, Engineer of the Stellar Brigade",
       "fr": "Leneh, a Engenheira da Brigada Estelar"
     },
-    "type": "Character",
     "cost": 2,
-    "attribute": {
-      "en": "Water",
-      "fr": "Água"
-    },
-    "class": {
+    "LP": "70",
+    "type_card": {
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "hp": "70",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
+    "attribute": {
+      "en": "Water",
+      "fr": "Água"
     }
   },
   "A006": {
@@ -317,7 +355,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Drone da Brigada Estelar",
+        "name": {
+          "en": "Stellar Brigade Drone",
+          "fr": "Drone da Brigada Estelar"
+        },
         "type": "Character",
         "cost": 1,
         "image": {
@@ -327,24 +368,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Stellar Brigade Drone",
       "fr": "Drone da Brigada Estelar"
     },
-    "type": "Character",
     "cost": 1,
-    "attribute": {
-      "en": "Water",
-      "fr": "Água"
-    },
-    "class": {
+    "LP": "50",
+    "type_card": {
       "en": "Machine",
       "fr": "Máquina"
     },
-    "hp": "50",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
+    "attribute": {
+      "en": "Water",
+      "fr": "Água"
     }
   },
   "A007": {
@@ -352,8 +393,11 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Campo de Batalha da Brigada Estelar",
-        "type": "Support - Field",
+        "name": {
+          "en": "Stellar Brigade Battlefield",
+          "fr": "Campo de Batalha da Brigada Estelar"
+        },
+        "type": "Field",
         "cost": 3,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A007.png",
@@ -362,26 +406,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Stellar Brigade Battlefield",
       "fr": "Campo de Batalha da Brigada Estelar"
     },
-    "type": "Support - Field",
     "cost": 3,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Field",
+      "fr": "Campo"
+    }
   },
   "A008": {
     "id": "A008",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Taticas de Guerra da Brigada Estelar",
-        "type": "Support - Normal",
+        "name": {
+          "en": "Stellar Brigade Tactics",
+          "fr": "Táticas de Guerra da Brigada Estelar"
+        },
+        "type": "Normal",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A008.png",
@@ -390,25 +435,26 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Stellar Brigade Tactics",
       "fr": "Táticas de Guerra da Brigada Estelar"
     },
-    "type": "Support - Normal",
     "cost": 1,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A009": {
     "id": "A009",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Astaroth o Duque da Desolacao dos Cavaleiros Infernais",
+        "name": {
+          "en": "Astaroth, Duke of Desolation of the Inferno Knights",
+          "fr": "Astaroth, o Duque da Desolação dos Cavaleiros Infernais"
+        },
         "type": "Character",
         "cost": 5,
         "image": {
@@ -418,24 +464,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Astaroth, Duke of Desolation of the Inferno Knights",
       "fr": "Astaroth, o Duque da Desolação dos Cavaleiros Infernais"
     },
-    "type": "Character",
     "cost": 5,
-    "attribute": {
-      "en": "Fire",
-      "fr": "Fogo"
-    },
-    "class": {
+    "LP": "170",
+    "type_card": {
       "en": "Nocturnal",
       "fr": "Noturno"
     },
-    "hp": "170",
     "effect": {
-      "en": "None",
-      "fr": "None"
+      "en": "No effect",
+      "fr": "Sem efeito"
+    },
+    "attribute": {
+      "en": "Fire",
+      "fr": "Fogo"
     }
   },
   "A010": {
@@ -443,7 +489,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Zariel o Duque da Guerra dos Cavaleiros Infernais",
+        "name": {
+          "en": "Zariel, Duke of War of the Inferno Knights",
+          "fr": "Zariel, o Duque da Guerra dos Cavaleiros Infernais"
+        },
         "type": "Character",
         "cost": 4,
         "image": {
@@ -453,24 +502,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Zariel, Duke of War of the Inferno Knights",
       "fr": "Zariel, o Duque da Guerra dos Cavaleiros Infernais"
     },
-    "type": "Character",
     "cost": 4,
-    "attribute": {
-      "en": "Fire",
-      "fr": "Fogo"
-    },
-    "class": {
+    "LP": "150",
+    "type_card": {
       "en": "Nocturnal",
       "fr": "Noturno"
     },
-    "hp": "150",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
+    "attribute": {
+      "en": "Fire",
+      "fr": "Fogo"
     }
   },
   "A011": {
@@ -478,7 +527,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Belphegor a Duquesa da Preguica dos Cavaleiros Infernais",
+        "name": {
+          "en": "Belphegor, Duchess of Sloth of the Inferno Knightss",
+          "fr": "Belphegor, a Duquesa da Preguiça dos Cavaleiros Infernais"
+        },
         "type": "Character",
         "cost": 4,
         "image": {
@@ -488,24 +540,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Belphegor, Duchess of Sloth of the Inferno Knightss",
       "fr": "Belphegor, a Duquesa da Preguiça dos Cavaleiros Infernais"
     },
-    "type": "Character",
     "cost": 4,
-    "attribute": {
-      "en": "Fire",
-      "fr": "Fogo"
-    },
-    "class": {
+    "LP": "130",
+    "type_card": {
       "en": "Nocturnal",
       "fr": "Noturno"
     },
-    "hp": "130",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
+    "attribute": {
+      "en": "Fire",
+      "fr": "Fogo"
     }
   },
   "A012": {
@@ -513,7 +565,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Morgrim o Duque dos Segredos dos Cavaleiros Infernais",
+        "name": {
+          "en": "Morgrim, Duke of Secrets of the Inferno Knights",
+          "fr": "Morgrim, o Duque dos Segredos dos Cavaleiros Infernais"
+        },
         "type": "Character",
         "cost": 4,
         "image": {
@@ -523,24 +578,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Morgrim, Duke of Secrets of the Inferno Knights",
       "fr": "Morgrim, o Duque dos Segredos dos Cavaleiros Infernais"
     },
-    "type": "Character",
     "cost": 4,
-    "attribute": {
-      "en": "Fire",
-      "fr": "Fogo"
-    },
-    "class": {
+    "LP": "130",
+    "type_card": {
       "en": "Nocturnal",
       "fr": "Noturno"
     },
-    "hp": "130",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
+    "attribute": {
+      "en": "Fire",
+      "fr": "Fogo"
     }
   },
   "A013": {
@@ -548,7 +603,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Karon o Vassalo dos Cavaleiros Infernais",
+        "name": {
+          "en": "Karon, Vassal of the Inferno Knights",
+          "fr": "Karon, o Vassalo dos Cavaleiros Infernais"
+        },
         "type": "Character",
         "cost": 2,
         "image": {
@@ -558,24 +616,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Karon, Vassal of the Inferno Knights",
       "fr": "Karon, o Vassalo dos Cavaleiros Infernais"
     },
-    "type": "Character",
     "cost": 2,
-    "attribute": {
-      "en": "Fire",
-      "fr": "Fogo"
-    },
-    "class": {
+    "LP": "50",
+    "type_card": {
       "en": "Nocturnal",
       "fr": "Noturno"
     },
-    "hp": "50",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Conditional",
+      "fr": "Condicional"
+    },
+    "attribute": {
+      "en": "Fire",
+      "fr": "Fogo"
     }
   },
   "A014": {
@@ -583,7 +641,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Varud o Vassalo dos Cavaleiros Infernais",
+        "name": {
+          "en": "Varud, Vassal of the Inferno Knights",
+          "fr": "Varud, o Vassalo dos Cavaleiros Infernais"
+        },
         "type": "Character",
         "cost": 2,
         "image": {
@@ -593,24 +654,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Varud, Vassal of the Inferno Knights",
       "fr": "Varud, o Vassalo dos Cavaleiros Infernais"
     },
-    "type": "Character",
     "cost": 2,
-    "attribute": {
-      "en": "Fire",
-      "fr": "Fogo"
-    },
-    "class": {
+    "LP": "50",
+    "type_card": {
       "en": "Nocturnal",
       "fr": "Noturno"
     },
-    "hp": "50",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
+    "attribute": {
+      "en": "Fire",
+      "fr": "Fogo"
     }
   },
   "A015": {
@@ -618,8 +679,11 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Chamas da Discordia dos Cavaleiros Infernais",
-        "type": "Support - Normal",
+        "name": {
+          "en": "Flames of Discord of the Inferno Knights",
+          "fr": "Chamas da Discordia dos Cavaleiros Infernais"
+        },
+        "type": "Normal",
         "cost": 3,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A015.png",
@@ -628,26 +692,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Flames of Discord of the Inferno Knights",
       "fr": "Chamas da Discordia dos Cavaleiros Infernais"
     },
-    "type": "Support - Normal",
     "cost": 3,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A016": {
     "id": "A016",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ordem de Ataque dos Cavaleiros Infernais",
-        "type": "Support - Normal",
+        "name": {
+          "en": "Inferno Knight’s Attack Order",
+          "fr": "Ordem de Ataque dos Cavaleiros Infernais"
+        },
+        "type": "Normal",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A016.png",
@@ -656,25 +721,26 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Inferno Knight’s Attack Order",
       "fr": "Ordem de Ataque dos Cavaleiros Infernais"
     },
-    "type": "Support - Normal",
     "cost": 2,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A017": {
     "id": "A017",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Thomas o Mago do Relampago Dourado",
+        "name": {
+          "en": "Thomas, Mage of the Golden Lightning",
+          "fr": "Thomas, o Mago do Relâmpago Dourado"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -684,24 +750,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Thomas, Mage of the Golden Lightning",
       "fr": "Thomas, o Mago do Relâmpago Dourado"
     },
-    "type": "Character",
     "cost": 3,
-    "attribute": {
-      "en": "Light",
-      "fr": "Luz"
-    },
-    "class": {
+    "LP": "120",
+    "type_card": {
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "hp": "120",
     "effect": {
-      "en": "None",
-      "fr": "None"
+      "en": "No effect",
+      "fr": "Sem efeito"
+    },
+    "attribute": {
+      "en": "Light",
+      "fr": "Luz"
     }
   },
   "A018": {
@@ -709,7 +775,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Marie a Bruxa do Relampago Dourado",
+        "name": {
+          "en": "Marie, Witch of the Golden Lightning",
+          "fr": "Marie, a Bruxa do Relâmpago Dourado"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -719,24 +788,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Marie, Witch of the Golden Lightning",
       "fr": "Marie, a Bruxa do Relâmpago Dourado"
     },
-    "type": "Character",
     "cost": 3,
-    "attribute": {
-      "en": "Light",
-      "fr": "Luz"
-    },
-    "class": {
+    "LP": "90",
+    "type_card": {
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "hp": "90",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
+    "attribute": {
+      "en": "Light",
+      "fr": "Luz"
     }
   },
   "A019": {
@@ -744,7 +813,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ciel a Aprendiz do Relampago Dourado",
+        "name": {
+          "en": "Ciel, The Apprentice of the Golden Lightning",
+          "fr": "Ciel, a Aprendiz do Relâmpago Dourado"
+        },
         "type": "Character",
         "cost": 2,
         "image": {
@@ -754,24 +826,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Ciel, The Apprentice of the Golden Lightning",
       "fr": "Ciel, a Aprendiz do Relâmpago Dourado"
     },
-    "type": "Character",
     "cost": 2,
-    "attribute": {
-      "en": "Light",
-      "fr": "Luz"
-    },
-    "class": {
+    "LP": "60",
+    "type_card": {
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "hp": "60",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
+    "attribute": {
+      "en": "Light",
+      "fr": "Luz"
     }
   },
   "A020": {
@@ -779,7 +851,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ciel a Arquimaga do Relampago Dourado",
+        "name": {
+          "en": "Ciel, Archmage of the Golden Lightning",
+          "fr": "Ciel a Arquimaga do Relâmpago Dourado"
+        },
         "type": "Character",
         "cost": 4,
         "image": {
@@ -789,24 +864,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Ciel, Archmage of the Golden Lightning",
       "fr": "Ciel a Arquimaga do Relâmpago Dourado"
     },
-    "type": "Character",
     "cost": 4,
-    "attribute": {
-      "en": "Light",
-      "fr": "Luz"
-    },
-    "class": {
+    "LP": "150",
+    "type_card": {
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "hp": "150",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
+    "attribute": {
+      "en": "Light",
+      "fr": "Luz"
     }
   },
   "A020a": {
@@ -814,7 +889,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ciel a Arquimaga do Relampago Dourado",
+        "name": {
+          "en": "Ciel, Archmage of the Golden Lightning",
+          "fr": "Ciel a Arquimaga do Relâmpago Dourado"
+        },
         "type": "Character",
         "cost": 4,
         "image": {
@@ -824,24 +902,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Ciel, Archmage of the Golden Lightning",
       "fr": "Ciel a Arquimaga do Relâmpago Dourado"
     },
-    "type": "Character",
     "cost": 4,
-    "attribute": {
-      "en": "Light",
-      "fr": "Luz"
-    },
-    "class": {
+    "LP": "150",
+    "type_card": {
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "hp": "150",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
+    "attribute": {
+      "en": "Light",
+      "fr": "Luz"
     }
   },
   "A020b": {
@@ -849,7 +927,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ciel a Arquimaga do Relampago Dourado",
+        "name": {
+          "en": "Ciel, Archmage of the Golden Lightning",
+          "fr": "Ciel a Arquimaga do Relâmpago Dourado"
+        },
         "type": "Character",
         "cost": 4,
         "image": {
@@ -859,24 +940,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Ciel, Archmage of the Golden Lightning",
       "fr": "Ciel a Arquimaga do Relâmpago Dourado"
     },
-    "type": "Character",
     "cost": 4,
-    "attribute": {
-      "en": "Light",
-      "fr": "Luz"
-    },
-    "class": {
+    "LP": "150",
+    "type_card": {
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "hp": "150",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
+    "attribute": {
+      "en": "Light",
+      "fr": "Luz"
     }
   },
   "A021": {
@@ -884,8 +965,11 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "A Cabana na Floresta",
-        "type": "Support - Field",
+        "name": {
+          "en": "Cabin in the Woods",
+          "fr": "A Cabana na Floresta"
+        },
+        "type": "Field",
         "cost": 3,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A021.png",
@@ -894,26 +978,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Cabin in the Woods",
       "fr": "A Cabana na Floresta"
     },
-    "type": "Support - Field",
     "cost": 3,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Field",
+      "fr": "Campo"
+    }
   },
   "A022": {
     "id": "A022",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Sobrecarga do Relampago Dourado",
-        "type": "Support - Normal",
+        "name": {
+          "en": "Golden Lightning Overcharge",
+          "fr": "Sobrecarga do Relâmpago Dourado"
+        },
+        "type": "Normal",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A022.png",
@@ -922,26 +1007,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Golden Lightning Overcharge",
       "fr": "Sobrecarga do Relâmpago Dourado"
     },
-    "type": "Support - Normal",
     "cost": 1,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A023": {
     "id": "A023",
     "isToken": false,
     "face": {
       "front": {
-        "name": "A Chegada do Relampago Dourado",
-        "type": "Support - Normal",
+        "name": {
+          "en": "The Arrival of the Golden Lightning",
+          "fr": "A Chegada do Relâmpago Dourado"
+        },
+        "type": "Normal",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A023.png",
@@ -950,26 +1036,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "The Arrival of the Golden Lightning",
       "fr": "A Chegada do Relâmpago Dourado"
     },
-    "type": "Support - Normal",
     "cost": 1,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A024": {
     "id": "A024",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Circulo Magico do Relampago Dourado",
-        "type": "Support - Normal",
+        "name": {
+          "en": "Magic Circle of the Golden Lightning",
+          "fr": "Círculo Mágico do Relâmpago Dourado"
+        },
+        "type": "Normal",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A024.png",
@@ -978,25 +1065,26 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Magic Circle of the Golden Lightning",
       "fr": "Círculo Mágico do Relâmpago Dourado"
     },
-    "type": "Support - Normal",
     "cost": 1,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A025": {
     "id": "A025",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Heather a Grande Mestra das Damas do Abismo",
+        "name": {
+          "en": "Heather, the Grand Master of the Ladies of the Abyss",
+          "fr": "Heather, a Grande Mestra das Damas do Abismo"
+        },
         "type": "Character",
         "cost": 4,
         "image": {
@@ -1006,24 +1094,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Heather, the Grand Master of the Ladies of the Abyss",
       "fr": "Heather, a Grande Mestra das Damas do Abismo"
     },
-    "type": "Character",
     "cost": 4,
-    "attribute": {
-      "en": "Earth",
-      "fr": "Terra"
-    },
-    "class": {
+    "LP": "160",
+    "type_card": {
       "en": "Machine",
       "fr": "Máquina"
     },
-    "hp": "160",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
+    "attribute": {
+      "en": "Earth",
+      "fr": "Terra"
     }
   },
   "A026": {
@@ -1031,7 +1119,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Willow a Guardia das Damas do Abismo",
+        "name": {
+          "en": "Willow, the Guardian of the Ladies of the Abyss",
+          "fr": "Willow, a Guardiã das Damas do Abismo"
+        },
         "type": "Character",
         "cost": 4,
         "image": {
@@ -1041,24 +1132,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Willow, the Guardian of the Ladies of the Abyss",
       "fr": "Willow, a Guardiã das Damas do Abismo"
     },
-    "type": "Character",
     "cost": 4,
-    "attribute": {
-      "en": "Earth",
-      "fr": "Terra"
-    },
-    "class": {
+    "LP": "160",
+    "type_card": {
       "en": "Machine",
       "fr": "Máquina"
     },
-    "hp": "160",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
+    "attribute": {
+      "en": "Earth",
+      "fr": "Terra"
     }
   },
   "A027": {
@@ -1066,7 +1157,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Iris a Mecanica das Damas do Abismo",
+        "name": {
+          "en": "Iris, Mechanic of the Ladies of the Abyss",
+          "fr": "Iris, a Mecânica das Damas do Abismo"
+        },
         "type": "Character",
         "cost": 2,
         "image": {
@@ -1076,24 +1170,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Iris, Mechanic of the Ladies of the Abyss",
       "fr": "Iris, a Mecânica das Damas do Abismo"
     },
-    "type": "Character",
     "cost": 2,
-    "attribute": {
-      "en": "Earth",
-      "fr": "Terra"
-    },
-    "class": {
+    "LP": "90",
+    "type_card": {
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "hp": "90",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
+    "attribute": {
+      "en": "Earth",
+      "fr": "Terra"
     }
   },
   "A028": {
@@ -1101,7 +1195,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Liriel a Medica das Damas do Abismo",
+        "name": {
+          "en": "Liriel, Doctor of the Ladies of the Abyss",
+          "fr": "Liriel a Médica das Damas do Abismo"
+        },
         "type": "Character",
         "cost": 2,
         "image": {
@@ -1111,24 +1208,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Liriel, Doctor of the Ladies of the Abyss",
       "fr": "Liriel a Médica das Damas do Abismo"
     },
-    "type": "Character",
     "cost": 2,
-    "attribute": {
-      "en": "Earth",
-      "fr": "Terra"
-    },
-    "class": {
+    "LP": "90",
+    "type_card": {
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "hp": "90",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
+    "attribute": {
+      "en": "Earth",
+      "fr": "Terra"
     }
   },
   "A029": {
@@ -1136,7 +1233,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Melissa a Cacadora das Damas do Abismo",
+        "name": {
+          "en": "Melissa, Hunter of the Ladies of the Abyss",
+          "fr": "Melissa, a Caçadora das Damas do Abismo"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -1146,24 +1246,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Melissa, Hunter of the Ladies of the Abyss",
       "fr": "Melissa, a Caçadora das Damas do Abismo"
     },
-    "type": "Character",
     "cost": 3,
-    "attribute": {
-      "en": "Earth",
-      "fr": "Terra"
-    },
-    "class": {
+    "LP": "120",
+    "type_card": {
       "en": "Warrior",
       "fr": "Guerreiro"
     },
-    "hp": "120",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Conditional",
+      "fr": "Condicional"
+    },
+    "attribute": {
+      "en": "Earth",
+      "fr": "Terra"
     }
   },
   "A030": {
@@ -1171,7 +1271,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Alyssa a Cacadora das Damas do Abismo",
+        "name": {
+          "en": "Alyssa, Hunter of the Ladies of the Abyss",
+          "fr": "Alyssa, a Caçadora das Damas do Abismo"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -1181,24 +1284,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Alyssa, Hunter of the Ladies of the Abyss",
       "fr": "Alyssa, a Caçadora das Damas do Abismo"
     },
-    "type": "Character",
     "cost": 3,
-    "attribute": {
-      "en": "Earth",
-      "fr": "Terra"
-    },
-    "class": {
+    "LP": "120",
+    "type_card": {
       "en": "Warrior",
       "fr": "Guerreiro"
     },
-    "hp": "120",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Conditional",
+      "fr": "Condicional"
+    },
+    "attribute": {
+      "en": "Earth",
+      "fr": "Terra"
     }
   },
   "A031": {
@@ -1206,7 +1309,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Clover a Escavadora das Damas do Abismo",
+        "name": {
+          "en": "Clover, Digger of the Ladies of the Abyss",
+          "fr": "Clover, a Escavadora das Damas do Abismo"
+        },
         "type": "Character",
         "cost": 2,
         "image": {
@@ -1216,24 +1322,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Clover, Digger of the Ladies of the Abyss",
       "fr": "Clover, a Escavadora das Damas do Abismo"
     },
-    "type": "Character",
     "cost": 2,
-    "attribute": {
-      "en": "Earth",
-      "fr": "Terra"
-    },
-    "class": {
+    "LP": "90",
+    "type_card": {
       "en": "Warrior",
       "fr": "Guerreiro"
     },
-    "hp": "90",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
+    "attribute": {
+      "en": "Earth",
+      "fr": "Terra"
     }
   },
   "A032": {
@@ -1241,8 +1347,11 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Walkie Talkie",
-        "type": "Support - Normal",
+        "name": {
+          "en": "Walkie Talkie",
+          "fr": "Walkie Talkie"
+        },
+        "type": "Normal",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A032.png",
@@ -1251,26 +1360,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Walkie Talkie",
       "fr": "Walkie Talkie"
     },
-    "type": "Support - Normal",
     "cost": 1,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A033": {
     "id": "A033",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Chamado das Damas do Abismo",
-        "type": "Support - Normal",
+        "name": {
+          "en": "Call of the Ladies of the Abyss",
+          "fr": "Chamado das Damas do Abismo"
+        },
+        "type": "Normal",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A033.png",
@@ -1279,25 +1389,26 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Call of the Ladies of the Abyss",
       "fr": "Chamado das Damas do Abismo"
     },
-    "type": "Support - Normal",
     "cost": 2,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A034": {
     "id": "A034",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Dracula o Supremo Senhor da Noite",
+        "name": {
+          "en": "Dracula, the Supreme Lord of the Night",
+          "fr": "Dracula, o Supremo Senhor da Noite"
+        },
         "type": "Character",
         "cost": 4,
         "image": {
@@ -1307,24 +1418,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Dracula, the Supreme Lord of the Night",
       "fr": "Dracula, o Supremo Senhor da Noite"
     },
-    "type": "Character",
     "cost": 4,
-    "attribute": {
-      "en": "Dark",
-      "fr": "Trevas"
-    },
-    "class": {
+    "LP": "150",
+    "type_card": {
       "en": "Nocturnal",
       "fr": "Noturno"
     },
-    "hp": "150",
     "effect": {
-      "en": "None",
-      "fr": "None"
+      "en": "No effect",
+      "fr": "Sem efeito"
+    },
+    "attribute": {
+      "en": "Dark",
+      "fr": "Trevas"
     }
   },
   "A035": {
@@ -1332,7 +1443,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Lilith a Dama do Senhor da Noite",
+        "name": {
+          "en": "Lilith, Mistress of the Lord of the Night",
+          "fr": "Lilith, a Dama do Senhor da Noite"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -1342,24 +1456,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Lilith, Mistress of the Lord of the Night",
       "fr": "Lilith, a Dama do Senhor da Noite"
     },
-    "type": "Character",
     "cost": 3,
-    "attribute": {
-      "en": "Dark",
-      "fr": "Trevas"
-    },
-    "class": {
+    "LP": "120",
+    "type_card": {
       "en": "Nocturnal",
       "fr": "Noturno"
     },
-    "hp": "120",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
+    "attribute": {
+      "en": "Dark",
+      "fr": "Trevas"
     }
   },
   "A035a": {
@@ -1367,7 +1481,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Lilith a Dama do Senhor da Noite",
+        "name": {
+          "en": "Lilith, Mistress of the Lord of the Night",
+          "fr": "Lilith, a Dama do Senhor da Noite"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -1377,24 +1494,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Lilith, Mistress of the Lord of the Night",
       "fr": "Lilith, a Dama do Senhor da Noite"
     },
-    "type": "Character",
     "cost": 3,
-    "attribute": {
-      "en": "Dark",
-      "fr": "Trevas"
-    },
-    "class": {
+    "LP": "120",
+    "type_card": {
       "en": "Nocturnal",
       "fr": "Noturno"
     },
-    "hp": "120",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
+    "attribute": {
+      "en": "Dark",
+      "fr": "Trevas"
     }
   },
   "A035b": {
@@ -1402,7 +1519,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Lilith a Dama do Senhor da Noite",
+        "name": {
+          "en": "Lilith, Mistress of the Lord of the Night",
+          "fr": "Lilith, a Dama do Senhor da Noite"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -1412,24 +1532,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Lilith, Mistress of the Lord of the Night",
       "fr": "Lilith, a Dama do Senhor da Noite"
     },
-    "type": "Character",
     "cost": 3,
-    "attribute": {
-      "en": "Dark",
-      "fr": "Trevas"
-    },
-    "class": {
+    "LP": "120",
+    "type_card": {
       "en": "Nocturnal",
       "fr": "Noturno"
     },
-    "hp": "120",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
+    "attribute": {
+      "en": "Dark",
+      "fr": "Trevas"
     }
   },
   "A036": {
@@ -1437,7 +1557,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Mumia o Senhor da Noite",
+        "name": {
+          "en": "Mummy, Lord of the Night",
+          "fr": "Múmia, o Senhor da Noite"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -1447,24 +1570,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Mummy, Lord of the Night",
       "fr": "Múmia, o Senhor da Noite"
     },
-    "type": "Character",
     "cost": 3,
-    "attribute": {
-      "en": "Dark",
-      "fr": "Trevas"
-    },
-    "class": {
+    "LP": "100",
+    "type_card": {
       "en": "Nocturnal",
       "fr": "Noturno"
     },
-    "hp": "100",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
+    "attribute": {
+      "en": "Dark",
+      "fr": "Trevas"
     }
   },
   "A037": {
@@ -1472,7 +1595,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Stein o Senhor da Noite",
+        "name": {
+          "en": "Stein, Lord of the Night",
+          "fr": "Stein, o Senhor da Noite"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -1482,24 +1608,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Stein, Lord of the Night",
       "fr": "Stein, o Senhor da Noite"
     },
-    "type": "Character",
     "cost": 3,
-    "attribute": {
-      "en": "Dark",
-      "fr": "Trevas"
-    },
-    "class": {
+    "LP": "120",
+    "type_card": {
       "en": "Nocturnal",
       "fr": "Noturno"
     },
-    "hp": "120",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
+    "attribute": {
+      "en": "Dark",
+      "fr": "Trevas"
     }
   },
   "A038": {
@@ -1507,8 +1633,11 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Castelo do Senhor da Noite",
-        "type": "Support - Field",
+        "name": {
+          "en": "Castle of the Lord of the Night",
+          "fr": "Castelo do Senhor da Noite"
+        },
+        "type": "Field",
         "cost": 3,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A038.png",
@@ -1517,26 +1646,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Castle of the Lord of the Night",
       "fr": "Castelo do Senhor da Noite"
     },
-    "type": "Support - Field",
     "cost": 3,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Field",
+      "fr": "Campo"
+    }
   },
   "A039": {
     "id": "A039",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Controle Mental da Mestra do Castelo",
-        "type": "Support - Normal",
+        "name": {
+          "en": "Master of the Castle’s Mind Control",
+          "fr": "Controle Mental da Mestra do Castelo"
+        },
+        "type": "Normal",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A039.png",
@@ -1545,26 +1675,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Master of the Castle’s Mind Control",
       "fr": "Controle Mental da Mestra do Castelo"
     },
-    "type": "Support - Normal",
     "cost": 1,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A040": {
     "id": "A040",
     "isToken": false,
     "face": {
       "front": {
-        "name": "O Poder do Senhor da Noite",
-        "type": "Support - Normal",
+        "name": {
+          "en": "The Power of the Lord of the Night",
+          "fr": "O Poder do Senhor da Noite"
+        },
+        "type": "Normal",
         "cost": 3,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A040.png",
@@ -1573,26 +1704,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "The Power of the Lord of the Night",
       "fr": "O Poder do Senhor da Noite"
     },
-    "type": "Support - Normal",
     "cost": 3,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A041": {
     "id": "A041",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Chamado das Sombras",
-        "type": "Support - Normal",
+        "name": {
+          "en": "Call of Shadows",
+          "fr": "Chamado das Sombras"
+        },
+        "type": "Normal",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A041.png",
@@ -1601,26 +1733,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Call of Shadows",
       "fr": "Chamado das Sombras"
     },
-    "type": "Support - Normal",
     "cost": 2,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A042": {
     "id": "A042",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Protecao do Senhor da Noite",
-        "type": "Support - Response",
+        "name": {
+          "en": "Protection of the Lord of the Night",
+          "fr": "Proteção do Senhor da Noite"
+        },
+        "type": "Response",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A042.png",
@@ -1629,25 +1762,26 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Protection of the Lord of the Night",
       "fr": "Proteção do Senhor da Noite"
     },
-    "type": "Support - Response",
     "cost": 1,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Response",
+      "fr": "Resposta"
+    }
   },
   "A043": {
     "id": "A043",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Bosch o Terror Toxico",
+        "name": {
+          "en": "Bosch, the Toxic Terror",
+          "fr": "Bosch, o Terror Tóxico"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -1657,24 +1791,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Bosch, the Toxic Terror",
       "fr": "Bosch, o Terror Tóxico"
     },
-    "type": "Character",
     "cost": 3,
-    "attribute": {
-      "en": "Wind",
-      "fr": "Vento"
-    },
-    "class": {
+    "LP": "100",
+    "type_card": {
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "hp": "100",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
+    "attribute": {
+      "en": "Wind",
+      "fr": "Vento"
     }
   },
   "A044": {
@@ -1682,7 +1816,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Haber o Terror Toxico",
+        "name": {
+          "en": "Haber, the Toxic Terror",
+          "fr": "Haber, o Terror Tóxico"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -1692,24 +1829,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Haber, the Toxic Terror",
       "fr": "Haber, o Terror Tóxico"
     },
-    "type": "Character",
     "cost": 3,
-    "attribute": {
-      "en": "Wind",
-      "fr": "Vento"
-    },
-    "class": {
+    "LP": "100",
+    "type_card": {
       "en": "Warrior",
       "fr": "Guerreiro"
     },
-    "hp": "100",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Conditional",
+      "fr": "Condicional"
+    },
+    "attribute": {
+      "en": "Wind",
+      "fr": "Vento"
     }
   },
   "A045": {
@@ -1717,7 +1854,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Clara o Terror Toxico",
+        "name": {
+          "en": "Clara, the Toxic Terror",
+          "fr": "Clara, o Terror Tóxico"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -1727,24 +1867,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Clara, the Toxic Terror",
       "fr": "Clara, o Terror Tóxico"
     },
-    "type": "Character",
     "cost": 3,
-    "attribute": {
-      "en": "Wind",
-      "fr": "Vento"
-    },
-    "class": {
+    "LP": "100",
+    "type_card": {
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "hp": "100",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
+    "attribute": {
+      "en": "Wind",
+      "fr": "Vento"
     }
   },
   "A046": {
@@ -1752,7 +1892,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "AMMO-NIAC o Terror Toxico",
+        "name": {
+          "en": "AMMO-NIAC, the Toxic Terror",
+          "fr": "AMMO-NIAC, o Terror Tóxico"
+        },
         "type": "Character",
         "cost": 4,
         "image": {
@@ -1762,24 +1905,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "AMMO-NIAC, the Toxic Terror",
       "fr": "AMMO-NIAC, o Terror Tóxico"
     },
-    "type": "Character",
     "cost": 4,
-    "attribute": {
-      "en": "Wind",
-      "fr": "Vento"
-    },
-    "class": {
+    "LP": "150",
+    "type_card": {
       "en": "Warrior",
       "fr": "Guerreiro"
     },
-    "hp": "150",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
+    "attribute": {
+      "en": "Wind",
+      "fr": "Vento"
     }
   },
   "A047": {
@@ -1787,7 +1930,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "S-LIME o Terror Toxico",
+        "name": {
+          "en": "S-LIME, the Toxic Terror",
+          "fr": "S-LIME o Terror Tóxico"
+        },
         "type": "Character",
         "cost": 1,
         "image": {
@@ -1797,24 +1943,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "S-LIME, the Toxic Terror",
       "fr": "S-LIME o Terror Tóxico"
     },
-    "type": "Character",
     "cost": 1,
-    "attribute": {
-      "en": "Wind",
-      "fr": "Vento"
-    },
-    "class": {
+    "LP": "30",
+    "type_card": {
       "en": "Beast",
       "fr": "Besta"
     },
-    "hp": "30",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Conditional",
+      "fr": "Condicional"
+    },
+    "attribute": {
+      "en": "Wind",
+      "fr": "Vento"
     }
   },
   "A048": {
@@ -1822,8 +1968,11 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Granada de gas do Terror Toxico",
-        "type": "Support - Normal",
+        "name": {
+          "en": "Toxic Terror Gas Grenade",
+          "fr": "Granada de gás do Terror Tóxico"
+        },
+        "type": "Normal",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A048.png",
@@ -1832,26 +1981,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Toxic Terror Gas Grenade",
       "fr": "Granada de gás do Terror Tóxico"
     },
-    "type": "Support - Normal",
     "cost": 2,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A049": {
     "id": "A049",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Recuo Estratégico do Terror Tóxico",
-        "type": "Support - Response",
+        "name": {
+          "en": "Toxic Terror’s Strategic Retreat",
+          "fr": "Recuo Estratégico do Terror Tóxico"
+        },
+        "type": "Response",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A049.png",
@@ -1860,26 +2010,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Toxic Terror’s Strategic Retreat",
       "fr": "Recuo Estratégico do Terror Tóxico"
     },
-    "type": "Support - Response",
     "cost": 1,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Response",
+      "fr": "Resposta"
+    }
   },
   "A050": {
     "id": "A050",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Recombincao do Terror Toxico",
-        "type": "Support - Normal",
+        "name": {
+          "en": "Toxic Terror’s Recombination",
+          "fr": "Recombinção do Terror Tóxico"
+        },
+        "type": "Normal",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A050.png",
@@ -1888,25 +2039,26 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Toxic Terror’s Recombination",
       "fr": "Recombinção do Terror Tóxico"
     },
-    "type": "Support - Normal",
     "cost": 2,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A051": {
     "id": "A051",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Shiro o Paladino da Neve",
+        "name": {
+          "en": "Shiro, the Snow Paladin",
+          "fr": "Shiro, o Paladino da Neve"
+        },
         "type": "Character",
         "cost": 5,
         "image": {
@@ -1916,24 +2068,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Shiro, the Snow Paladin",
       "fr": "Shiro, o Paladino da Neve"
     },
-    "type": "Character",
     "cost": 5,
-    "attribute": {
-      "en": "Water",
-      "fr": "Água"
-    },
-    "class": {
+    "LP": "160",
+    "type_card": {
       "en": "guerreio",
       "fr": "guerreio"
     },
-    "hp": "160",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Conditional",
+      "fr": "Condicional"
+    },
+    "attribute": {
+      "en": "Water",
+      "fr": "Água"
     }
   },
   "A052": {
@@ -1941,7 +2093,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Estátua Defensora das Mars",
+        "name": {
+          "en": "Tidal Defender Statue",
+          "fr": "Estátua Defensora das Marés"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -1951,24 +2106,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Tidal Defender Statue",
       "fr": "Estátua Defensora das Marés"
     },
-    "type": "Character",
     "cost": 3,
-    "attribute": {
-      "en": "Water",
-      "fr": "Água"
-    },
-    "class": {
+    "LP": "100",
+    "type_card": {
       "en": "Construct",
       "fr": "Construct"
     },
-    "hp": "100",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
+    "attribute": {
+      "en": "Water",
+      "fr": "Água"
     }
   },
   "A053": {
@@ -1976,7 +2131,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Cryptofauna - Piranha",
+        "name": {
+          "en": "Cryptofauna - Piranha",
+          "fr": "Cryptofauna - Piranha"
+        },
         "type": "Character",
         "cost": 2,
         "image": {
@@ -1986,24 +2144,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Cryptofauna - Piranha",
       "fr": "Cryptofauna - Piranha"
     },
-    "type": "Character",
     "cost": 2,
-    "attribute": {
-      "en": "Water",
-      "fr": "Água"
-    },
-    "class": {
+    "LP": "50",
+    "type_card": {
       "en": "Machine",
       "fr": "Máquina"
     },
-    "hp": "50",
     "effect": {
-      "en": "None",
-      "fr": "None"
+      "en": "No effect",
+      "fr": "Sem efeito"
+    },
+    "attribute": {
+      "en": "Water",
+      "fr": "Água"
     }
   },
   "A054": {
@@ -2011,7 +2169,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Lyla Guerreira das Mares",
+        "name": {
+          "en": "Lyla, Warrior of the Tides",
+          "fr": "Lyla, Guerreira das Mares"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -2021,24 +2182,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Lyla, Warrior of the Tides",
       "fr": "Lyla, Guerreira das Mares"
     },
-    "type": "Character",
     "cost": 3,
-    "attribute": {
-      "en": "Water",
-      "fr": "Água"
-    },
-    "class": {
+    "LP": "90",
+    "type_card": {
       "en": "Nature",
       "fr": "Natureza"
     },
-    "hp": "90",
     "effect": {
-      "en": "None",
-      "fr": "None"
+      "en": "No effect",
+      "fr": "Sem efeito"
+    },
+    "attribute": {
+      "en": "Water",
+      "fr": "Água"
     }
   },
   "A055": {
@@ -2046,7 +2207,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Fahrkhael o Terror das Montanhas Geladas",
+        "name": {
+          "en": "Fahrkhael, the Terror of the Frozen Mountains",
+          "fr": "Fahrkhael, o Terror das Montanhas Geladas"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -2056,24 +2220,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Fahrkhael, the Terror of the Frozen Mountains",
       "fr": "Fahrkhael, o Terror das Montanhas Geladas"
     },
-    "type": "Character",
     "cost": 3,
-    "attribute": {
-      "en": "Water",
-      "fr": "Água"
-    },
-    "class": {
+    "LP": "130",
+    "type_card": {
       "en": "Beast",
       "fr": "Besta"
     },
-    "hp": "130",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
+    "attribute": {
+      "en": "Water",
+      "fr": "Água"
     }
   },
   "A056": {
@@ -2081,7 +2245,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Agua Viva",
+        "name": {
+          "en": "Jellyfish",
+          "fr": "Água Viva"
+        },
         "type": "Character",
         "cost": 1,
         "image": {
@@ -2091,24 +2258,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Jellyfish",
       "fr": "Água Viva"
     },
-    "type": "Character",
     "cost": 1,
-    "attribute": {
-      "en": "Water",
-      "fr": "Água"
-    },
-    "class": {
+    "LP": "50",
+    "type_card": {
       "en": "Nature",
       "fr": "Natureza"
     },
-    "hp": "50",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
+    "attribute": {
+      "en": "Water",
+      "fr": "Água"
     }
   },
   "A057": {
@@ -2116,7 +2283,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Siegfried o Dragao Rubro",
+        "name": {
+          "en": "Siegfried, the Crimson Dragon",
+          "fr": "Siegfried, o Dragao Rubro"
+        },
         "type": "Character",
         "cost": 5,
         "image": {
@@ -2126,24 +2296,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Siegfried, the Crimson Dragon",
       "fr": "Siegfried, o Dragao Rubro"
     },
-    "type": "Character",
     "cost": 5,
-    "attribute": {
-      "en": "Fire",
-      "fr": "Fogo"
-    },
-    "class": {
+    "LP": "180",
+    "type_card": {
       "en": "Dragon",
       "fr": "Dragão"
     },
-    "hp": "180",
     "effect": {
-      "en": "None",
-      "fr": "None"
+      "en": "No effect",
+      "fr": "Sem efeito"
+    },
+    "attribute": {
+      "en": "Fire",
+      "fr": "Fogo"
     }
   },
   "A058": {
@@ -2151,7 +2321,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Estátua Defensora das Chamas",
+        "name": {
+          "en": "Flames Defender Statue",
+          "fr": "Estátua Defensora das Chamas"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -2161,24 +2334,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Flames Defender Statue",
       "fr": "Estátua Defensora das Chamas"
     },
-    "type": "Character",
     "cost": 3,
-    "attribute": {
-      "en": "Fire",
-      "fr": "Fogo"
-    },
-    "class": {
+    "LP": "100",
+    "type_card": {
       "en": "Construct",
       "fr": "Construct"
     },
-    "hp": "100",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
+    "attribute": {
+      "en": "Fire",
+      "fr": "Fogo"
     }
   },
   "A059": {
@@ -2186,7 +2359,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Red Vermillion o Bardo Errante",
+        "name": {
+          "en": "Red Vermillion, the Wandering Bard",
+          "fr": "Red Vermillion, o Bardo Errante"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -2196,24 +2372,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Red Vermillion, the Wandering Bard",
       "fr": "Red Vermillion, o Bardo Errante"
     },
-    "type": "Character",
     "cost": 3,
-    "attribute": {
-      "en": "Fire",
-      "fr": "Fogo"
-    },
-    "class": {
+    "LP": "100",
+    "type_card": {
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "hp": "100",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Conditional",
+      "fr": "Condicional"
+    },
+    "attribute": {
+      "en": "Fire",
+      "fr": "Fogo"
     }
   },
   "A060": {
@@ -2221,7 +2397,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Luccia a Maga das Chamas Azuis",
+        "name": {
+          "en": "Luccia, the Mage of Blue Flames",
+          "fr": "Luccia, a Maga das Chamas Azuis"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -2231,24 +2410,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Luccia, the Mage of Blue Flames",
       "fr": "Luccia, a Maga das Chamas Azuis"
     },
-    "type": "Character",
     "cost": 3,
-    "attribute": {
-      "en": "Fire",
-      "fr": "Fogo"
-    },
-    "class": {
+    "LP": "100",
+    "type_card": {
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "hp": "100",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
+    "attribute": {
+      "en": "Fire",
+      "fr": "Fogo"
     }
   },
   "A061": {
@@ -2256,7 +2435,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Wyvern Carmesim",
+        "name": {
+          "en": "Crimson Wyvern",
+          "fr": "Wyvern Carmesim"
+        },
         "type": "Character",
         "cost": 2,
         "image": {
@@ -2266,24 +2448,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Crimson Wyvern",
       "fr": "Wyvern Carmesim"
     },
-    "type": "Character",
     "cost": 2,
-    "attribute": {
-      "en": "Fire",
-      "fr": "Fogo"
-    },
-    "class": {
+    "LP": "100",
+    "type_card": {
       "en": "Dragon",
       "fr": "Dragão"
     },
-    "hp": "100",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Conditional",
+      "fr": "Condicional"
+    },
+    "attribute": {
+      "en": "Fire",
+      "fr": "Fogo"
     }
   },
   "A062": {
@@ -2291,7 +2473,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Mithril a Lamina Sangrenta",
+        "name": {
+          "en": "Mithril, the Bloody Blade",
+          "fr": "Mithril, a Lâmina Sangrenta"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -2301,24 +2486,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Mithril, the Bloody Blade",
       "fr": "Mithril, a Lâmina Sangrenta"
     },
-    "type": "Character",
     "cost": 3,
-    "attribute": {
-      "en": "Fire",
-      "fr": "Fogo"
-    },
-    "class": {
+    "LP": "90",
+    "type_card": {
       "en": "Nocturnal",
       "fr": "Noturno"
     },
-    "hp": "90",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
+    "attribute": {
+      "en": "Fire",
+      "fr": "Fogo"
     }
   },
   "A063": {
@@ -2326,7 +2511,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Illuminum o Guerreiro da Luz",
+        "name": {
+          "en": "Illuminum, the Warrior of Light",
+          "fr": "Illuminum, o Guerreiro da Luz"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -2336,24 +2524,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Illuminum, the Warrior of Light",
       "fr": "Illuminum, o Guerreiro da Luz"
     },
-    "type": "Character",
     "cost": 3,
-    "attribute": {
-      "en": "Light",
-      "fr": "Luz"
-    },
-    "class": {
+    "LP": "110",
+    "type_card": {
       "en": "Celestial",
       "fr": "Celestial"
     },
-    "hp": "110",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
+    "attribute": {
+      "en": "Light",
+      "fr": "Luz"
     }
   },
   "A064": {
@@ -2361,7 +2549,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Estátua Defensora Celeste",
+        "name": {
+          "en": "Celestial Defender Statue",
+          "fr": "Estátua Defensora Celeste"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -2371,24 +2562,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Celestial Defender Statue",
       "fr": "Estátua Defensora Celeste"
     },
-    "type": "Character",
     "cost": 3,
-    "attribute": {
-      "en": "Light",
-      "fr": "Luz"
-    },
-    "class": {
+    "LP": "100",
+    "type_card": {
       "en": "Construct",
       "fr": "Construct"
     },
-    "hp": "100",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
+    "attribute": {
+      "en": "Light",
+      "fr": "Luz"
     }
   },
   "A065": {
@@ -2396,7 +2587,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Noelle a Guardia Valquiria",
+        "name": {
+          "en": "Noelle, the Valkyrie Guardian",
+          "fr": "Noelle, a Guardiã Valquíria"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -2406,24 +2600,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Noelle, the Valkyrie Guardian",
       "fr": "Noelle, a Guardiã Valquíria"
     },
-    "type": "Character",
     "cost": 3,
-    "attribute": {
-      "en": "Light",
-      "fr": "Luz"
-    },
-    "class": {
+    "LP": "120",
+    "type_card": {
       "en": "Celestial",
       "fr": "Celestial"
     },
-    "hp": "120",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Conditional",
+      "fr": "Condicional"
+    },
+    "attribute": {
+      "en": "Light",
+      "fr": "Luz"
     }
   },
   "A066": {
@@ -2431,7 +2625,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Castielle a Guardia Valquiria",
+        "name": {
+          "en": "Castielle, the Valkyrie Guardian",
+          "fr": "Castielle, a Guardiã Valquíria"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -2441,24 +2638,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Castielle, the Valkyrie Guardian",
       "fr": "Castielle, a Guardiã Valquíria"
     },
-    "type": "Character",
     "cost": 3,
-    "attribute": {
-      "en": "Light",
-      "fr": "Luz"
-    },
-    "class": {
+    "LP": "100",
+    "type_card": {
       "en": "Celestial",
       "fr": "Celestial"
     },
-    "hp": "100",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Conditional",
+      "fr": "Condicional"
+    },
+    "attribute": {
+      "en": "Light",
+      "fr": "Luz"
     }
   },
   "A067": {
@@ -2466,7 +2663,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Tom o Aprendiz do Relampago",
+        "name": {
+          "en": "Tom, the Lightning Apprentice",
+          "fr": "Tom, o Aprendiz do Relâmpago"
+        },
         "type": "Character",
         "cost": 2,
         "image": {
@@ -2476,24 +2676,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Tom, the Lightning Apprentice",
       "fr": "Tom, o Aprendiz do Relâmpago"
     },
-    "type": "Character",
     "cost": 2,
-    "attribute": {
-      "en": "Light",
-      "fr": "Luz"
-    },
-    "class": {
+    "LP": "70",
+    "type_card": {
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "hp": "70",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
+    "attribute": {
+      "en": "Light",
+      "fr": "Luz"
     }
   },
   "A068": {
@@ -2501,7 +2701,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Lily a Fada Curandeira",
+        "name": {
+          "en": "Lily, the Healing Fairy",
+          "fr": "Lily, a Fada Curandeira"
+        },
         "type": "Character",
         "cost": 1,
         "image": {
@@ -2511,24 +2714,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Lily, the Healing Fairy",
       "fr": "Lily, a Fada Curandeira"
     },
-    "type": "Character",
     "cost": 1,
-    "attribute": {
-      "en": "Light",
-      "fr": "Luz"
-    },
-    "class": {
+    "LP": "50",
+    "type_card": {
       "en": "fada",
       "fr": "fada"
     },
-    "hp": "50",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
+    "attribute": {
+      "en": "Light",
+      "fr": "Luz"
     }
   },
   "A069": {
@@ -2536,7 +2739,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Sky Guardian - O Sentinela Estelar",
+        "name": {
+          "en": "Sky Guardian – Sentinel of the Stars",
+          "fr": "Sky Guardian - O Sentinela Estelar"
+        },
         "type": "Character",
         "cost": 5,
         "image": {
@@ -2546,24 +2752,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Sky Guardian – Sentinel of the Stars",
       "fr": "Sky Guardian - O Sentinela Estelar"
     },
-    "type": "Character",
     "cost": 5,
-    "attribute": {
-      "en": "Neutral",
-      "fr": "Neutro"
-    },
-    "class": {
+    "LP": "170",
+    "type_card": {
       "en": "Machine",
       "fr": "Máquina"
     },
-    "hp": "170",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
+    "attribute": {
+      "en": "Neutral",
+      "fr": "Neutro"
     }
   },
   "A069a": {
@@ -2571,7 +2777,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Sky Guardian - O Sentinela Estelar",
+        "name": {
+          "en": "Sky Guardian – Sentinel of the Stars",
+          "fr": "Sky Guardian - O Sentinela Estelar"
+        },
         "type": "Character",
         "cost": 5,
         "image": {
@@ -2581,24 +2790,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Sky Guardian – Sentinel of the Stars",
       "fr": "Sky Guardian - O Sentinela Estelar"
     },
-    "type": "Character",
     "cost": 5,
-    "attribute": {
-      "en": "Neutral",
-      "fr": "Neutro"
-    },
-    "class": {
+    "LP": "170",
+    "type_card": {
       "en": "Machine",
       "fr": "Máquina"
     },
-    "hp": "170",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
+    "attribute": {
+      "en": "Neutral",
+      "fr": "Neutro"
     }
   },
   "A070": {
@@ -2606,7 +2815,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Granolla, A viajante intergalactica",
+        "name": {
+          "en": "Granolla, the Intergalactic Traveler",
+          "fr": "Granolla, A viajante intergaláctica"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -2616,24 +2828,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Granolla, the Intergalactic Traveler",
       "fr": "Granolla, A viajante intergaláctica"
     },
-    "type": "Character",
     "cost": 3,
-    "attribute": {
-      "en": "Neutral",
-      "fr": "Neutro"
-    },
-    "class": {
+    "LP": "110",
+    "type_card": {
       "en": "Machine",
       "fr": "Máquina"
     },
-    "hp": "110",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Conditional",
+      "fr": "Condicional"
+    },
+    "attribute": {
+      "en": "Neutral",
+      "fr": "Neutro"
     }
   },
   "A071": {
@@ -2641,7 +2853,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ascalon o Lendario Drago Branco",
+        "name": {
+          "en": "Ascalon, the Legendary White Dragon",
+          "fr": "Ascalon, o Lendário Dragão Branco"
+        },
         "type": "Character",
         "cost": 4,
         "image": {
@@ -2651,24 +2866,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Ascalon, the Legendary White Dragon",
       "fr": "Ascalon, o Lendário Dragão Branco"
     },
-    "type": "Character",
     "cost": 4,
-    "attribute": {
-      "en": "Neutral",
-      "fr": "Neutro"
-    },
-    "class": {
+    "LP": "170",
+    "type_card": {
       "en": "Dragon",
       "fr": "Dragão"
     },
-    "hp": "170",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
+    "attribute": {
+      "en": "Neutral",
+      "fr": "Neutro"
     }
   },
   "A072": {
@@ -2676,7 +2891,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Dub Avancado",
+        "name": {
+          "en": "Advanced Dub",
+          "fr": "Dub Avançado"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -2686,24 +2904,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Advanced Dub",
       "fr": "Dub Avançado"
     },
-    "type": "Character",
     "cost": 3,
-    "attribute": {
-      "en": "Neutral",
-      "fr": "Neutro"
-    },
-    "class": {
+    "LP": "100",
+    "type_card": {
       "en": "Machine",
       "fr": "Máquina"
     },
-    "hp": "100",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
+    "attribute": {
+      "en": "Neutral",
+      "fr": "Neutro"
     }
   },
   "A073": {
@@ -2711,7 +2929,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "kaguya a Assassina das Sombras",
+        "name": {
+          "en": "Kaguya, the Shadow Assassin",
+          "fr": "kaguya, a Assassina das Sombras"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -2721,24 +2942,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Kaguya, the Shadow Assassin",
       "fr": "kaguya, a Assassina das Sombras"
     },
-    "type": "Character",
     "cost": 3,
-    "attribute": {
-      "en": "Neutral",
-      "fr": "Neutro"
-    },
-    "class": {
+    "LP": "100",
+    "type_card": {
       "en": "Warrior",
       "fr": "Guerreiro"
     },
-    "hp": "100",
     "effect": {
-      "en": "None",
-      "fr": "None"
+      "en": "No effect",
+      "fr": "Sem efeito"
+    },
+    "attribute": {
+      "en": "Neutral",
+      "fr": "Neutro"
     }
   },
   "A074": {
@@ -2746,7 +2967,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "ignis a Lamina Escarlate",
+        "name": {
+          "en": "Ignis, the Scarlet Blade",
+          "fr": "Ignis, a Lâmina Escarlate"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -2756,24 +2980,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Ignis, the Scarlet Blade",
       "fr": "Ignis, a Lâmina Escarlate"
     },
-    "type": "Character",
     "cost": 3,
-    "attribute": {
-      "en": "Neutral",
-      "fr": "Neutro"
-    },
-    "class": {
+    "LP": "130",
+    "type_card": {
       "en": "Warrior",
       "fr": "Guerreiro"
     },
-    "hp": "130",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
+    "attribute": {
+      "en": "Neutral",
+      "fr": "Neutro"
     }
   },
   "A075": {
@@ -2781,7 +3005,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Noccio o Protetor da Floresta",
+        "name": {
+          "en": "Noccio, the Protector of the Forest",
+          "fr": "Noccio, o Protetor da Floresta"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -2791,24 +3018,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Noccio, the Protector of the Forest",
       "fr": "Noccio, o Protetor da Floresta"
     },
-    "type": "Character",
     "cost": 3,
-    "attribute": {
-      "en": "Earth",
-      "fr": "Terra"
-    },
-    "class": {
+    "LP": "120",
+    "type_card": {
       "en": "Nature",
       "fr": "Natureza"
     },
-    "hp": "120",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
+    "attribute": {
+      "en": "Earth",
+      "fr": "Terra"
     }
   },
   "A076": {
@@ -2816,7 +3043,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Estátua Defensora das Cavernas",
+        "name": {
+          "en": "Cave Defender Statue",
+          "fr": "Estátua Defensora das Cavernas"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -2826,24 +3056,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Cave Defender Statue",
       "fr": "Estátua Defensora das Cavernas"
     },
-    "type": "Character",
     "cost": 3,
-    "attribute": {
-      "en": "Earth",
-      "fr": "Terra"
-    },
-    "class": {
+    "LP": "100",
+    "type_card": {
       "en": "Construct",
       "fr": "Construct"
     },
-    "hp": "100",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
+    "attribute": {
+      "en": "Earth",
+      "fr": "Terra"
     }
   },
   "A077": {
@@ -2851,7 +3081,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Kaede a Monge Errante",
+        "name": {
+          "en": "Kaede, the Wandering Monk",
+          "fr": "Kaede, a Monge Errante"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -2861,24 +3094,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Kaede, the Wandering Monk",
       "fr": "Kaede, a Monge Errante"
     },
-    "type": "Character",
     "cost": 3,
-    "attribute": {
-      "en": "Earth",
-      "fr": "Terra"
-    },
-    "class": {
+    "LP": "110",
+    "type_card": {
       "en": "Warrior",
       "fr": "Guerreiro"
     },
-    "hp": "110",
     "effect": {
-      "en": "None",
-      "fr": "None"
+      "en": "No effect",
+      "fr": "Sem efeito"
+    },
+    "attribute": {
+      "en": "Earth",
+      "fr": "Terra"
     }
   },
   "A078": {
@@ -2886,7 +3119,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Arbusto Amaldicoado",
+        "name": {
+          "en": "Cursed Shrub",
+          "fr": "Arbusto Amaldiçoado"
+        },
         "type": "Character",
         "cost": 2,
         "image": {
@@ -2896,24 +3132,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Cursed Shrub",
       "fr": "Arbusto Amaldiçoado"
     },
-    "type": "Character",
     "cost": 2,
-    "attribute": {
-      "en": "Earth",
-      "fr": "Terra"
-    },
-    "class": {
+    "LP": "50",
+    "type_card": {
       "en": "Nature",
       "fr": "Natureza"
     },
-    "hp": "50",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
+    "attribute": {
+      "en": "Earth",
+      "fr": "Terra"
     }
   },
   "A079": {
@@ -2921,7 +3157,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Guerreiro Druida",
+        "name": {
+          "en": "Druid Warrior",
+          "fr": "Guerreiro Druida"
+        },
         "type": "Character",
         "cost": 2,
         "image": {
@@ -2931,24 +3170,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Druid Warrior",
       "fr": "Guerreiro Druida"
     },
-    "type": "Character",
     "cost": 2,
-    "attribute": {
-      "en": "Earth",
-      "fr": "Terra"
-    },
-    "class": {
+    "LP": "70",
+    "type_card": {
       "en": "Nature",
       "fr": "Natureza"
     },
-    "hp": "70",
     "effect": {
-      "en": "None",
-      "fr": "None"
+      "en": "No effect",
+      "fr": "Sem efeito"
+    },
+    "attribute": {
+      "en": "Earth",
+      "fr": "Terra"
     }
   },
   "A080": {
@@ -2956,7 +3195,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Dub-Canho!",
+        "name": {
+          "en": "Dub-Cannon!",
+          "fr": "Dub-Canhão!"
+        },
         "type": "Character",
         "cost": 2,
         "image": {
@@ -2966,24 +3208,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Dub-Cannon!",
       "fr": "Dub-Canhão!"
     },
-    "type": "Character",
     "cost": 2,
-    "attribute": {
-      "en": "Earth",
-      "fr": "Terra"
-    },
-    "class": {
+    "LP": "70",
+    "type_card": {
       "en": "Machine",
       "fr": "Máquina"
     },
-    "hp": "70",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
+    "attribute": {
+      "en": "Earth",
+      "fr": "Terra"
     }
   },
   "A081": {
@@ -2991,7 +3233,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Artemis a Deusa da Lua",
+        "name": {
+          "en": "Artemis, the Goddess of the Moon",
+          "fr": "Artemis, a Deusa da Lua"
+        },
         "type": "Character",
         "cost": 4,
         "image": {
@@ -3001,24 +3246,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Artemis, the Goddess of the Moon",
       "fr": "Artemis, a Deusa da Lua"
     },
-    "type": "Character",
     "cost": 4,
-    "attribute": {
-      "en": "Dark",
-      "fr": "Trevas"
-    },
-    "class": {
+    "LP": "150",
+    "type_card": {
       "en": "Celestial",
       "fr": "Celestial"
     },
-    "hp": "150",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
+    "attribute": {
+      "en": "Dark",
+      "fr": "Trevas"
     }
   },
   "A081a": {
@@ -3026,7 +3271,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Artemis a Deusa da Lua",
+        "name": {
+          "en": "Artemis, the Goddess of the Moon",
+          "fr": "Artemis, a Deusa da Lua"
+        },
         "type": "Character",
         "cost": 4,
         "image": {
@@ -3036,24 +3284,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Artemis, the Goddess of the Moon",
       "fr": "Artemis, a Deusa da Lua"
     },
-    "type": "Character",
     "cost": 4,
-    "attribute": {
-      "en": "Dark",
-      "fr": "Trevas"
-    },
-    "class": {
+    "LP": "150",
+    "type_card": {
       "en": "Celestial",
       "fr": "Celestial"
     },
-    "hp": "150",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
+    "attribute": {
+      "en": "Dark",
+      "fr": "Trevas"
     }
   },
   "A082": {
@@ -3061,7 +3309,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Estátua Defensora do Vazio",
+        "name": {
+          "en": "Void Defender Statue",
+          "fr": "Estátua Defensora do Vazio"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -3071,24 +3322,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Void Defender Statue",
       "fr": "Estátua Defensora do Vazio"
     },
-    "type": "Character",
     "cost": 3,
-    "attribute": {
-      "en": "Dark",
-      "fr": "Trevas"
-    },
-    "class": {
+    "LP": "100",
+    "type_card": {
       "en": "constructo",
       "fr": "Construto"
     },
-    "hp": "100",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
+    "attribute": {
+      "en": "Dark",
+      "fr": "Trevas"
     }
   },
   "A083": {
@@ -3096,7 +3347,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Axel o Grande Pistoleiro",
+        "name": {
+          "en": "Axel, the Great Marksman",
+          "fr": "Axel, o Grande Pistoleiro"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -3106,24 +3360,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Axel, the Great Marksman",
       "fr": "Axel, o Grande Pistoleiro"
     },
-    "type": "Character",
     "cost": 3,
-    "attribute": {
-      "en": "Dark",
-      "fr": "Trevas"
-    },
-    "class": {
+    "LP": "100",
+    "type_card": {
       "en": "Machine",
       "fr": "Máquina"
     },
-    "hp": "100",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
+    "attribute": {
+      "en": "Dark",
+      "fr": "Trevas"
     }
   },
   "A084": {
@@ -3131,7 +3385,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Green o Mago da Destruicao Final",
+        "name": {
+          "en": "Green, the Mage of Final Destruction",
+          "fr": "Green, o Mago da Destruição Final"
+        },
         "type": "Character",
         "cost": 4,
         "image": {
@@ -3141,24 +3398,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Green, the Mage of Final Destruction",
       "fr": "Green, o Mago da Destruição Final"
     },
-    "type": "Character",
     "cost": 4,
-    "attribute": {
-      "en": "Dark",
-      "fr": "Trevas"
-    },
-    "class": {
+    "LP": "140",
+    "type_card": {
       "en": "Spellcaster",
       "fr": "Mago"
     },
-    "hp": "140",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
+    "attribute": {
+      "en": "Dark",
+      "fr": "Trevas"
     }
   },
   "A085": {
@@ -3166,7 +3423,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Touya o Espadachim Desertor",
+        "name": {
+          "en": "Touya, the Renegade Swordsman",
+          "fr": "Touya, o Espadachim Desertor"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -3176,24 +3436,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Touya, the Renegade Swordsman",
       "fr": "Touya, o Espadachim Desertor"
     },
-    "type": "Character",
     "cost": 3,
-    "attribute": {
-      "en": "Dark",
-      "fr": "Trevas"
-    },
-    "class": {
+    "LP": "120",
+    "type_card": {
       "en": "Warrior",
       "fr": "Guerreiro"
     },
-    "hp": "120",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
+    "attribute": {
+      "en": "Dark",
+      "fr": "Trevas"
     }
   },
   "A086": {
@@ -3201,7 +3461,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Neo Horizon - MK I",
+        "name": {
+          "en": "Neo Horizon - MK I",
+          "fr": "Neo Horizon - MK I"
+        },
         "type": "Character",
         "cost": 2,
         "image": {
@@ -3211,24 +3474,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Neo Horizon - MK I",
       "fr": "Neo Horizon - MK I"
     },
-    "type": "Character",
     "cost": 2,
-    "attribute": {
-      "en": "Dark",
-      "fr": "Trevas"
-    },
-    "class": {
+    "LP": "80",
+    "type_card": {
       "en": "Machine",
       "fr": "Máquina"
     },
-    "hp": "80",
     "effect": {
-      "en": "None",
-      "fr": "None"
+      "en": "No effect",
+      "fr": "Sem efeito"
+    },
+    "attribute": {
+      "en": "Dark",
+      "fr": "Trevas"
     }
   },
   "A087": {
@@ -3236,7 +3499,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Storm Eagle",
+        "name": {
+          "en": "Storm Eagle",
+          "fr": "Storm Eagle"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -3246,24 +3512,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Storm Eagle",
       "fr": "Storm Eagle"
     },
-    "type": "Character",
     "cost": 3,
-    "attribute": {
-      "en": "Wind",
-      "fr": "Vento"
-    },
-    "class": {
+    "LP": "110",
+    "type_card": {
       "en": "Machine",
       "fr": "Máquina"
     },
-    "hp": "110",
     "effect": {
-      "en": "None",
-      "fr": "None"
+      "en": "No effect",
+      "fr": "Sem efeito"
+    },
+    "attribute": {
+      "en": "Wind",
+      "fr": "Vento"
     }
   },
   "A088": {
@@ -3271,7 +3537,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Estátua Defensora das Colinas",
+        "name": {
+          "en": "Hill Defender Statue",
+          "fr": "Estátua Defensora das Colinas"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -3281,24 +3550,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Hill Defender Statue",
       "fr": "Estátua Defensora das Colinas"
     },
-    "type": "Character",
     "cost": 3,
-    "attribute": {
-      "en": "Wind",
-      "fr": "Vento"
-    },
-    "class": {
+    "LP": "100",
+    "type_card": {
       "en": "Construct",
       "fr": "Construct"
     },
-    "hp": "100",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
+    "attribute": {
+      "en": "Wind",
+      "fr": "Vento"
     }
   },
   "A089": {
@@ -3306,7 +3575,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Kakaiju a Grande Kaiju",
+        "name": {
+          "en": "Kakaiju, the Great Kaiju",
+          "fr": "Kakaiju, a Grande Kaiju"
+        },
         "type": "Character",
         "cost": 5,
         "image": {
@@ -3316,24 +3588,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Kakaiju, the Great Kaiju",
       "fr": "Kakaiju, a Grande Kaiju"
     },
-    "type": "Character",
     "cost": 5,
-    "attribute": {
-      "en": "Wind",
-      "fr": "Vento"
-    },
-    "class": {
+    "LP": "160",
+    "type_card": {
       "en": "Dragon",
       "fr": "Dragão"
     },
-    "hp": "160",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Conditional",
+      "fr": "Condicional"
+    },
+    "attribute": {
+      "en": "Wind",
+      "fr": "Vento"
     }
   },
   "A090": {
@@ -3341,7 +3613,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Aiko a Pugilista Lendaria",
+        "name": {
+          "en": "Aiko, the Legendary Pugilist",
+          "fr": "Aiko, a Pugilista Lendária"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -3351,24 +3626,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Aiko, the Legendary Pugilist",
       "fr": "Aiko, a Pugilista Lendária"
     },
-    "type": "Character",
     "cost": 3,
-    "attribute": {
-      "en": "Wind",
-      "fr": "Vento"
-    },
-    "class": {
+    "LP": "110",
+    "type_card": {
       "en": "Warrior",
       "fr": "Guerreiro"
     },
-    "hp": "110",
     "effect": {
-      "en": "None",
-      "fr": "None"
+      "en": "No effect",
+      "fr": "Sem efeito"
+    },
+    "attribute": {
+      "en": "Wind",
+      "fr": "Vento"
     }
   },
   "A091": {
@@ -3376,7 +3651,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Windblade",
+        "name": {
+          "en": "Windblade",
+          "fr": "Windblade"
+        },
         "type": "Character",
         "cost": 2,
         "image": {
@@ -3386,24 +3664,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Windblade",
       "fr": "Windblade"
     },
-    "type": "Character",
     "cost": 2,
-    "attribute": {
-      "en": "Wind",
-      "fr": "Vento"
-    },
-    "class": {
+    "LP": "90",
+    "type_card": {
       "en": "Dragon",
       "fr": "Dragão"
     },
-    "hp": "90",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Conditional",
+      "fr": "Condicional"
+    },
+    "attribute": {
+      "en": "Wind",
+      "fr": "Vento"
     }
   },
   "A092": {
@@ -3411,7 +3689,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Pastel o Gato do Destino",
+        "name": {
+          "en": "Pastel, the Cat of Destiny",
+          "fr": "Pastel, o Gato do Destino"
+        },
         "type": "Character",
         "cost": 2,
         "image": {
@@ -3421,24 +3702,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Pastel, the Cat of Destiny",
       "fr": "Pastel, o Gato do Destino"
     },
-    "type": "Character",
     "cost": 2,
-    "attribute": {
-      "en": "Wind",
-      "fr": "Vento"
-    },
-    "class": {
+    "LP": "70",
+    "type_card": {
       "en": "Beast",
       "fr": "Besta"
     },
-    "hp": "70",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
+    "attribute": {
+      "en": "Wind",
+      "fr": "Vento"
     }
   },
   "A093": {
@@ -3446,8 +3727,11 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Mudanca de Territroio",
-        "type": "Support - Normal",
+        "name": {
+          "en": "Territory Change",
+          "fr": "Mudança de Território"
+        },
+        "type": "Normal",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A093.png",
@@ -3456,26 +3740,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Territory Change",
       "fr": "Mudança de Território"
     },
-    "type": "Support - Normal",
     "cost": 1,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A094": {
     "id": "A094",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Faisca",
-        "type": "Support - Normal",
+        "name": {
+          "en": "Spark",
+          "fr": "Faisca"
+        },
+        "type": "Normal",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A094.png",
@@ -3484,26 +3769,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Spark",
       "fr": "Faisca"
     },
-    "type": "Support - Normal",
     "cost": 1,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A095": {
     "id": "A095",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Disparo Magico",
-        "type": "Support - Normal",
+        "name": {
+          "en": "Magic Shot",
+          "fr": "Disparo Mágico"
+        },
+        "type": "Normal",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A095.png",
@@ -3512,26 +3798,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Magic Shot",
       "fr": "Disparo Mágico"
     },
-    "type": "Support - Normal",
     "cost": 1,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A096": {
     "id": "A096",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Impulso de Energia",
-        "type": "Support - Normal",
+        "name": {
+          "en": "Energy Surge",
+          "fr": "Impulso de Energia"
+        },
+        "type": "Normal",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A096.png",
@@ -3540,26 +3827,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Energy Surge",
       "fr": "Impulso de Energia"
     },
-    "type": "Support - Normal",
     "cost": 1,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A097": {
     "id": "A097",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Viso do Destino",
-        "type": "Support - Normal",
+        "name": {
+          "en": "Destiny’s Vision",
+          "fr": "Visão do Destino"
+        },
+        "type": "Normal",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A097.png",
@@ -3568,26 +3856,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Destiny’s Vision",
       "fr": "Visão do Destino"
     },
-    "type": "Support - Normal",
     "cost": 1,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A098": {
     "id": "A098",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Passo do Vento",
-        "type": "Support - Normal",
+        "name": {
+          "en": "Step of the Wind",
+          "fr": "Passo do Vento"
+        },
+        "type": "Normal",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A098.png",
@@ -3596,26 +3885,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Step of the Wind",
       "fr": "Passo do Vento"
     },
-    "type": "Support - Normal",
     "cost": 1,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A099": {
     "id": "A099",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Chamado da Noite",
-        "type": "Support - Normal",
+        "name": {
+          "en": "Call of the Night",
+          "fr": "Chamado da Noite"
+        },
+        "type": "Normal",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A099.png",
@@ -3624,26 +3914,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Call of the Night",
       "fr": "Chamado da Noite"
     },
-    "type": "Support - Normal",
     "cost": 1,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A100": {
     "id": "A100",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Nucleo do Vazio Perpetuo",
-        "type": "Support - Normal",
+        "name": {
+          "en": "Core of the Everlasting Void",
+          "fr": "Núcleo do Vazio Perpétuo"
+        },
+        "type": "Normal",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A100.png",
@@ -3652,26 +3943,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Core of the Everlasting Void",
       "fr": "Núcleo do Vazio Perpétuo"
     },
-    "type": "Support - Normal",
     "cost": 1,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A101": {
     "id": "A101",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Nucleo da Alma Incandescente",
-        "type": "Support - Normal",
+        "name": {
+          "en": "Core of the Blazing Soul",
+          "fr": "Núcleo da Alma Incandescente"
+        },
+        "type": "Normal",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A101.png",
@@ -3680,26 +3972,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Core of the Blazing Soul",
       "fr": "Núcleo da Alma Incandescente"
     },
-    "type": "Support - Normal",
     "cost": 1,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A102": {
     "id": "A102",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Nucleo da Brisa Primordial",
-        "type": "Support - Normal",
+        "name": {
+          "en": "Core of the Primordial Breeze",
+          "fr": "Núcleo da Brisa Primordial"
+        },
+        "type": "Normal",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A102.png",
@@ -3708,26 +4001,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Core of the Primordial Breeze",
       "fr": "Núcleo da Brisa Primordial"
     },
-    "type": "Support - Normal",
     "cost": 1,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A103": {
     "id": "A103",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Nucleo da Chuva Ancestral",
-        "type": "Support - Response",
+        "name": {
+          "en": "Core of the Ancestral Rain",
+          "fr": "Núcleo da Chuva Ancestral"
+        },
+        "type": "Response",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A103.png",
@@ -3736,26 +4030,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Core of the Ancestral Rain",
       "fr": "Núcleo da Chuva Ancestral"
     },
-    "type": "Support - Response",
     "cost": 1,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Response",
+      "fr": "Resposta"
+    }
   },
   "A104": {
     "id": "A104",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Nucleo do Guardaiao Terreno",
-        "type": "Support - Response",
+        "name": {
+          "en": "Core of the Earthbound Guardian",
+          "fr": "Núcleo do Guardaião Terreno"
+        },
+        "type": "Response",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A104.png",
@@ -3764,26 +4059,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Core of the Earthbound Guardian",
       "fr": "Núcleo do Guardaião Terreno"
     },
-    "type": "Support - Response",
     "cost": 1,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Response",
+      "fr": "Resposta"
+    }
   },
   "A105": {
     "id": "A105",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Nucleo da Luminancia Eterna",
-        "type": "Support - Normal",
+        "name": {
+          "en": "Core of Eternal Luminescence",
+          "fr": "Núcleo da Luminância Eterna"
+        },
+        "type": "Normal",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A105.png",
@@ -3792,26 +4088,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Core of Eternal Luminescence",
       "fr": "Núcleo da Luminância Eterna"
     },
-    "type": "Support - Normal",
     "cost": 1,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A106": {
     "id": "A106",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ascenso do Escolhido",
-        "type": "Support - Normal",
+        "name": {
+          "en": "Rise of the Chosen One",
+          "fr": "Ascensão do Escolhido"
+        },
+        "type": "Normal",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A106.png",
@@ -3820,26 +4117,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Rise of the Chosen One",
       "fr": "Ascensão do Escolhido"
     },
-    "type": "Support - Normal",
     "cost": 2,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A107": {
     "id": "A107",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Onda de Purificacao",
-        "type": "Support - Normal",
+        "name": {
+          "en": "Purification Wave",
+          "fr": "Onda de Purificação"
+        },
+        "type": "Normal",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A107.png",
@@ -3848,26 +4146,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Purification Wave",
       "fr": "Onda de Purificação"
     },
-    "type": "Support - Normal",
     "cost": 2,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A108": {
     "id": "A108",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Recarga Turbulenta",
-        "type": "Support - Normal",
+        "name": {
+          "en": "Turbulent Recharge",
+          "fr": "Recarga Turbulenta"
+        },
+        "type": "Normal",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A108.png",
@@ -3876,26 +4175,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Turbulent Recharge",
       "fr": "Recarga Turbulenta"
     },
-    "type": "Support - Normal",
     "cost": 2,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A109": {
     "id": "A109",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Rebobinar",
-        "type": "Support - Normal",
+        "name": {
+          "en": "Rewind",
+          "fr": "Rebobinar"
+        },
+        "type": "Normal",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A109.png",
@@ -3904,26 +4204,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Rewind",
       "fr": "Rebobinar"
     },
-    "type": "Support - Normal",
     "cost": 2,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A110": {
     "id": "A110",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Pocao de Remocao de Status",
-        "type": "Support - Equipment",
+        "name": {
+          "en": "Status Removal Potion",
+          "fr": "Poção de Remoção de Status"
+        },
+        "type": "Equipment",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A110.png",
@@ -3932,26 +4233,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Status Removal Potion",
       "fr": "Poção de Remoção de Status"
     },
-    "type": "Support - Equipment",
     "cost": 2,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Equipment",
+      "fr": "Equipamento"
+    }
   },
   "A111": {
     "id": "A111",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Pocao de Cura",
-        "type": "Support - Normal",
+        "name": {
+          "en": "Healing Potion",
+          "fr": "Poção de Cura"
+        },
+        "type": "Normal",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A111.png",
@@ -3960,26 +4262,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Healing Potion",
       "fr": "Poção de Cura"
     },
-    "type": "Support - Normal",
     "cost": 1,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A112": {
     "id": "A112",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Medalhao da Centelha Absoluta",
-        "type": "Support - Normal",
+        "name": {
+          "en": "Absolute Spark Medallion",
+          "fr": "Medalhão da Centelha Absoluta"
+        },
+        "type": "Normal",
         "cost": 3,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A112.png",
@@ -3988,26 +4291,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Absolute Spark Medallion",
       "fr": "Medalhão da Centelha Absoluta"
     },
-    "type": "Support - Normal",
     "cost": 3,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A113": {
     "id": "A113",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Tufao",
-        "type": "Support - Normal",
+        "name": {
+          "en": "Typhoon",
+          "fr": "Tufão"
+        },
+        "type": "Normal",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A113.png",
@@ -4016,26 +4320,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Typhoon",
       "fr": "Tufão"
     },
-    "type": "Support - Normal",
     "cost": 1,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A114": {
     "id": "A114",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Pocao de Cura Maior",
-        "type": "Support - Normal",
+        "name": {
+          "en": "Greater Healing Potion",
+          "fr": "Poção de Cura Maior"
+        },
+        "type": "Normal",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A114.png",
@@ -4044,26 +4349,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Greater Healing Potion",
       "fr": "Poção de Cura Maior"
     },
-    "type": "Support - Normal",
     "cost": 2,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A115": {
     "id": "A115",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Buraco Negro",
-        "type": "Support - Normal",
+        "name": {
+          "en": "Black Hole",
+          "fr": "Buraco Negro"
+        },
+        "type": "Normal",
         "cost": 5,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A115.png",
@@ -4072,27 +4378,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Black Hole",
       "fr": "Buraco Negro"
     },
-    "type": "Support - Normal",
     "cost": 5,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null,
-    "Banlist": "Limited"
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
   },
   "A116": {
     "id": "A116",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Teletransporte de Emergencia",
-        "type": "Support - Response",
+        "name": {
+          "en": "Emergence Transport",
+          "fr": "Teletransporte de Emergência"
+        },
+        "type": "Response",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A116.png",
@@ -4101,27 +4407,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Emergence Transport",
       "fr": "Teletransporte de Emergência"
     },
-    "type": "Support - Response",
     "cost": 2,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null,
-    "Banlist": "Limited"
+    "support_type": {
+      "en": "Response",
+      "fr": "Resposta"
+    }
   },
   "A117": {
     "id": "A117",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Reencarnacao Flamejante",
-        "type": "Support - Response",
+        "name": {
+          "en": "Flaming Reincarnation",
+          "fr": "Reencarnação Flamejante"
+        },
+        "type": "Response",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A117.png",
@@ -4130,26 +4436,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Flaming Reincarnation",
       "fr": "Reencarnação Flamejante"
     },
-    "type": "Support - Response",
     "cost": 1,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Response",
+      "fr": "Resposta"
+    }
   },
   "A118": {
     "id": "A118",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Alterar probabilidades",
-        "type": "Support - Response",
+        "name": {
+          "en": "Probability Alteration",
+          "fr": "Alterar probabilidades"
+        },
+        "type": "Response",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A118.png",
@@ -4158,26 +4465,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Probability Alteration",
       "fr": "Alterar probabilidades"
     },
-    "type": "Support - Response",
     "cost": 2,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Response",
+      "fr": "Resposta"
+    }
   },
   "A119": {
     "id": "A119",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Acenda! Chamas do Milagre!",
-        "type": "Support - Response",
+        "name": {
+          "en": "Ignite! Flames of Miracle!",
+          "fr": "Acenda! Chamas do Milagre!"
+        },
+        "type": "Response",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A119.png",
@@ -4186,26 +4494,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Ignite! Flames of Miracle!",
       "fr": "Acenda! Chamas do Milagre!"
     },
-    "type": "Support - Response",
     "cost": 2,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Response",
+      "fr": "Resposta"
+    }
   },
   "A120": {
     "id": "A120",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Monolito do Guardiao",
-        "type": "Support - Field",
+        "name": {
+          "en": "Monolith of the Guardians",
+          "fr": "Monólito do Guardião"
+        },
+        "type": "Field",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A120.png",
@@ -4214,26 +4523,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Monolith of the Guardians",
       "fr": "Monólito do Guardião"
     },
-    "type": "Support - Field",
     "cost": 2,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Field",
+      "fr": "Campo"
+    }
   },
   "A121": {
     "id": "A121",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Bloqueio",
-        "type": "Support - Response",
+        "name": {
+          "en": "Block",
+          "fr": "Bloqueio"
+        },
+        "type": "Response",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A121.png",
@@ -4242,27 +4552,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Block",
       "fr": "Bloqueio"
     },
-    "type": "Support - Response",
     "cost": 1,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null,
-    "Banlist": "Limited"
+    "support_type": {
+      "en": "Response",
+      "fr": "Resposta"
+    }
   },
   "A122": {
     "id": "A122",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Escudo da Provocacao",
-        "type": "Support - Equipment",
+        "name": {
+          "en": "Shield of Provocation",
+          "fr": "Escudo da Provocação"
+        },
+        "type": "Equipment",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A122.png",
@@ -4271,26 +4581,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Shield of Provocation",
       "fr": "Escudo da Provocação"
     },
-    "type": "Support - Equipment",
     "cost": 2,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Equipment",
+      "fr": "Equipamento"
+    }
   },
   "A123": {
     "id": "A123",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Lamina Esmeralda",
-        "type": "Support - Equipment",
+        "name": {
+          "en": "Emerald Blade",
+          "fr": "Lâmina Esmeralda"
+        },
+        "type": "Equipment",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A123.png",
@@ -4299,26 +4610,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Emerald Blade",
       "fr": "Lâmina Esmeralda"
     },
-    "type": "Support - Equipment",
     "cost": 2,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Equipment",
+      "fr": "Equipamento"
+    }
   },
   "A124": {
     "id": "A124",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Expansao de Vigor",
-        "type": "Support - Equipment",
+        "name": {
+          "en": "Vitality Expansion",
+          "fr": "Expansão de Vigor"
+        },
+        "type": "Equipment",
         "cost": 3,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A124.png",
@@ -4327,26 +4639,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Vitality Expansion",
       "fr": "Expansão de Vigor"
     },
-    "type": "Support - Equipment",
     "cost": 3,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Equipment",
+      "fr": "Equipamento"
+    }
   },
   "A125": {
     "id": "A125",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Correntes de Poder",
-        "type": "Support - Equipment",
+        "name": {
+          "en": "Chains of Power",
+          "fr": "Correntes de Poder"
+        },
+        "type": "Equipment",
         "cost": 1,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A125.png",
@@ -4355,26 +4668,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Chains of Power",
       "fr": "Correntes de Poder"
     },
-    "type": "Support - Equipment",
     "cost": 1,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Equipment",
+      "fr": "Equipamento"
+    }
   },
   "A126": {
     "id": "A126",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Armadura de Fogo e Gelo",
-        "type": "Support - Equipment",
+        "name": {
+          "en": "Fire and Ice Armor",
+          "fr": "Armadura de Fogo e Gelo"
+        },
+        "type": "Equipment",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A126.png",
@@ -4383,26 +4697,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Fire and Ice Armor",
       "fr": "Armadura de Fogo e Gelo"
     },
-    "type": "Support - Equipment",
     "cost": 2,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Equipment",
+      "fr": "Equipamento"
+    }
   },
   "A127": {
     "id": "A127",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Espaco",
-        "type": "Support - Field",
+        "name": {
+          "en": "Space",
+          "fr": "Espaço"
+        },
+        "type": "Field",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A127.png",
@@ -4411,26 +4726,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Space",
       "fr": "Espaço"
     },
-    "type": "Support - Field",
     "cost": 2,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Field",
+      "fr": "Campo"
+    }
   },
   "A128": {
     "id": "A128",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Vulcao",
-        "type": "Support - Field",
+        "name": {
+          "en": "Volcano",
+          "fr": "Vulcão"
+        },
+        "type": "Field",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A128.png",
@@ -4439,26 +4755,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Volcano",
       "fr": "Vulcão"
     },
-    "type": "Support - Field",
     "cost": 2,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Field",
+      "fr": "Campo"
+    }
   },
   "A129": {
     "id": "A129",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Caverna",
-        "type": "Support - Field",
+        "name": {
+          "en": "Cave",
+          "fr": "Caverna"
+        },
+        "type": "Field",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A129.png",
@@ -4467,26 +4784,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Cave",
       "fr": "Caverna"
     },
-    "type": "Support - Field",
     "cost": 2,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Field",
+      "fr": "Campo"
+    }
   },
   "A130": {
     "id": "A130",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Oceano",
-        "type": "Support - Field",
+        "name": {
+          "en": "Ocean",
+          "fr": "Oceano"
+        },
+        "type": "Field",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A130.png",
@@ -4495,26 +4813,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Ocean",
       "fr": "Oceano"
     },
-    "type": "Support - Field",
     "cost": 2,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Field",
+      "fr": "Campo"
+    }
   },
   "A131": {
     "id": "A131",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Montanha",
-        "type": "Support - Field",
+        "name": {
+          "en": "Mountain",
+          "fr": "Montanha"
+        },
+        "type": "Field",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A131.png",
@@ -4523,26 +4842,27 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Mountain",
       "fr": "Montanha"
     },
-    "type": "Support - Field",
     "cost": 2,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Field",
+      "fr": "Campo"
+    }
   },
   "A132": {
     "id": "A132",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ceu",
-        "type": "Support - Field",
+        "name": {
+          "en": "Sky",
+          "fr": "Céu"
+        },
+        "type": "Field",
         "cost": 2,
         "image": {
           "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/A132.png",
@@ -4551,25 +4871,26 @@
         "isHorizontal": false
       }
     },
+    "type": "Support",
     "name": {
       "en": "Sky",
       "fr": "Céu"
     },
-    "type": "Support - Field",
     "cost": 2,
-    "effect": {
-      "en": "Yes",
-      "fr": "Sim"
-    },
-    "attribute": null,
-    "class": null
+    "support_type": {
+      "en": "Field",
+      "fr": "Campo"
+    }
   },
   "A133": {
     "id": "A133",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Eldertree a arvore Guardia da Floresta",
+        "name": {
+          "en": "Eldertree, the Guardian Tree of the Forest",
+          "fr": "Eldertree, a árvore Guardiã da Floresta"
+        },
         "type": "Character",
         "cost": 1,
         "image": {
@@ -4579,24 +4900,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Eldertree, the Guardian Tree of the Forest",
       "fr": "Eldertree, a árvore Guardiã da Floresta"
     },
-    "type": "Character",
     "cost": 1,
-    "attribute": {
-      "en": "Earth",
-      "fr": "Terra"
-    },
-    "class": {
+    "LP": "60",
+    "type_card": {
       "en": "Nature",
       "fr": "Natureza"
     },
-    "hp": "60",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Conditional",
+      "fr": "Condicional"
+    },
+    "attribute": {
+      "en": "Earth",
+      "fr": "Terra"
     }
   },
   "A134": {
@@ -4604,7 +4925,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Eldertree o Drago Anciao",
+        "name": {
+          "en": "Eldertree, the Ancient Dragon",
+          "fr": "Eldertree, o Dragão Ancião"
+        },
         "type": "Character",
         "cost": 4,
         "image": {
@@ -4614,24 +4938,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Eldertree, the Ancient Dragon",
       "fr": "Eldertree, o Dragão Ancião"
     },
-    "type": "Character",
     "cost": 4,
-    "attribute": {
-      "en": "Earth",
-      "fr": "Terra"
-    },
-    "class": {
+    "LP": "180",
+    "type_card": {
       "en": "Nature",
       "fr": "Natureza"
     },
-    "hp": "180",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Conditional",
+      "fr": "Condicional"
+    },
+    "attribute": {
+      "en": "Earth",
+      "fr": "Terra"
     }
   },
   "A135": {
@@ -4639,7 +4963,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Tezla o Mecha-Cientista",
+        "name": {
+          "en": "Tezla, the Mecha-Scientist",
+          "fr": "Tezla o Mecha-Cientista"
+        },
         "type": "Character",
         "cost": 3,
         "image": {
@@ -4649,24 +4976,24 @@
         "isHorizontal": false
       }
     },
+    "type": "Character",
     "name": {
       "en": "Tezla, the Mecha-Scientist",
       "fr": "Tezla o Mecha-Cientista"
     },
-    "type": "Character",
     "cost": 3,
-    "attribute": {
-      "en": "Neutral",
-      "fr": "Neutro"
-    },
-    "class": {
+    "LP": "120",
+    "type_card": {
       "en": "Machine",
       "fr": "Máquina"
     },
-    "hp": "120",
     "effect": {
-      "en": "Yes",
-      "fr": "Sim"
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
+    "attribute": {
+      "en": "Neutral",
+      "fr": "Neutro"
     }
   }
 }
