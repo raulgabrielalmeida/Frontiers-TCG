@@ -206,7 +206,7 @@
   
   "defaultRessources": {
     "backgrounds": [],
-    "decksUrl":""
+    "decksUrl":"test/Frontiers-TCG-structural-decks.json"
   },
   "customHelp": " translations.customHelp ",
   "cardRotation": "45",
