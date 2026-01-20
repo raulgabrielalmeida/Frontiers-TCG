@@ -1,6 +1,19 @@
 {
   "name": "Frontiers TCG GAME TEST",
   "menuBackgroundImage": "https://cdn.shopify.com/s/files/1/0712/9409/1574/files/162556_1_orig_1600x.jpg?v=1745341558",
+
+  "defaultRessources": {
+    "backgrounds": [],
+    "decksUrl": "https://raulgabrielalmeida.github.io/Frontiers-TCG/test/Frontiers-TCG-structural-decks.json"
+  },
+  "customHelp": " translations.customHelp ",
+  "cardRotation": "45",
+  "cards": {
+    "dataUrl": "https://raulgabrielalmeida.github.io/Frontiers-TCG/test/Frontiers-TCG-cards.json",
+    "cardBack": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/back.png"
+  },
+  "translationsUrl": "https://raulgabrielalmeida.github.io/Frontiers-TCG/test/Translations.json",
+
   "deckBuilding": {
     "mainFilters": ["name", "type", "cost"],
     "formats": [
@@ -9,7 +22,6 @@
         "gameplay": "Standard",
         "deckRuleset": "Standard",
         "customCategories": []
-        
       },
       {
         "title": "Unlimited",
@@ -41,7 +53,6 @@
   },
 
   "gameplay": {
-
     "Standard": {
       "mulligan": {
         "info": " translations.mulliganInfo ",
@@ -93,7 +104,7 @@
 
       "countersStartingValues": ["12"],
       "hideFacedDownCards": true,
-      
+
       "sections": {
         "customSections": ["Battlefield", "FieldZone", "Mana"],
         "layout": {
@@ -133,7 +144,7 @@
 
         "categoriesAlreadyOnBoard": ["Mana"],
 
-       "autoPlayFromHand": {
+        "autoPlayFromHand": {
           "Mana": "Mana",
           "Character": "Battlefield",
           "Normal": "Stack",
@@ -201,20 +212,5 @@
         }
       }
     }
-    
-  },
-  
-  "defaultRessources": {
-    "backgrounds": [],
-    "decksUrl":"test/Frontiers-TCG-structural-decks.json"
-  },
-  "customHelp": " translations.customHelp ",
-  "cardRotation": "45",
-  "cards": {
-    "dataUrl": "https://raulgabrielalmeida.github.io/Frontiers-TCG/test/Frontiers-TCG-cards.json",
-    "cardBack": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/back.png"
-  },
-
-    "translationsUrl": "https://raulgabrielalmeida.github.io/Frontiers-TCG/test/Translations.json"
-
+  }
 }
