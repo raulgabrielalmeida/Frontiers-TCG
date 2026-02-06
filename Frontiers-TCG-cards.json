@@ -4995,5 +4995,378 @@
       "en": "Neutral",
       "fr": "Neutro"
     }
+  },
+  "B001": {
+    "id": "B001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Helena, the Wandering Paladin",
+          "fr": "Helena, a Paladina Errante"
+        },
+        "type": "Character",
+        "cost": 4,
+        "image": {
+          "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/B001.png",
+          "fr": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards/B001.png"
+        },
+        "isHorizontal": false
+      }
+    },
+    "type": "Character",
+    "name": {
+      "en": "Helena, the Wandering Paladin",
+      "fr": "Helena, a Paladina Errante"
+    },
+    "cost": 4,
+    "LP": "140",
+    "type_card": {
+      "en": "Celestial",
+      "fr": "Celestial"
+    },
+    "effect": {
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
+    "attribute": {
+      "en": "Light",
+      "fr": "Luz"
+    }
+  },
+  "B002": {
+    "id": "B002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Akita, the Wandering Cleric",
+          "fr": "Akita, a Clériga Errante"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/B002.png",
+          "fr": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards/B002.png"
+        },
+        "isHorizontal": false
+      }
+    },
+    "type": "Character",
+    "name": {
+      "en": "Akita, the Wandering Cleric",
+      "fr": "Akita, a Clériga Errante"
+    },
+    "cost": 2,
+    "LP": "70",
+    "type_card": {
+      "en": "Nocturnal",
+      "fr": "Noturno"
+    },
+    "effect": {
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
+    "attribute": {
+      "en": "Dark",
+      "fr": "Trevas"
+    }
+  },
+  "B003": {
+    "id": "B003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Red Vermillion, the Wandering Cat",
+          "fr": "Red Vermillion, o Gato Errante"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/B003.png",
+          "fr": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards/B003.png"
+        },
+        "isHorizontal": false
+      }
+    },
+    "type": "Character",
+    "name": {
+      "en": "Red Vermillion, the Wandering Cat",
+      "fr": "Red Vermillion, o Gato Errante"
+    },
+    "cost": 2,
+    "LP": "60",
+    "type_card": {
+      "en": "Beast",
+      "fr": "Besta"
+    },
+    "effect": {
+      "en": "Ignition",
+      "fr": "Ignição"
+    },
+    "attribute": {
+      "en": "Fire",
+      "fr": "Fogo"
+    }
+  },
+  "B004": {
+    "id": "B004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Elise, the Wandering Lady",
+          "fr": "Elise, a Ladina Errante"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/B004.png",
+          "fr": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards/B004.png"
+        },
+        "isHorizontal": false
+      }
+    },
+    "type": "Character",
+    "name": {
+      "en": "Elise, the Wandering Lady",
+      "fr": "Elise, a Ladina Errante"
+    },
+    "cost": 2,
+    "LP": "60",
+    "type_card": {
+      "en": "Fairy",
+      "fr": "Fada"
+    },
+    "effect": {
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
+    "attribute": {
+      "en": "Wind",
+      "fr": "Vento"
+    }
+  },
+  "B005": {
+    "id": "B005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Holivia, the Wandering Barbarian",
+          "fr": "Holivia, o Bárbaro Errante"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/B005.png",
+          "fr": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards/B005.png"
+        },
+        "isHorizontal": false
+      }
+    },
+    "type": "Character",
+    "name": {
+      "en": "Holivia, the Wandering Barbarian",
+      "fr": "Holivia, o Bárbaro Errante" 
+    },
+    "cost": 3,
+    "LP": "70",
+    "type_card": {
+      "en": "Beast",
+      "fr": "Besta"
+    },
+    "effect": {
+      "en": "Continuous",
+      "fr": "Contínuo"
+    },
+    "attribute": {
+      "en": "Water",
+      "fr": "Água"
+    }
+  },
+  "B006": {
+    "id": "B006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Windstorm",
+          "fr": "Windstorm"
+        },
+        "type": "Field",
+        "cost": 2,
+        "image": {
+          "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/B006.png",
+          "fr": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards/B006.png"
+        },
+        "isHorizontal": false
+      }
+    },
+    "type": "Support",
+    "name": {
+      "en": "Windstorm",
+      "fr": "Windstorm"
+    },
+    "cost": 2,
+    "support_type": {
+      "en": "Field",
+      "fr": "Campo"
+    }
+  },
+  "B007": {
+    "id": "B007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Wandering Sign",
+          "fr": "Insígnia dos Errantes"
+        },
+        "type": "Normal",
+        "cost": 1,
+        "image": {
+          "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/B007.png",
+          "fr": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards/B007.png"
+        },
+        "isHorizontal": false
+      }
+    },
+    "type": "Support",
+    "name": {
+      "en": "Wandering Sign",
+      "fr": "Insígnia dos Errantes"
+    },
+    "cost": 1,
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
+  },
+  "B008": {
+    "id": "B008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Fireball",
+          "fr": "Bola de Fogo"
+        },
+        "type": "Normal",
+        "cost": 1,
+        "image": {
+          "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/B008.png",
+          "fr": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards/B008.png"
+        },
+        "isHorizontal": false
+      }
+    },
+    "type": "Support",
+    "name": {
+      "en": "Fireball",
+      "fr": "Bola de Fogo"
+    },
+    "cost": 1,
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
+  },
+  "B009": {
+    "id": "B009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Red Card",
+          "fr": "Cartão Vermelha"
+        },
+        "type": "Normal",
+        "cost": 1,
+        "image": {
+          "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/B009.png",
+          "fr": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards/B009.png"
+        },
+        "isHorizontal": false
+      }
+    },
+    "type": "Support",
+    "name": {
+      "en": "Red Card",
+      "fr": "Cartão Vermelha"
+    },
+    "cost": 1,
+    "support_type": {
+      "en": "Normal",
+      "fr": "Normal"
+    }
+  },
+  "B010": {
+    "id": "B010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "New Horizon",
+          "fr": "Nova Horizon"
+        },
+        "type": "Field",
+        "cost": 2,
+        "image": {
+          "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/B010.png",
+          "fr": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards/B010.png"
+        },
+        "isHorizontal": false
+      }
+    },
+    "type": "Support",
+    "name": {
+      "en": "New Horizon",
+      "fr": "Nova Horizon"
+    },
+    "cost": 2,
+    "support_type": {
+      "en": "Field",
+      "fr": "Campo"
+    }
+  },
+  "B011": {
+    "id": "B011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Dub",
+          "fr": "Dub"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards-en/B011.png",
+          "fr": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/cards/B011.png"
+        },
+        "isHorizontal": false
+      }
+    },
+    "type": "Character",
+    "name": {
+      "en": "Dub",
+      "fr": "Dub"
+    },
+    "cost": 1,
+    "LP": "30",
+    "type_card": {
+      "en": "Machine",
+      "fr": "Máquina"
+    },
+    "effect": {
+      "en": "Conditional",
+      "fr": "Condicional"
+    },
+    "attribute": {
+      "en": "Neutral",
+      "fr": "Neutro"
+    }
   }
 }
